@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://unpkg.com/bibtex-js-parser/umd/bibtex-js-parser.js"></script>
+  </head>
+  <body>
+    <script>
+      function resoluteBibtex(bibtex_source) {
+        // BibTeXソースを要素ごとの連想配列に分解
+        var bibtex_source_tailcut = bibtex_source.replace(/}[ \n]*}/, ""); //　末尾の'} }'を削除
+        var bibtex_splitted = bibtex_source_tailcut.split(/},[ \n]*/);
+
+        var bibtex_contents = {};
+        var value, value_splitted;
+
+        console.log(bibtex_splitted);
+
+        for (var index in bibtex_splitted) {
+          value = bibtex_splitted[index];
+
+          // @xxxxx{label, となっている部分の対応
+          if (value.charAt(0) == "@") {
+            value_splitted = value.split("{");
+            bibtex_contents["@"] = value_splitted[0];
+            bibtex_contents["label"] = value_splitted[1].substring(
+              0,
+              value_splitted[1].indexOf(",")
+            );
+            var next_content_by_label = value_splitted[1].replace(
+              /[ \w]*, */,
+              ""
+            );
+            bibtex_contents[next_content_by_label.replace("=", "")] =
+              value_splitted[2];
+          } else {
+            value_splitted = value.split("={");
+            bibtex_contents[value_splitted[0]] = value_splitted[1];
+          }
+        }
+
+        return bibtex_contents;
+      }
+
+      input = `
+      @article{Santos2021b,
+ author = {Santos, Luciano Henrique De Oliveira and Okamoto, Kazuya and Otsuki, Ryo and Hiragi, Shusuke and Yamamoto, Goshiro and Sugiyama, Osamu and Aoyama, Tomoki and Kuroda, Tomohiro},
+ doi = {10.2196/16458},
+ file = {:C\:/Dropbox/Estudos/Artigos/mendeley-org/2021 - Santos et al. - Promoting Physical Activity in Japanese Older Adults Using a Social Pervasive Game Randomized Controlled Trial.pdf:pdf},
+ issn = {2291-9279},
+ journal = {JMIR Serious Games},
+ month = {jan},
+ number = {1},
+ pages = {e16458},
+ pmid = {33404507},
+ title = {Promoting Physical Activity in Japanese Older Adults Using a Social Pervasive Game: Randomized Controlled Trial},
+ url = {https://games.jmir.org/2021/1/e16458},
+ volume = {9},
+ year = {2021}
+}
+      `;
+      let hoge = resoluteBibtex(input);
+
+      console.log(hoge);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,45 @@
+button.yearButton {
+    width: 70px;
+    height: 2.5em;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 4px;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: calc(.5em - 1px);
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: calc(.5em - 1px);
+  }
+  
+  button.selectedYear {
+    color: white;
+    background-color: rgb(1, 1, 111);
+    border: 1px solid;
+    border-color: rgb(87, 87, 87);
+  }
+  
+  button.unselectedYear {
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(87, 87, 87);
+    color: rgb(87, 87, 87);
+  }
+  
+  li.biblist {
+    line-height: 1.2;
+    padding: 0.5em 0;
+    margin-top: 5px;
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .inner {
+    padding-top: 30px;
+    display: inline-block;
+    justify-content: space-evenly;
+  }

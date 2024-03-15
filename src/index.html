@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
+    />
+    <link rel="stylesheet" href="./biblist_style.css" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div id="app">
+      <div class="container">
+        <div class="content">
+          <div class="inner">
+            <button
+              @click="setYear('')"
+              :class="{selectedYear: isSelect(''), unselectedYear: !isSelect('')}"
+              class="button"
+            >
+              All
+            </button>
+            <button
+              v-for="y in yearList"
+              @click="setYear(y)"
+              :class="{selectedYear: isSelect(y), unselectedYear: !isSelect(y)}"
+              class="button"
+            >
+              {{y}}
+            </button>
+          </div>
+        </div>
+
+        <input type="text" v-model="title" placeholder="Search title..." />
+
+        <select name="type" id="paper-type" v-model="type">
+          <option value="" selected>Paper type</option>
+          <option value="conference">Conference paper</option>
+          <option value="journal">Journal article</option>
+          <option value="book">Book section</option>
+        </select>
+
+        <li
+          v-for="bib in bibtexFilter(this.bibdatabase, this.year, this.title, this.type)"
+          :key="bib.id"
+        >
+          {{bib.author}} ({{bib.year}}).
+          <span style="font-weight: bold">{{bib.title}}</span>.
+          <span style="font-style: oblique">{{bib.book}}</span>.
+          <span v-if="bib.doi!=''"><a href="{{bib.doi}}">{{bib.doi}}</a>.</span>
+        </li>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/vue@2.6.14/dist/vue.min.js"></script>
+    <script src="./biblist_test.js"></script>
+  </body>
+</html>
