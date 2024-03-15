@@ -281,7 +281,7 @@ def cite_str(bib_entry):
 
 
 def read_bibtex(filename):
-    with open(filename) as bibtex_file:
+    with open(filename, encoding="utf-8") as bibtex_file:
         bib_database = bibtexparser.load(bibtex_file)
     return bib_database
 
@@ -301,7 +301,7 @@ def main():
     bib_database = read_bibtex("out.bib")
     html = BibtexFactoryForJS(bib_database).factory()
 
-    with open("biblist.js", "w") as f:
+    with open("biblist.js", "w", encoding="utf-8") as f:
         f.write(html)
 
 

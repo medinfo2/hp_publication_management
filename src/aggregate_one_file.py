@@ -1,3 +1,5 @@
+# coding=utf-8
+
 import glob
 import os
 from pprint import pprint
@@ -6,7 +8,7 @@ filelist = sorted(glob.glob("../data/*"))
 
 # pprint(filelist)
 
-with open("out.bib", "w") as f:
+with open("out.bib", "w", encoding="utf-8") as f:
     for d in filelist:
         # ディレクトリでなければスキップ
         if not os.path.isdir(d):
@@ -17,8 +19,7 @@ with open("out.bib", "w") as f:
         # 1個以上だとおかしいことになるのでチェック
         if len(bibfile_path) != 1:
             raise ValueError()
-       	//for line in open(bibfile_path[0]):
-	for line in open(bibfile_path[0], encoding='utf-8'):
-
+       	#for line in open(bibfile_path[0]):
+        for line in open(bibfile_path[0], "r", encoding="utf-8"):
             f.write(line)
         f.write("")
