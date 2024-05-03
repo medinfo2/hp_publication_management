@@ -305,5 +305,15 @@ def main():
         f.write(html)
 
 
+def main2():
+    # "./src/out.bib"
+    bib_database = read_bibtex("./src/out.bib")
+    html = BibtexFactoryForJS(bib_database).factory()
+
+    with open("./src/biblist.js", "w", encoding="utf-8") as f:
+        f.write(html)
+
+
 if __name__ == "__main__":
     main()
+ 

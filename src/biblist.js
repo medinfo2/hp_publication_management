@@ -46,6 +46,7 @@
             year: "",
             type: "",
 yearList: [
+2024,
 2023,
 2022,
 2021,
@@ -80,12 +81,12 @@ yearList: [
 bibdatabase: [
   {
             'id': '0',
-            'author': '鎌滝智哉, 染谷真紀, 黒田知宏, 荒船龍彦',
-            'title': '小児救急における骨髄路確保用骨髄穿刺トレーニングシステム',
-            'year': '2023',
-            'book': '第32回 日本コンピュータ外科学会大会',
-            'doi': 'https://doi.org/',
-            'type': 'conference',
+            'author': 'Yuki Kuroda, Goshiro Yamamoto, Tomohiro Kuroda',
+            'title': 'Identifying undefined risks: A risk model and a privacy risk identification measure in the privacy impact assessment process',
+            'year': '2024',
+            'book': 'The Information Society',
+            'doi': 'https://doi.org/10.1080/01972243.2024.2332319',
+            'type': 'journal',
             'bibtex': `@incollection{Santos2019e,
  abstract = {We present the design process and evaluation of a pervasive, location-based mobile game created to act as an experiment system and allow evaluation of how different design elements can influence player behaviour, using social interaction as a study case. A feasibility study with a group of community dwelling elderly volunteers from the city of Kyoto, Japan, was performed to evaluate the system. Results showed that the choice of theme and overall design of game was adequate, and that elderly people could understand the game rules and their goals while playing. Points of improvement included reducing the complexity of game controls and changing social interaction mechanics to account for situations when there are only a few players active or players are too far apart.},
  author = {Santos, Luciano Henrique Oliveira and Okamoto, Kazuya and Hiragi, Shusuke and Yamamoto, Goshiro and Sugiyama, Osamu and Aoyama, Tomoki and Kuroda, Tomohiro},
@@ -101,12 +102,12 @@ bibdatabase: [
 
   {
             'id': '1',
-            'author': 'Kenji Yoshitsugu, Kazumasa Kishimoto, Tadamasa Takemura',
-            'title': 'Diagnosis of Benign or Malignant Mammography Using Radiomics with Generated Whole Breast Mask',
+            'author': '田中良樹 御手洗彰 劉暢 江口佳那 植嶋大晃 森由希子 山本豪志朗 黒田知宏',
+            'title': '表面筋電測定を用いた筋力の定量評価方法の検討',
             'year': '2023',
-            'book': 'IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology',
-            'doi': 'https://doi.org/',
-            'type': 'conference',
+            'book': '第43回 医療情報学連合大会',
+            'doi': '',
+            'type': 'journal',
             'bibtex': `@article{Santos2019d,
  author = {Santos, Luciano HO and Okamoto, Kazuya and Hiragi, Shusuke and Yamamoto, Goshiro and Sugiyama, Osamu and Aoyama, Tomoki and Kuroda, Tomohiro},
  doi = {10.1177/2055668319844443},
@@ -124,12 +125,12 @@ bibdatabase: [
 
   {
             'id': '2',
-            'author': 'Kazumasa Kishimoto, Masahiro Yakami, Osamu Sugiyama, Tomohiro, Kuroda',
-            'title': 'Investigation of Radiologist Diagnostic Workload Prediction without CT Images Using Multimodal Deep Learning',
+            'author': '福山 啓太 森 由希子 植嶋 大晃 黒田 知宏',
+            'title': '経時的な薬価と処置料改定に対応したマスター作成',
             'year': '2023',
-            'book': 'IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology',
-            'doi': 'https://doi.org/',
-            'type': 'conference',
+            'book': '第43回 医療情報学連合大会',
+            'doi': '',
+            'type': 'journal',
             'bibtex': `@incollection{Santos2019c,
  abstract = {We present the design process and evaluation of a set of new social interaction mechanics in a mobile, location-based game, developed to explore the effect of variations in design elements in elderly people's levels of physical activity. The game had previously been evaluated in Kyoto, Japan, and new social interaction mechanics were proposed and evaluated in a different cultural context, Brazil, with a group of elderly volunteers in the Brazilian city of Pelotas. The cultural adaptation was made in a way to preserve the core design principles of the game and allow for evaluation of the new proposed social interactions, which were found to create a more enjoyable and engaging experience for the players.},
  address = {Singapore},
@@ -149,10 +150,10 @@ bibdatabase: [
 
   {
             'id': '3',
-            'author': 'Roberto Espinoza Chamorro, Chang Liu, Kazumasa Kishimoto, Goshiro Yamamoto, Yukiko Mori, Santos Luciano, Tomohiro, Kuroda',
-            'title': 'Adjusting Twitter Data As a Source for Blood Donation Analysis: BDT-UC Dataset and BERT Implementations',
+            'author': '植嶋大晃, 森由希子, 加藤源太, 中山健夫, 今村知明, 康永秀生, 田宮菜奈子, 杉山雄大, 大寺祥佑, 山本喜一, 松岡歩, 岩渕菜穂子, 黒田知宏',
+            'title': '介護DBを用いた基礎的集計および「介護DBコードブック」の作成',
             'year': '2023',
-            'book': 'IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology',
+            'book': '第82回 日本公衆衛生学会総会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@article{Santos2019b,
@@ -175,10 +176,10 @@ bibdatabase: [
 
   {
             'id': '4',
-            'author': '植嶋大晃, 森由希子, 加藤源太, 中山健夫, 今村知明, 康永秀生, 田宮菜奈子, 杉山雄大, 大寺祥佑, 山本喜一, 松岡歩, 岩渕菜穂子, 黒田知宏',
-            'title': '介護DBを用いた基礎的集計および「介護DBコードブック」の作成',
+            'author': '山﨑一幸, 加藤源太, 栗山明, 本間健太郎, 松川香菜, 石黒雅代, 小谷将司, 森由希子, 黒田知宏, 大鶴繁, 妹尾浩',
+            'title': '救急外来からの入院が病院稼働額に及ぼす影響',
             'year': '2023',
-            'book': '第82回 日本公衆衛生学会総会',
+            'book': '第51回 日本救急医学会総会・学術集会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@inproceedings{Santos2019a,
@@ -196,10 +197,10 @@ bibdatabase: [
 
   {
             'id': '5',
-            'author': '山﨑一幸, 加藤源太, 栗山明, 本間健太郎, 松川香菜, 石黒雅代, 小谷将司, 森由希子, 黒田知宏, 大鶴繁, 妹尾浩',
-            'title': '救急外来からの入院が病院稼働額に及ぼす影響',
+            'author': '山下晃平, 門野勇介, 粂川雅子, 阪本恭子, 山本剛, 中井隆史, 岸本和昌, 竹村匡正',
+            'title': 'オンプレミス型大規模LLMモデルを用いた自動サマリ生成の可能性の検討',
             'year': '2023',
-            'book': '第51回 日本救急医学会総会・学術集会',
+            'book': '第43回 医療情報学連合大会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@inproceedings{Santos2018a,
@@ -217,8 +218,8 @@ bibdatabase: [
 
   {
             'id': '6',
-            'author': '山下晃平, 門野勇介, 粂川雅子, 阪本恭子, 山本剛, 中井隆史, 岸本和昌, 竹村匡正',
-            'title': 'オンプレミス型大規模LLMモデルを用いた自動サマリ生成の可能性の検討',
+            'author': '黒田知宏, 小林慎治',
+            'title': '北欧諸国のデジタルヘルス戦略とEHDSの関係に関する調査報告',
             'year': '2023',
             'book': '第43回 医療情報学連合大会',
             'doi': 'https://doi.org/',
@@ -238,8 +239,8 @@ bibdatabase: [
 
   {
             'id': '7',
-            'author': '黒田知宏, 小林慎治',
-            'title': '北欧諸国のデジタルヘルス戦略とEHDSの関係に関する調査報告',
+            'author': '須藤 英隼, 中原 孝洋, 黒田 知宏',
+            'title': 'パニック障害の架空症例を用いた対話型AI ChatGPTの精神科領域における臨床的有用性の検討',
             'year': '2023',
             'book': '第43回 医療情報学連合大会',
             'doi': 'https://doi.org/',
@@ -261,10 +262,10 @@ bibdatabase: [
 
   {
             'id': '8',
-            'author': '須藤 英隼, 中原 孝洋, 黒田 知宏',
-            'title': 'パニック障害の架空症例を用いた対話型AI ChatGPTの精神科領域における臨床的有用性の検討',
+            'author': '加藤源太, 植嶋大晃, 森由希子, 中山健夫, 山本喜一, 岩渕菜穂子, 浜口まどか, 今村知明, 康永秀生, 田宮菜奈子, 杉山雄大, 大寺祥佑, 黒田知宏',
+            'title': 'NDB と介護 DB の連結解析に際しての、要介護認定情報の活用方法に関する考察',
             'year': '2023',
-            'book': '第43回 医療情報学連合大会',
+            'book': '第82回 日本公衆衛生学会総会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@article{Otsuki2020,
@@ -284,10 +285,10 @@ bibdatabase: [
 
   {
             'id': '9',
-            'author': '加藤源太, 植嶋大晃, 森由希子, 中山健夫, 山本喜一, 岩渕菜穂子, 浜口まどか, 今村知明, 康永秀生, 田宮菜奈子, 杉山雄大, 大寺祥佑, 黒田知宏',
-            'title': 'NDB と介護 DB の連結解析に際しての、要介護認定情報の活用方法に関する考察',
+            'author': '伊東寛敏, 藤井清孝, 海老根智代, 岸本和昌, 古平聡',
+            'title': 'メルスペクトログラムを用いた医療機器アラームの定量評価に向けた基礎的検討',
             'year': '2023',
-            'book': '第82回 日本公衆衛生学会総会',
+            'book': '第6回神奈川県臨床工学会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@article{Okamoto2020,
@@ -307,10 +308,10 @@ bibdatabase: [
 
   {
             'id': '10',
-            'author': '伊東寛敏, 藤井清孝, 海老根智代, 岸本和昌, 古平聡',
-            'title': 'メルスペクトログラムを用いた医療機器アラームの定量評価に向けた基礎的検討',
+            'author': '植嶋大晃, 森由希子, 加藤源太, 中山健夫, 今村知明, 康永秀生, 田宮菜奈子, 杉山雄大, 大寺祥佑, 山本喜一, 松岡歩, 岩渕菜穂子, 黒田知宏',
+            'title': '介護DBを用いた基礎的集計および「介護DBコードブック」の作成',
             'year': '2023',
-            'book': '第6回神奈川県臨床工学会',
+            'book': '第82回 日本公衆衛生学会総会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@article{Morris2020,
@@ -332,10 +333,10 @@ bibdatabase: [
 
   {
             'id': '11',
-            'author': '植嶋大晃, 森由希子, 加藤源太, 中山健夫, 今村知明, 康永秀生, 田宮菜奈子, 杉山雄大, 大寺祥佑, 山本喜一, 松岡歩, 岩渕菜穂子, 黒田知宏',
-            'title': '介護DBを用いた基礎的集計および「介護DBコードブック」の作成',
+            'author': '山﨑一幸, 加藤源太, 栗山明, 本間健太郎, 松川香菜, 石黒雅代, 小谷将司, 森由希子, 黒田知宏, 大鶴繁, 妹尾浩',
+            'title': '救急外来からの入院が病院稼働額に及ぼす影響',
             'year': '2023',
-            'book': '第82回 日本公衆衛生学会総会',
+            'book': '第51回 日本救急医学会総会・学術集会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@article{Heryawan2020a,
@@ -356,10 +357,10 @@ bibdatabase: [
 
   {
             'id': '12',
-            'author': '山﨑一幸, 加藤源太, 栗山明, 本間健太郎, 松川香菜, 石黒雅代, 小谷将司, 森由希子, 黒田知宏, 大鶴繁, 妹尾浩',
-            'title': '救急外来からの入院が病院稼働額に及ぼす影響',
+            'author': '山下晃平, 門野勇介, 粂川雅子, 阪本恭子, 山本剛, 中井隆史, 岸本和昌, 竹村匡正',
+            'title': 'オンプレミス型大規模LLMモデルを用いた自動サマリ生成の可能性の検討',
             'year': '2023',
-            'book': '第51回 日本救急医学会総会・学術集会',
+            'book': '第43回 医療情報学連合大会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@article{Heryawan2020,
@@ -380,11 +381,31 @@ bibdatabase: [
 
   {
             'id': '13',
-            'author': '山下晃平, 門野勇介, 粂川雅子, 阪本恭子, 山本剛, 中井隆史, 岸本和昌, 竹村匡正',
-            'title': 'オンプレミス型大規模LLMモデルを用いた自動サマリ生成の可能性の検討',
+            'author': '大前 裕輝, 山本 豪志朗, 油谷 曉, 黒田 知宏',
+            'title': '患者基本情報を用いた認証連携による迅速な患者情報収集システムの設計',
             'year': '2023',
             'book': '第43回 医療情報学連合大会',
             'doi': 'https://doi.org/',
+            'type': 'conference',
+            'bibtex': `@article{2024-4-journal-papers-1,
+ author = {Yuki Kuroda and Goshiro Yamamoto and Tomohiro Kuroda},
+ doi = {10.1080/01972243.2024.2332319},
+ journal = {The Information Society},
+ number = {3},
+ pages = {202-214},
+ title = {Identifying undefined risks: A risk model and a privacy risk identification measure in the privacy impact assessment process},
+ volume = {40},
+ year = {2024}
+}`
+            },
+
+  {
+            'id': '14',
+            'author': '田中良樹, 御手洗彰, 劉暢, 江口佳那, 植嶋大晃, 森由希子, 山本豪志朗, 黒田知宏',
+            'title': '表面筋電測定を用いた筋力の定量評価方法の検討',
+            'year': '2023',
+            'book': '第43回 医療情報学連合大会',
+            'doi': '',
             'type': 'conference',
             'bibtex': `@inproceedings{2023-international-conferences-4,
  author = {Koji Yokoyama and Goshiro Yamamoto and Chang Liu and Kazumasa Kishimoto and Yukiko Mori and Tomohiro Kuroda},
@@ -396,12 +417,12 @@ bibdatabase: [
             },
 
   {
-            'id': '14',
-            'author': '大前 裕輝, 山本 豪志朗, 油谷 曉, 黒田 知宏',
-            'title': '患者基本情報を用いた認証連携による迅速な患者情報収集システムの設計',
+            'id': '15',
+            'author': '福山 啓太, 森 由希子, 植嶋 大晃, 黒田 知宏',
+            'title': '経時的な薬価と処置料改定に対応したマスター作成',
             'year': '2023',
             'book': '第43回 医療情報学連合大会',
-            'doi': 'https://doi.org/',
+            'doi': '',
             'type': 'conference',
             'bibtex': `@inproceedings{2023-international-conferences-3,
  address = {New York, NY, USA},
@@ -423,13 +444,13 @@ bibdatabase: [
             },
 
   {
-            'id': '15',
-            'author': '田中良樹, 御手洗彰, 劉暢, 江口佳那, 植嶋大晃, 森由希子, 山本豪志朗, 黒田知宏',
-            'title': '表面筋電測定を用いた筋力の定量評価方法の検討',
+            'id': '16',
+            'author': 'Hiroyuki Uematsu, Chieko Saito, Jumpei Kondo, Kunishige Onuma, Roberto Coppo, Yukiko Mori, Manabu Muto, Yuichiro Kikawa, Manami Tada, Tomoharu Sugie, Masahiro Inoue',
+            'title': 'De-differentiation in cultures of organoids from luminal-type breast cancer is restored by inhibition of NOTCH signaling',
             'year': '2023',
-            'book': '第43回 医療情報学連合大会',
-            'doi': '',
-            'type': 'conference',
+            'book': 'Human Cell',
+            'doi': 'https://doi.org/10.1007/s13577-023-00975-7',
+            'type': 'journal',
             'bibtex': `@inproceedings{2023-international-conferences-2,
  author = {Hiroto Hada and Shusuke Hiragi and Yukiko Mori and Kenichi Saito and Masumi Ai and Tomohiro Kuroda},
  booktitle = {Studies in Health Technology and Informatics},
@@ -443,13 +464,13 @@ bibdatabase: [
             },
 
   {
-            'id': '16',
-            'author': '福山 啓太, 森 由希子, 植嶋 大晃, 黒田 知宏',
-            'title': '経時的な薬価と処置料改定に対応したマスター作成',
+            'id': '17',
+            'author': 'Hiroto Hada, Shusuke Hiragi, Yukiko Mori, Kenichi Saito, Masumi Ai, Tomohiro Kuroda',
+            'title': 'Reduction in X-ray Retake Rate Using the Token Economy Method',
             'year': '2023',
-            'book': '第43回 医療情報学連合大会',
-            'doi': '',
-            'type': 'conference',
+            'book': 'Studies in Health Technology and Informatics',
+            'doi': 'https://doi.org/10.3233/SHTI230183',
+            'type': 'journal',
             'bibtex': `@inproceedings{2023-international-conferences-1,
  author = {Nuraini Naim and Shahabuddin Ibrahim and Tomohiro Kuroda},
  booktitle = {Proceedings of International Conference on Healthcare Service Management},
@@ -460,12 +481,12 @@ bibdatabase: [
             },
 
   {
-            'id': '17',
-            'author': 'Hiroyuki Uematsu, Chieko Saito, Jumpei Kondo, Kunishige Onuma, Roberto Coppo, Yukiko Mori, Manabu Muto, Yuichiro Kikawa, Manami Tada, Tomoharu Sugie, Masahiro Inoue',
-            'title': 'De-differentiation in cultures of organoids from luminal-type breast cancer is restored by inhibition of NOTCH signaling',
+            'id': '18',
+            'author': 'Jun Komiyama, Takehiro Sugiyama , Masao Iwagami, Miho Ishimaru, Yu Sun, Hiroki Matsui, Keitaro Kume, Masaru Sanuki, Teruyuki Koyama, Genta Kato, Yukiko Mori, Hiroaki Ueshima, Nanako Tamiya',
+            'title': 'Hospital-Level Variation in Cardiac Rehabilitation After Myocardial Infarction in Japan During Fiscal Years 2014–2015 Using the National Database',
             'year': '2023',
-            'book': 'Human Cell',
-            'doi': 'https://doi.org/10.1007/s13577-023-00975-7',
+            'book': 'Circulation Reports',
+            'doi': 'https://doi.org/10.1253/circrep.CR-22-0113',
             'type': 'journal',
             'bibtex': `@inproceedings{2023-9-domestic-conferences-7,
  author = {中村建海 and 岸本和昌 and 本谷崇之 and 竹村匡正},
@@ -479,12 +500,12 @@ bibdatabase: [
             },
 
   {
-            'id': '18',
-            'author': 'Hiroto Hada, Shusuke Hiragi, Yukiko Mori, Kenichi Saito, Masumi Ai, Tomohiro Kuroda',
-            'title': 'Reduction in X-ray Retake Rate Using the Token Economy Method',
+            'id': '19',
+            'author': 'Yu Sun, Masao Iwagami, Jun Komiyama, Takehiro Sugiyama, Ryota Inokuchi, Nobuo Sakata, Tomoko Ito, Satoru Yoshie, Hiroki Matsui, Keitaro Kume, Masaru Sanuki, Genta Kato, Yukiko Mori, Hiroaki Ueshima, Nanako Tamiya',
+            'title': 'Association between types of home healthcare and emergency house calls, hospitalization, and end-of-life care in Japan',
             'year': '2023',
-            'book': 'Studies in Health Technology and Informatics',
-            'doi': 'https://doi.org/10.3233/SHTI230183',
+            'book': 'Journal of the American Geriatrics Society',
+            'doi': 'https://doi.org/10.1111/jgs.18268',
             'type': 'journal',
             'bibtex': `@inproceedings{2023-9-domestic-conferences-6,
  author = {宇鷹岳伸 and 細見亮太 and 岸本和昌 and 竹村匡正},
@@ -498,12 +519,12 @@ bibdatabase: [
             },
 
   {
-            'id': '19',
-            'author': 'Jun Komiyama, Takehiro Sugiyama , Masao Iwagami, Miho Ishimaru, Yu Sun, Hiroki Matsui, Keitaro Kume, Masaru Sanuki, Teruyuki Koyama, Genta Kato, Yukiko Mori, Hiroaki Ueshima, Nanako Tamiya',
-            'title': 'Hospital-Level Variation in Cardiac Rehabilitation After Myocardial Infarction in Japan During Fiscal Years 2014–2015 Using the National Database',
+            'id': '20',
+            'author': 'Yu Sun, Masao Iwagami, Jun Komiyama, Takehiro Sugiyama, Ryota Inokuchi, Nobuo Sakata, Tomoko Ito, Satoru Yoshie, Hiroki Matsui, Keitaro Kume, Masaru Sanuki, Genta Kato, Yukiko Mori, Hiroaki Ueshima, Nanako Tamiya',
+            'title': 'The Effect of Home Care Support Clinics on Hospital Readmission in Heart Failure Patients in Japan',
             'year': '2023',
-            'book': 'Circulation Reports',
-            'doi': 'https://doi.org/10.1253/circrep.CR-22-0113',
+            'book': 'Journal of General Internal Medicine',
+            'doi': 'https://doi.org/10.1007/s11606-023-08030-9',
             'type': 'journal',
             'bibtex': `@inproceedings{2023-9-domestic-conferences-5,
  author = {岸本和昌 and 上妻憲尚 and 永野和哉 and 上崎勝生 and 黒田知宏},
@@ -517,12 +538,12 @@ bibdatabase: [
             },
 
   {
-            'id': '20',
-            'author': 'Yu Sun, Masao Iwagami, Jun Komiyama, Takehiro Sugiyama, Ryota Inokuchi, Nobuo Sakata, Tomoko Ito, Satoru Yoshie, Hiroki Matsui, Keitaro Kume, Masaru Sanuki, Genta Kato, Yukiko Mori, Hiroaki Ueshima, Nanako Tamiya',
-            'title': 'Association between types of home healthcare and emergency house calls, hospitalization, and end-of-life care in Japan',
+            'id': '21',
+            'author': 'Kazuna Kawabata, Makoto Hosono, Yukiko Mori, Suzune Tsukamoto, Shunsuke Ito, Saya Ando, Mitsunori Kanagaki',
+            'title': 'Steroids May Be Associated With Extensive Skeletal Muscle Uptake of 18F-FDG',
             'year': '2023',
-            'book': 'Journal of the American Geriatrics Society',
-            'doi': 'https://doi.org/10.1111/jgs.18268',
+            'book': 'Clinical Nuclear Medicine',
+            'doi': 'https://doi.org/10.1097/rlu.0000000000004856',
             'type': 'journal',
             'bibtex': `@inproceedings{2023-9-domestic-conferences-4,
  author = {黒田知宏 and 佐藤晋 and 岡本和也 and 涌嶋賢二 and 陳和夫},
@@ -536,13 +557,13 @@ bibdatabase: [
             },
 
   {
-            'id': '21',
-            'author': 'Yu Sun, Masao Iwagami, Jun Komiyama, Takehiro Sugiyama, Ryota Inokuchi, Nobuo Sakata, Tomoko Ito, Satoru Yoshie, Hiroki Matsui, Keitaro Kume, Masaru Sanuki, Genta Kato, Yukiko Mori, Hiroaki Ueshima, Nanako Tamiya',
-            'title': 'The Effect of Home Care Support Clinics on Hospital Readmission in Heart Failure Patients in Japan',
+            'id': '22',
+            'author': 'Masaki Goda, Goshiro Yamamoto, Chang Liu, Kazumasa Kishimoto, Sho Mitarai, Yukiko Mori, Tomohiro Kuroda',
+            'title': 'Dynamic Embedment of Artificial Kidney Stones into Real Ultrasound Images',
             'year': '2023',
-            'book': 'Journal of General Internal Medicine',
-            'doi': 'https://doi.org/10.1007/s11606-023-08030-9',
-            'type': 'journal',
+            'book': '予稿・抄録集 生体医工学シンポジウム2023',
+            'doi': '',
+            'type': 'conference',
             'bibtex': `@inproceedings{2023-9-domestic-conferences-3,
  author = {高森康平 and 染谷真紀 and 黒田知宏 and 荒船龍彦},
  booktitle = {日本機械学会 福祉工学シンポジウム2023・第38回ライフサポート学会大会・第22回日本生活支援工学会大会},
@@ -555,13 +576,13 @@ bibdatabase: [
             },
 
   {
-            'id': '22',
-            'author': 'Kazuna Kawabata, Makoto Hosono, Yukiko Mori, Suzune Tsukamoto, Shunsuke Ito, Saya Ando, Mitsunori Kanagaki',
-            'title': 'Steroids May Be Associated With Extensive Skeletal Muscle Uptake of 18F-FDG',
+            'id': '23',
+            'author': '西田 晴香, 岸本 和昌, 杉山 治, 植嶋 大晃, 亀井 拓郎, 山本 豪志朗, 黒田 知宏, 三宅 正裕, 田村 寛',
+            'title': 'Time-Series Image Analysis for Prognosis Prediction after Treatment for Age-Related Macular Degeneration',
             'year': '2023',
-            'book': 'Clinical Nuclear Medicine',
-            'doi': 'https://doi.org/10.1097/rlu.0000000000004856',
-            'type': 'journal',
+            'book': '予稿・抄録集 生体医工学シンポジウム2023',
+            'doi': '',
+            'type': 'conference',
             'bibtex': `@inproceedings{2023-9-domestic-conferences-2,
  author = {鎌滝智哉 and 染谷真紀 and 黒田知宏 and 荒船龍彦},
  booktitle = {日本機械学会 福祉工学シンポジウム2023・第38回ライフサポート学会大会・第22回日本生活支援工学会大会},
@@ -574,12 +595,12 @@ bibdatabase: [
             },
 
   {
-            'id': '23',
-            'author': 'Masaki Goda, Goshiro Yamamoto, Chang Liu, Kazumasa Kishimoto, Sho Mitarai, Yukiko Mori, Tomohiro Kuroda',
-            'title': 'Dynamic Embedment of Artificial Kidney Stones into Real Ultrasound Images',
+            'id': '24',
+            'author': '中村建海, 岸本和昌, 本谷崇之, 竹村匡正',
+            'title': 'BERT を用いた電子カルテ上に出現する薬品名の予測に関する研究',
             'year': '2023',
-            'book': '予稿・抄録集 生体医工学シンポジウム2023',
-            'doi': '',
+            'book': '生体医工学シンポジウム2023',
+            'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@inproceedings{2023-9-domestic-conferences-1,
  author = {黒田知宏 and 佐藤晋 and 岡本和也 and 涌嶋賢二 and 陳和夫},
@@ -593,12 +614,12 @@ bibdatabase: [
             },
 
   {
-            'id': '24',
-            'author': '西田 晴香, 岸本 和昌, 杉山 治, 植嶋 大晃, 亀井 拓郎, 山本 豪志朗, 黒田 知宏, 三宅 正裕, 田村 寛',
-            'title': 'Time-Series Image Analysis for Prognosis Prediction after Treatment for Age-Related Macular Degeneration',
+            'id': '25',
+            'author': '宇鷹岳伸, 細見亮太, 岸本和昌, 竹村匡正',
+            'title': '姿勢推定ライブラリを用いた歩容データによるリハビリテーション患者と健常者の判別モデルの構築',
             'year': '2023',
-            'book': '予稿・抄録集 生体医工学シンポジウム2023',
-            'doi': '',
+            'book': '生体医工学シンポジウム2023',
+            'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@inproceedings{2023-7-domestic-conferences-1,
  author = {Kazumasa Kishimoto and Masahiro Yakami and Osamu Sugiyama and Tomohiro Kuroda},
@@ -612,9 +633,9 @@ bibdatabase: [
             },
 
   {
-            'id': '25',
-            'author': '中村建海, 岸本和昌, 本谷崇之, 竹村匡正',
-            'title': 'BERT を用いた電子カルテ上に出現する薬品名の予測に関する研究',
+            'id': '26',
+            'author': '岸本和昌, 上妻憲尚, 永野和哉, 上崎勝生, 黒田知宏',
+            'title': '医療用密閉型吸引器の導入における排液測定量の検討',
             'year': '2023',
             'book': '生体医工学シンポジウム2023',
             'doi': 'https://doi.org/',
@@ -631,11 +652,11 @@ bibdatabase: [
             },
 
   {
-            'id': '26',
-            'author': '宇鷹岳伸, 細見亮太, 岸本和昌, 竹村匡正',
-            'title': '姿勢推定ライブラリを用いた歩容データによるリハビリテーション患者と健常者の判別モデルの構築',
+            'id': '27',
+            'author': '黒田知宏, 佐藤晋, 岡本和也, 涌嶋賢二, 陳和夫',
+            'title': '遠隔睡眠医療とデータ活用',
             'year': '2023',
-            'book': '生体医工学シンポジウム2023',
+            'book': '第53回 日本神経精神薬理学会年会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@inproceedings{2023-5-domestic-conferences-4,
@@ -650,11 +671,11 @@ bibdatabase: [
             },
 
   {
-            'id': '27',
-            'author': '岸本和昌, 上妻憲尚, 永野和哉, 上崎勝生, 黒田知宏',
-            'title': '医療用密閉型吸引器の導入における排液測定量の検討',
+            'id': '28',
+            'author': '高森康平, 染谷真紀, 黒田知宏, 荒船龍彦',
+            'title': '小児救急における小児用人工呼吸トレーニングシステム',
             'year': '2023',
-            'book': '生体医工学シンポジウム2023',
+            'book': '日本機械学会 福祉工学シンポジウム2023・第38回ライフサポート学会大会・第22回日本生活支援工学会大会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@inproceedings{2023-5-domestic-conferences-3,
@@ -669,11 +690,11 @@ bibdatabase: [
             },
 
   {
-            'id': '28',
-            'author': '黒田知宏, 佐藤晋, 岡本和也, 涌嶋賢二, 陳和夫',
-            'title': '遠隔睡眠医療とデータ活用',
+            'id': '29',
+            'author': '鎌滝智哉, 染谷真紀, 黒田知宏, 荒船龍彦',
+            'title': '骨髄路確保のための小児救急用骨髄穿刺トレーニングシステム',
             'year': '2023',
-            'book': '第53回 日本神経精神薬理学会年会',
+            'book': '日本機械学会 福祉工学シンポジウム2023・第38回ライフサポート学会大会・第22回日本生活支援工学会大会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@inproceedings{2023-5-domestic-conferences-2,
@@ -688,11 +709,11 @@ bibdatabase: [
             },
 
   {
-            'id': '29',
-            'author': '高森康平, 染谷真紀, 黒田知宏, 荒船龍彦',
-            'title': '小児救急における小児用人工呼吸トレーニングシステム',
+            'id': '30',
+            'author': '黒田知宏, 佐藤晋, 岡本和也, 涌嶋賢二, 陳和夫',
+            'title': 'CPAPデータベース開発と次世代医療基盤法',
             'year': '2023',
-            'book': '日本機械学会 福祉工学シンポジウム2023・第38回ライフサポート学会大会・第22回日本生活支援工学会大会',
+            'book': '日本睡眠学会第45回定期学術集会',
             'doi': 'https://doi.org/',
             'type': 'conference',
             'bibtex': `@inproceedings{2023-5-domestic-conferences-1,
@@ -707,13 +728,13 @@ bibdatabase: [
             },
 
   {
-            'id': '30',
-            'author': '鎌滝智哉, 染谷真紀, 黒田知宏, 荒船龍彦',
-            'title': '骨髄路確保のための小児救急用骨髄穿刺トレーニングシステム',
+            'id': '31',
+            'author': 'Yuki Kuroda, Goshiro Yamamoto, Tomohiro Kuroda',
+            'title': 'Identifying unidentifiable risks: A risk model and a privacy risk identification measure in a privacy impact assessment',
             'year': '2023',
-            'book': '日本機械学会 福祉工学シンポジウム2023・第38回ライフサポート学会大会・第22回日本生活支援工学会大会',
-            'doi': 'https://doi.org/',
-            'type': 'conference',
+            'book': 'The Information Society',
+            'doi': '',
+            'type': 'journal',
             'bibtex': `@inproceedings{2023-3-domestic-conferences-3,
  author = {嶋田敏 and 岸本裕大 and 阿部将和 and 小東茂夫 and 小林恭 and 黒田知宏},
  booktitle = {サービス学会　国内大会予稿集},
@@ -726,13 +747,13 @@ bibdatabase: [
             },
 
   {
-            'id': '31',
-            'author': '黒田知宏, 佐藤晋, 岡本和也, 涌嶋賢二, 陳和夫',
-            'title': 'CPAPデータベース開発と次世代医療基盤法',
+            'id': '32',
+            'author': 'Maria Chiara Munisso, Chang Liu, Goshiro Yamamoto, Tomoko Kosaka, Itaru Tsuge, Susumu Saito, Naoki Morimoto',
+            'title': 'PreFlap: From Photoacoustic Tomography Images to Vascular Mapping Sheets for Improved Preoperative Flap Evaluation',
             'year': '2023',
-            'book': '日本睡眠学会第45回定期学術集会',
-            'doi': 'https://doi.org/',
-            'type': 'conference',
+            'book': 'IEEE Transactions on Biomedical Engineering',
+            'doi': 'https://doi.org/10.1109/TBME.2023.3293812',
+            'type': 'journal',
             'bibtex': `@inproceedings{2023-3-domestic-conferences-2,
  author = {鎌滝智哉 and 染谷真紀 and 黒田知宏 and 荒船龍彦},
  booktitle = {ライフサポート学会フロンティア講演会予稿集},
@@ -745,12 +766,12 @@ bibdatabase: [
             },
 
   {
-            'id': '32',
-            'author': 'Yuki Kuroda, Goshiro Yamamoto, Tomohiro Kuroda',
-            'title': 'Identifying unidentifiable risks: A risk model and a privacy risk identification measure in a privacy impact assessment',
+            'id': '33',
+            'author': 'Itaru Tsuge, Maria Chiara Munisso, Tomoko Kosaka, Ayako Takaya, Yoshihiro Sowa, Chang Liu, Goshiro Yamamoto, Susumu Saito, Naoki Morimoto',
+            'title': 'Preoperative visualization of midline-crossing subcutaneous arteries in transverse abdominal flaps using photoacoustic tomography',
             'year': '2023',
-            'book': 'The Information Society',
-            'doi': '',
+            'book': 'Journal of Plastic, Reconstructive & Aesthetic Surgery',
+            'doi': 'https://doi.org/10.1016/j.bjps.2023.05.009',
             'type': 'journal',
             'bibtex': `@inproceedings{2023-3-domestic-conferences-1,
  author = {高森康平 and 染谷真紀 and 黒田知宏 and 荒船龍彦},
@@ -764,83 +785,43 @@ bibdatabase: [
             },
 
   {
-            'id': '33',
-            'author': 'Maria Chiara Munisso, Chang Liu, Goshiro Yamamoto, Tomoko Kosaka, Itaru Tsuge, Susumu Saito, Naoki Morimoto',
-            'title': 'PreFlap: From Photoacoustic Tomography Images to Vascular Mapping Sheets for Improved Preoperative Flap Evaluation',
-            'year': '2023',
-            'book': 'IEEE Transactions on Biomedical Engineering',
-            'doi': 'https://doi.org/10.1109/TBME.2023.3293812',
-            'type': 'journal',
-            'bibtex': `@inproceedings{2023-12-domestic-conferences-4,
- author = {鎌滝智哉 and 染谷真紀 and 黒田知宏 and 荒船龍彦},
- booktitle = {第32回 日本コンピュータ外科学会大会},
- doi = {},
- location = {鹿児島},
- pages = {23(6)-3},
- title = {小児救急における骨髄路確保用骨髄穿刺トレーニングシステム},
- year = {2023}
-}`
-            },
-
-  {
             'id': '34',
-            'author': 'Itaru Tsuge, Maria Chiara Munisso, Tomoko Kosaka, Ayako Takaya, Yoshihiro Sowa, Chang Liu, Goshiro Yamamoto, Susumu Saito, Naoki Morimoto',
-            'title': 'Preoperative visualization of midline-crossing subcutaneous arteries in transverse abdominal flaps using photoacoustic tomography',
-            'year': '2023',
-            'book': 'Journal of Plastic, Reconstructive & Aesthetic Surgery',
-            'doi': 'https://doi.org/10.1016/j.bjps.2023.05.009',
-            'type': 'journal',
-            'bibtex': `@inproceedings{2023-12-domestic-conferences-3,
- author = {Kenji Yoshitsugu and Kazumasa Kishimoto and Tadamasa Takemura},
- booktitle = {IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology},
- doi = {},
- location = {St. Julians/Malta},
- pages = {SaPoS.18},
- title = {Diagnosis of Benign or Malignant Mammography Using Radiomics with Generated Whole Breast Mask},
- year = {2023}
-}`
-            },
-
-  {
-            'id': '35',
             'author': 'Koji Yokoyama, Goshiro Yamamoto, Chang Liu, Kazumasa Kishimoto, Tomohiro Kuroda',
             'title': 'Operating Room Surveillance Video Analysis for Group Activity Recognition',
             'year': '2023',
             'book': 'Advanced Biomedical Engineering',
             'doi': 'https://doi.org/10.14326/abe.12.171',
             'type': 'journal',
-            'bibtex': `@inproceedings{2023-12-domestic-conferences-2,
- author = {Kazumasa Kishimoto and Masahiro Yakami and Osamu Sugiyama and Tomohiro and Kuroda},
- booktitle = {IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology},
- doi = {},
- location = {St. Julians/Malta},
- pages = {ThB1.3},
- title = {Investigation of Radiologist Diagnostic Workload Prediction without CT Images Using Multimodal Deep Learning},
+            'bibtex': `@article{2023-12-domestic-conferences-2,
+ author = {田中良樹, 御手洗彰, 劉暢, 江口佳那, 植嶋大晃, 森由希子, 山本豪志朗, 黒田知宏},
+ booktitle = {第43回 医療情報学連合大会},
+ location = {神戸},
+ pages = {4-J-1-04},
+ title = {表面筋電測定を用いた筋力の定量評価方法の検討},
  year = {2023}
 }`
             },
 
   {
-            'id': '36',
+            'id': '35',
             'author': 'Liu Chang, 渡邊 勇輝, 山本 豪志朗, 岡橋 さやか',
             'title': '遂行機能・注意リハビリテーションを目的とする没入型バーチャルリアリティ認知課題に関する検討',
             'year': '2023',
             'book': 'ヒューマンインタフェース学会論文誌',
             'doi': 'https://doi.org/10.11184/his.25.1_29',
             'type': 'journal',
-            'bibtex': `@inproceedings{2023-12-domestic-conferences-1,
- author = {Roberto Espinoza Chamorro and Chang Liu and Kazumasa Kishimoto and Goshiro Yamamoto and Yukiko Mori and Santos Luciano and Tomohiro and Kuroda},
- booktitle = {IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine & Biology},
- doi = {},
- location = {St. Julians/Malta},
- pages = {ThPoS.13},
- title = {Adjusting Twitter Data As a Source for Blood Donation Analysis: BDT-UC Dataset and BERT Implementations},
+            'bibtex': `@article{2023-12-domestic-conferences-1,
+ author = {福山 啓太, 森 由希子, 植嶋 大晃, 黒田 知宏},
+ booktitle = {第43回 医療情報学連合大会},
+ location = {神戸},
+ pages = {3-G-1-03},
+ title = {経時的な薬価と処置料改定に対応したマスター作成},
  year = {2023}
 }`
             },
 
   {
-            'id': '37',
+            'id': '36',
             'author': '黒田 佑輝, 山本 豪志朗, 黒田 知宏',
             'title': '米国における医療情報交換（HIE）の利用状況と患者の同意及び医療機関の責任に関する法制度からみた日本への示唆',
             'year': '2023',
@@ -859,7 +840,7 @@ bibdatabase: [
             },
 
   {
-            'id': '38',
+            'id': '37',
             'author': 'Koji Yokoyama, Goshiro Yamamoto, Chang Liu, Kazumasa Kishimoto, Yukiko Mori, Tomohiro Kuroda',
             'title': 'Individual Activity Anomaly Estimation in Operating Rooms Based on Time-Sequential Prediction',
             'year': '2023',
@@ -878,7 +859,7 @@ bibdatabase: [
             },
 
   {
-            'id': '39',
+            'id': '38',
             'author': 'Tao Tao, Ratsamee Photchara, Liu Chang, Uranishi Yuki, Takemura Haruo',
             'title': 'SmartVP: Viewpoint Optimization Based on Individual Preference for Watching 3D Boxing Punch Videos',
             'year': '2023',
@@ -897,7 +878,7 @@ bibdatabase: [
             },
 
   {
-            'id': '40',
+            'id': '39',
             'author': 'Hiroto Hada, Shusuke Hiragi, Yukiko Mori, Kenichi Saito, Masumi Ai, Tomohiro Kuroda',
             'title': 'Reducing in X-Ray Retake Rate using the Token Economy Method',
             'year': '2023',
@@ -916,7 +897,7 @@ bibdatabase: [
             },
 
   {
-            'id': '41',
+            'id': '40',
             'author': 'Nuraini Naim, Shahabuddin Ibrahim, Tomohiro Kuroda',
             'title': 'PKRC MAEPS 2.0: Malaysian Experience in Setting up a Web-based EMR in an Emergency Makeshift Medical Facility during COVID-19 Pandemic',
             'year': '2023',
@@ -935,7 +916,7 @@ bibdatabase: [
             },
 
   {
-            'id': '42',
+            'id': '41',
             'author': 'Kazumasa Kishimoto, Masahiro Yakami, Osamu Sugiyama, Tomohiro Kuroda',
             'title': 'Investigation on Classifiers for Semi-Structured Data using Deep Metric Learning: Multimodal Deep Metric Classifier',
             'year': '2023',
@@ -954,7 +935,7 @@ bibdatabase: [
             },
 
   {
-            'id': '43',
+            'id': '42',
             'author': '黒田知宏, 長尾美紀, 佐々木崇剛, 井上ひろみ, 結城崇, 宮城島英希, 大槻俊知, 吉川正俊',
             'title': 'チャットボットを用いた感染症自己報告システムの開発',
             'year': '2023',
@@ -973,7 +954,7 @@ bibdatabase: [
             },
 
   {
-            'id': '44',
+            'id': '43',
             'author': '高森康平, 染谷真紀, 黒田知宏, 荒船龍彦',
             'title': '小児救急における人工呼吸トレーニング',
             'year': '2023',
@@ -991,7 +972,7 @@ bibdatabase: [
             },
 
   {
-            'id': '45',
+            'id': '44',
             'author': '鎌滝智哉, 染谷真紀, 黒田知宏, 荒船龍彦',
             'title': '小児救急における骨髄路確保のための骨髄穿刺トレーニングシステム',
             'year': '2023',
@@ -1010,7 +991,7 @@ bibdatabase: [
             },
 
   {
-            'id': '46',
+            'id': '45',
             'author': '大前 裕輝, 山本 豪志朗, 油谷 曉, 黒田 知宏',
             'title': '迅速な患者情報収集に向けた患者基本情報提供層を有する認証連携の設計',
             'year': '2023',
@@ -1029,7 +1010,7 @@ bibdatabase: [
             },
 
   {
-            'id': '47',
+            'id': '46',
             'author': '合田真規, 山本豪志朗, 劉暢, 岸本和昌, 黒田知宏',
             'title': '超音波画像撮影実習のための拡張現実感を用いた擬似病変表現',
             'year': '2023',
@@ -1048,7 +1029,7 @@ bibdatabase: [
             },
 
   {
-            'id': '48',
+            'id': '47',
             'author': '嶋田敏, 岸本裕大, 阿部将和, 小東茂夫, 小林恭, 黒田知宏',
             'title': 'カルテ情報の要約機能による医師事務作業の改善効果の分析',
             'year': '2023',
@@ -1067,7 +1048,7 @@ bibdatabase: [
             },
 
   {
-            'id': '49',
+            'id': '48',
             'author': '鎌滝智哉, 染谷真紀, 黒田知宏, 荒船龍彦',
             'title': '小児救急における骨髄穿刺トレーニングシステム',
             'year': '2023',
@@ -1085,7 +1066,7 @@ bibdatabase: [
             },
 
   {
-            'id': '50',
+            'id': '49',
             'author': '高森康平, 染谷真紀, 黒田知宏, 荒船龍彦',
             'title': '小児救急における乳児用人工呼吸トレーニングシステム',
             'year': '2023',
@@ -1106,7 +1087,7 @@ bibdatabase: [
             },
 
   {
-            'id': '51',
+            'id': '50',
             'author': '疋田智子, 黒田知宏, 杉山治, 竹村匡正',
             'title': 'バイタルデータターミナル（VDT）導入効果の検討　ーVDT利用率と看護師へのアンケート調査ー',
             'year': '2023',
@@ -1127,7 +1108,7 @@ bibdatabase: [
             },
 
   {
-            'id': '52',
+            'id': '51',
             'author': 'Takahiro Mori, Jun Komiyama, Tomoko Fujii, Masaru Sanuki, Keitaro Kume, Genta Kato, Yukiko Mori, Hiroaki Ueshima, Hiroki Matsui, Nanako Tamiya, Takehiro Sugiyama',
             'title': 'Medical expenditures for fragility hip fracture in Japan: a study using the nationwide health insurance claims database',
             'year': '2022',
@@ -1148,7 +1129,7 @@ bibdatabase: [
             },
 
   {
-            'id': '53',
+            'id': '52',
             'author': 'Yukiko Mori, Osamu Kikuchi, Takahiro Horimatsu, Hiroki Hara, Shuichi Hironaka, Takashi Kojima, Ken Kato, Takahiro Tsushima, Ryu Ishihara, Kumi Mukai, Ryuji Uozumi, Harue Tada, Hiroi Kasai, Atsushi Kawaguchi, Manabu Muto',
             'title': 'Multicenter phase II study of trifluridine/tipiracil for esophageal squamous carcinoma refractory/intolerant to 5-fluorouracil, platinum compounds, and taxanes: the ECTAS study',
             'year': '2022',
@@ -1169,7 +1150,7 @@ bibdatabase: [
             },
 
   {
-            'id': '54',
+            'id': '53',
             'author': 'Kana Eguchi, Tsutomu Yabuuchi, Masayuki Nambu, Hirofumi Takeyama, Shozo Azuma, Kazuo Chin, Tomohiro Kuroda',
             'title': 'Investication on Factors Related to Poor CPAP Adherence using Machine Learning : A Pilot Study',
             'year': '2022',
@@ -1190,7 +1171,7 @@ bibdatabase: [
             },
 
   {
-            'id': '55',
+            'id': '54',
             'author': 'Kimihiko Murase, Takuma Minami, Satoshi Hamada, David Gozal, Naomi Takahashi, Yoshinari Nakatsuka, Hirofumi Takeyama, Kiminobu Tanizawa, Daisuke Endo, Toshiki Akahoshi, Yasutaka Moritsuchi, Toru Tsuda, Yoshiro Toyama, Motoharu Ohi, Yasuhiro Tomita, Koji Narui, , Tetsuro Ohdaira, Takatoshi Kasai, Tomomasa Tsuboi, Yasuhiro Gon, Yoshihiro Yamashiro, Shinichi Ando, Hiroyuki Yoshimine, Yoshifumi Takata, Akiomi Yoshihisa, Koichiro Tatsumi, Tomohiro Kuroda, Satoshi Morita, Shinichi Momomura, Takeo Nakayama, Toyohiro Hirai, Kazuo Chin',
             'title': 'Multimodal Telemonitoring for Weight Reduction in Sleep Apnea Patients: A Randomized Controlled Trial',
             'year': '2022',
@@ -1210,7 +1191,7 @@ bibdatabase: [
             },
 
   {
-            'id': '56',
+            'id': '55',
             'author': 'Michikazu Nakai, Yoshitaka Iwanaga, Yoko Sumita, Shinichi Wada, Haruhiko Hiramatsu, Koji Iihara, Takahide Kohro, Issei Komuro, Tomohiro Kuroda, Tetsuya Matoba, Masaharu Nakayama, Kunihiro Nishimura, Teruo Noguchi, Tadamasa Takemura, Teiji Tominaga, Kazunori Toyoda, Kenichi Tsujita, Satoshi Yasuda, Yoshihiro Miyamoto, Hisao Ogawa',
             'title': 'Associations among cardiovascular and cerebrovascular diseases: Analysis of the nationwide claims-based JROAD-DPC dataset',
             'year': '2022',
@@ -1231,7 +1212,7 @@ bibdatabase: [
             },
 
   {
-            'id': '57',
+            'id': '56',
             'author': 'Shusuke Hiragi, Jun Hatanaka, Osamu Sugiyama, Kenichi Saito, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Token Economy--Based Hospital Bed Allocation to Mitigate Information Asymmetry: Proof-of-Concept Study Through Simulation Implementation',
             'year': '2022',
@@ -1249,7 +1230,7 @@ bibdatabase: [
             },
 
   {
-            'id': '58',
+            'id': '57',
             'author': 'Ai Kido, Masahiro Miyake, Hiroshi Tamura, Shusuke Hiragi, Takeshi Kimura, Satomi Yoshida, Masato Takeuchi, Shosuke Ohtera, Ayako Takahashi, Sotaro Ooto, Koji Kawakami, Tomohiro Kuroda, Akitaka Tsujikawa',
             'title': 'Incidence and Clinical Practice of Exudative Age-related Macular Degeneration: A Nationwide Population-Based Cohort Study',
             'year': '2022',
@@ -1267,7 +1248,7 @@ bibdatabase: [
             },
 
   {
-            'id': '59',
+            'id': '58',
             'author': 'Yuki Kuroda, Goshiro Yamamoto, Tomohiro Kuroda',
             'title': 'Data Processing Model for Compliance with International Medical Research Data Processing Rules',
             'year': '2022',
@@ -1287,7 +1268,7 @@ bibdatabase: [
             },
 
   {
-            'id': '60',
+            'id': '59',
             'author': 'Koji Yokoyama, Goshiro Yamamoto, Chang Liu, Osamu Sugiyama, Luciano HO Santos, Tomohiro Kuroda',
             'title': 'Recognition of Instrument Passing and Group Attention for Understanding Intraoperative State of Surgical Team',
             'year': '2022',
@@ -1308,7 +1289,7 @@ bibdatabase: [
             },
 
   {
-            'id': '61',
+            'id': '60',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Yuki Mori, Masahiro Miyake, Shusuke Hiragi, Goshiro Yamamoto, Luciano Santos, Yuta Nakanishi, Yoshikatsu Hosoda, Hiroshi Tamura, Shigemi Matsumoto, Akitaka Tsujikawa, Tomohiro Kuroda',
             'title': 'Integrating Preprocessing Operations into Deep Learning Model: Case Study of Posttreatment Visual Acuity Prediction',
             'year': '2022',
@@ -1328,7 +1309,7 @@ bibdatabase: [
             },
 
   {
-            'id': '62',
+            'id': '61',
             'author': '阪本恭子, 岸本和昌, 山本剛, 竹村匡正',
             'title': 'BERTを用いた看護記録における自動監査の試み：カルテ記載における自己抜去を対象として',
             'year': '2022',
@@ -1349,7 +1330,7 @@ bibdatabase: [
             },
 
   {
-            'id': '63',
+            'id': '62',
             'author': '大西 和歩, 浦西 友樹, 劉 暢, Photchara Ratsamee, 東田 学, 山本 豪志朗, 竹村 治雄',
             'title': 'ホールド難度と配置を考慮したボルダリング課題の自動難度推定',
             'year': '2022',
@@ -1370,7 +1351,7 @@ bibdatabase: [
             },
 
   {
-            'id': '64',
+            'id': '63',
             'author': '庭瀬 尚武, 山本 喜一, 大寺 祥佑, 加藤 源太, 下垣 徹, 黒田 知宏',
             'title': 'レセプト情報・特定健診等データベース（NDB）のための並列分散処理を用いた次世代分析基盤の提案',
             'year': '2022',
@@ -1391,7 +1372,7 @@ bibdatabase: [
             },
 
   {
-            'id': '65',
+            'id': '64',
             'author': '岸本 和昌, 竹村 匡正, 杉山 治, 小島 諒介, 八上 全弘, 南部 雅幸, 藤井 清孝, 黒田 知宏',
             'title': '深層ニューラルネットワークを用いた重複アラーム音識別システムの検討',
             'year': '2022',
@@ -1412,7 +1393,7 @@ bibdatabase: [
             },
 
   {
-            'id': '66',
+            'id': '65',
             'author': 'Luciano Santos, Chang Liu, Goshiro Yamamoto, Tomohiro Kuroda, Sayaka Okahashi',
             'title': 'RehaBricks - A Modular Electronics Peg Board for Exercise Adaptability in Upper Limb Rehabilitation',
             'year': '2022',
@@ -1431,7 +1412,7 @@ bibdatabase: [
             },
 
   {
-            'id': '67',
+            'id': '66',
             'author': 'Shimizu Juko, Kishimoto Kazumasa, Nakai Takashi, Takemura Tadamasa',
             'title': 'Prediction of Pharmaceuticals Groups using Compound Similarity',
             'year': '2022',
@@ -1451,7 +1432,7 @@ bibdatabase: [
             },
 
   {
-            'id': '68',
+            'id': '67',
             'author': '市川花菜, 藤本晃司, 杉山治, 岸本和昌, 西尾瑞穂, 山本豪志朗, 黒田知宏',
             'title': '症例報告を対象とした固有表現抽出手法の比較',
             'year': '2022',
@@ -1474,7 +1455,7 @@ bibdatabase: [
             },
 
   {
-            'id': '69',
+            'id': '68',
             'author': '伊藤彰仁, 森由希子, 岸本和昌, 劉暢, 山本豪志朗, 黒田知宏, 江木盛時',
             'title': '手術室監視映像の分析に基づく医療者の行動と手術開始時刻の関連性調査',
             'year': '2022',
@@ -1499,7 +1480,7 @@ bibdatabase: [
             },
 
   {
-            'id': '70',
+            'id': '69',
             'author': '西田菜都子, 劉暢, 杉山治, 山本豪志朗, 黒田知宏',
             'title': '看護記録の自動構造化に向けた音声入力インタフェースの提案',
             'year': '2022',
@@ -1519,7 +1500,7 @@ bibdatabase: [
             },
 
   {
-            'id': '71',
+            'id': '70',
             'author': '金山聡美, 細見亮太, 平原匠, 宮平亜紀子, 岸本和昌, 竹村匡正',
             'title': 'モーションキャプチャを用いた患者状態把握システムの構築',
             'year': '2022',
@@ -1539,7 +1520,7 @@ bibdatabase: [
             },
 
   {
-            'id': '72',
+            'id': '71',
             'author': '横山晃士, 山本豪志朗, 劉暢, 岸本和昌, 黒田知宏',
             'title': '手術室監視映像を用いたグループ行動認識の有効性調査',
             'year': '2022',
@@ -1559,7 +1540,7 @@ bibdatabase: [
             },
 
   {
-            'id': '73',
+            'id': '72',
             'author': '岸本和昌, 竹村匡正, 山本豪志朗, 杉山治, 小島諒介, 黒田知宏',
             'title': 'アラーム音自動検出システムに適したマイクロホン下限性能の検討',
             'year': '2022',
@@ -1580,7 +1561,7 @@ bibdatabase: [
             },
 
   {
-            'id': '74',
+            'id': '73',
             'author': '杉山治, 疋田智子, 岸本和昌, 西田菜都子, 竹村匡正, 黒田知宏',
             'title': 'ベッドサイド端末で計測されたBLE接近情報を用いた看護行動追跡',
             'year': '2022',
@@ -1600,7 +1581,7 @@ bibdatabase: [
             },
 
   {
-            'id': '75',
+            'id': '74',
             'author': '横山晃士, 山本豪志朗, 劉暢, 岸本和昌, 黒田知宏',
             'title': '手術室内のグループ行動認識に向けた手術室監視映像解析',
             'year': '2022',
@@ -1620,7 +1601,7 @@ bibdatabase: [
             },
 
   {
-            'id': '76',
+            'id': '75',
             'author': '鈴本潤, 森由希子, 黒田知宏',
             'title': 'Health Information Exchange を研究対象とする過去の量的研究における検討項目及び検討結果のReview',
             'year': '2022',
@@ -1643,7 +1624,7 @@ bibdatabase: [
             },
 
   {
-            'id': '77',
+            'id': '76',
             'author': '黒田知宏, 佐藤晋, 岡本和也, 涌嶋賢二, 陳和夫',
             'title': 'CPAP遠隔医療とBIG DATA化の現状と展望',
             'year': '2022',
@@ -1663,7 +1644,7 @@ bibdatabase: [
             },
 
   {
-            'id': '78',
+            'id': '77',
             'author': '黒田知宏, 杉町勝, 木村裕一, 大城理, 村垣善浩, 佐久間一郎, 鈴木孝司, 鎮西清行, 吉元俊輔, 櫻井理紗, 中村英夫',
             'title': '臨床研究法が医療機器開発研究に与えた影響の実態把握に向けた調査研究報告',
             'year': '2022',
@@ -1679,7 +1660,7 @@ bibdatabase: [
             },
 
   {
-            'id': '79',
+            'id': '78',
             'author': '堤貴彦, 森由希子, 山本豪志朗, 杉山治, 齊藤健一, 岸本和昌, 倉田真宏, 大鶴繁, 黒田知宏',
             'title': '振動台実験装置を用いた地震時の手術台の安全性の検証',
             'year': '2022',
@@ -1699,7 +1680,7 @@ bibdatabase: [
             },
 
   {
-            'id': '80',
+            'id': '79',
             'author': 'Israa Sameer, Luciano Henrique de Oliveiria Santos, Yukiko Mori, Osamu Sugiyama, Tomohiro Kuroda',
             'title': 'Increasing the Applicability of Brest Cancer Recurrence Risk Prediction',
             'year': '2022',
@@ -1718,7 +1699,7 @@ bibdatabase: [
             },
 
   {
-            'id': '81',
+            'id': '80',
             'author': '岸本和昌, 竹村匡正, 杉山治, 小島諒介, 山本豪志朗, 黒田知宏',
             'title': 'エッジデバイス上における医療機器アラーム音分類機の実行可能性の検討',
             'year': '2022',
@@ -1737,7 +1718,7 @@ bibdatabase: [
             },
 
   {
-            'id': '82',
+            'id': '81',
             'author': '齊藤 健一, 小林 慎治, 堤 貴彦, 山本 豪志朗, 高木 俊介, 橋本 悟',
             'title': 'ICUビッグデータの利活用を見据えた人工呼吸器の標準的データモデルの設計',
             'year': '2022',
@@ -1756,7 +1737,7 @@ bibdatabase: [
             },
 
   {
-            'id': '83',
+            'id': '82',
             'author': '櫻井理紗, 杉町勝, 木村裕一, 鈴木孝司, 黒田知宏',
             'title': '臨床研究法の該当性判断に関するガイドライン作成の経緯',
             'year': '2022',
@@ -1775,7 +1756,7 @@ bibdatabase: [
             },
 
   {
-            'id': '84',
+            'id': '83',
             'author': '笠井宏委, 森由希子, 渡邉卓也, 森拓也, 藤田健一郎, 谷口陽平, 唐木範子, 竹本ひかり, 宮平守彦, 涌嶋賢二, 永井洋士, 黒田知宏, 松田秀一',
             'title': '倫理審査システムと電子カルテ文書管理システムの自動連携による臨床研究同意取得プロセスの適正化にかかる取組み',
             'year': '2022',
@@ -1794,7 +1775,7 @@ bibdatabase: [
             },
 
   {
-            'id': '85',
+            'id': '84',
             'author': 'Ayane Yamaguchi, Maya Honda, Hiroshi Ishiguro, Masako Kataoka, Tatsuki R. Kataoka, Hanako Shimizu, Masae Torii, Yukiko Mori, Nobuko Kawaguchi-Sakita, Kentaro Ueno, Masahiro Kawashima, Masahiro Takada, Eiji Suzuki, Yuji Nakamoto, Kosuke Kawaguchi, Masakazu Toi',
             'title': 'Kinetic information from dynamic contrast-enhanced MRI enables prediction of residual cancer burden and prognosis in triple-negative breast cancer: a retrospective study',
             'year': '2021',
@@ -1813,7 +1794,7 @@ bibdatabase: [
             },
 
   {
-            'id': '86',
+            'id': '85',
             'author': 'Shosuke Ohtera, Genta Kato, Hiroaki Ueshima, Yukiko Mori, Yuka Nakatani, Neiko Ozasa, Takeo Nakayama, Tomohiro Kuroda',
             'title': 'A nationwide survey on participation in cardiac rehabilitation among patients with coronary heart disease using health claims data in Japan',
             'year': '2021',
@@ -1832,7 +1813,7 @@ bibdatabase: [
             },
 
   {
-            'id': '87',
+            'id': '86',
             'author': 'Ai Kido, Masahiro Miyake, Hiroshi Tamura, Shusuke Hiragi, Takeshi Kimura, Shosuke Ohtera, Ayako Takahashi, Sotaro Ooto, Koji Kawakami, Tomohiro Kuroda, Akitaka Tsujikawa',
             'title': 'Incidence of central serous chorioretinopathy (2011–2018): a nationwide population-based cohort study of Japan',
             'year': '2021',
@@ -1851,7 +1832,7 @@ bibdatabase: [
             },
 
   {
-            'id': '88',
+            'id': '87',
             'author': 'Miho Asano, Tomohiro Kuroda, Satoshi Numata, Tuneo Jozen, Tomoki Yoshikawa, Hiroshi Noborio',
             'title': 'Convergence Stability of Depth–Depth- Matching-Based Steepest Descent Method in Simulated Liver Surgery',
             'year': '2021',
@@ -1870,7 +1851,7 @@ bibdatabase: [
             },
 
   {
-            'id': '89',
+            'id': '88',
             'author': 'Michi Sakai, Shosuke Ohtera, Tomohide Iwao, Yukiko Neff, Tomoe Uchida, Yoshimitsu Takahashi, Genta Kato, Tomohiro Kuroda, Shuzo Nishimura, Takeo Nakayama',
             'title': 'Decreased Administration of Life-Sustaining Treatment just before Death among Older Inpatients in Japan: A Time-Trend Analysis from 2012 through 2014 Based on a Nationally Representative Sample',
             'year': '2021',
@@ -1889,7 +1870,7 @@ bibdatabase: [
             },
 
   {
-            'id': '90',
+            'id': '89',
             'author': 'Luciano Santos, Kazuya Okamoto, Ryo Otsuki, Shusuke Hiragi, Goshiro Yamamoto, Osamu Sugiyama, Tomoki Aoyama, Tomohiro Kuroda',
             'title': 'Promoting Physical Activity in Japanese Older Adults Using a Social Pervasive Game: Randomized Controlled Trial',
             'year': '2021',
@@ -1908,7 +1889,7 @@ bibdatabase: [
             },
 
   {
-            'id': '91',
+            'id': '90',
             'author': 'Qi Ye Tomohiro Kuroda Tong Ruan Wenlong Zhang Xiaoling Ge',
             'title': 'An Integrated Resampling Methods for Imbalanced Sporadic Temporal Data in EHRs',
             'year': '2021',
@@ -1927,7 +1908,7 @@ bibdatabase: [
             },
 
   {
-            'id': '92',
+            'id': '91',
             'author': 'Natsuko Nishida, Tomoko Hikita, Megumi Iida, Goshiro Yamamoto, Tomohiro Kuroda',
             'title': 'Study of Sharing Patient Information by Nurses between Inpatient and Outpatient Wards in Japan',
             'year': '2021',
@@ -1946,7 +1927,7 @@ bibdatabase: [
             },
 
   {
-            'id': '93',
+            'id': '92',
             'author': 'Luciano Santos, Kazuya Okamoto, Silvana Funghetto, Adriana Cavalli, Ryo Otsuki, Shusuke Hiragi, Goshiro Yamamoto, Osamu Sugiyama, Carla Castanho, Tomoki Aoyama, Tomohiro Kuroda',
             'title': 'Promoting physical activity using pervasive social games: case studies with elderly people in Brazil and Japan',
             'year': '2021',
@@ -1965,7 +1946,7 @@ bibdatabase: [
             },
 
   {
-            'id': '94',
+            'id': '93',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Yukiko Mori, Masahiro Miyake, Shusuke Hiragi, Goshiro Yamamoto, Luciano Santos, Yuta Nakanishi, Yoshikatsu Hosoda, Toshiyo Tamura, Shigemi Matsumoto, Akitaka Tsujikawa, Tomohiro Kuroda',
             'title': 'Integrating Preprocessing Operations into Deep Learning Model Case study with Postoperative Visual Acuity Prediction',
             'year': '2021',
@@ -1984,7 +1965,7 @@ bibdatabase: [
             },
 
   {
-            'id': '95',
+            'id': '94',
             'author': 'Kento Suzuki, Luciano Santos, Chang Liu, Hiroaki Ueshima, Goshiro Yamamoto, Sayaka Okahashi, Shusuke Hiragi, Osamu Sugiyama, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Evaluating Upper Limb Functions Based on Motion Analysis',
             'year': '2021',
@@ -2003,7 +1984,7 @@ bibdatabase: [
             },
 
   {
-            'id': '96',
+            'id': '95',
             'author': 'Tomohiro Kuroda, Kazuhiko Ohe, Naoki Nakajima, Makoto Ohara',
             'title': 'Prototyping and Evaluation of a Data Collection Platform along -The JAMI Guideline for Medical Image Data Collection Platform-',
             'year': '2021',
@@ -2022,7 +2003,7 @@ bibdatabase: [
             },
 
   {
-            'id': '97',
+            'id': '96',
             'author': 'Roberto Espinoza, Shusuke Hiragi, Luciano Santos, Kensuke Morris, Hiroaki Ueshima, Goshiro Yamamoto, Tomohiro Kuroda',
             'title': 'Blood Donation and Deferral Awareness in Japan: Issues and Opportunities for Information and Communication Technology Interventions',
             'year': '2021',
@@ -2041,7 +2022,7 @@ bibdatabase: [
             },
 
   {
-            'id': '98',
+            'id': '97',
             'author': 'Koji Yokoyama, Goshiro Yamamoto, Hiroshi Sasaki, Osamu Sugiyama, Luciano Santos, Chang Liu, Shusuke Hiragi, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Understanding an Operating Room Situation based on Multi-person Motion Analysis',
             'year': '2021',
@@ -2060,7 +2041,7 @@ bibdatabase: [
             },
 
   {
-            'id': '99',
+            'id': '98',
             'author': 'Kahoru Tochigi, Noriko Matsuyama, Yo Sameshima, Yasuyo Kusunoki, Akiko Kuroda, Natsuko Oimoto, Tomohiro Kuroda, Kenji Ueshima, Yoshihiro Kuwabara, Masayo Ishiguro, Chisa Yasukawa, Chikako Toyooka, Yoji Nagai, Takayuki Nakagawa, Atsushi Takahashi, Ryosuke Takahashi',
             'title': 'Kyoto Trial of iPSC Transplant for Parkinson\'s Disease under COVID-19 Pandemic: The Role of CRC',
             'year': '2021',
@@ -2079,7 +2060,7 @@ bibdatabase: [
             },
 
   {
-            'id': '100',
+            'id': '99',
             'author': 'Tomohiro Kuroda',
             'title': 'About Utilization of Next Generation Medical Platform Act',
             'year': '2021',
@@ -2096,7 +2077,7 @@ bibdatabase: [
             },
 
   {
-            'id': '101',
+            'id': '100',
             'author': 'Kazuya Okamoto, Tomoko Sekiya, Satoshi Kato, Kenji Suzuki, Tomohiro Kuroda',
             'title': 'Verification of Consistency of Assessment Rules for Specimen Test',
             'year': '2021',
@@ -2116,7 +2097,7 @@ bibdatabase: [
             },
 
   {
-            'id': '102',
+            'id': '101',
             'author': '清水充子, 岸本和昌, 中井隆史, 山下晃平, 佐藤瑞月, 梶田朝佳, 竹村匡正',
             'title': '化合物の類似性を用いた医薬品グループ予測',
             'year': '2021',
@@ -2136,7 +2117,7 @@ bibdatabase: [
             },
 
   {
-            'id': '103',
+            'id': '102',
             'author': 'Yuki Kuroda, Goshiro Yamamoto, Tomohiro Kuroda',
             'title': 'A model of patient data flows and corresponding legal and ethical analysis for international medical research',
             'year': '2021',
@@ -2155,7 +2136,7 @@ bibdatabase: [
             },
 
   {
-            'id': '104',
+            'id': '103',
             'author': 'Koji Yokoyama, Goshiro Yamamoto, Chang Liu, Osamu Sugiyama, Luciano Santos, Tomohiro Kuroda',
             'title': 'Recognition of Instrument Passing and Group Attention for Understanding Intraoperative Team States',
             'year': '2021',
@@ -2175,7 +2156,7 @@ bibdatabase: [
             },
 
   {
-            'id': '105',
+            'id': '104',
             'author': 'Satoshi Yoshida, Osamu Sugiyama, Yukiko Mori, Yohei Yamasaki, Shusuke Hiragi, Goshiro Yamamoto, Shigemi Matsumoto, Tomohiro Kuroda',
             'title': 'Nephrosis Prediction with Sparse Clinical Time-Series Data',
             'year': '2021',
@@ -2194,7 +2175,7 @@ bibdatabase: [
             },
 
   {
-            'id': '106',
+            'id': '105',
             'author': 'Kazumasa Kishimoto, Tadamasa Takemura, Osamu Sugiyama, Ryosuke Kojima, Masahiro Yakami, Masayuki Nambu, Kiyotaka Fujii, Tomohiro Kuroda',
             'title': 'Prediction of Polyphonic Alarm Sound by Deep Neural Networks',
             'year': '2021',
@@ -2212,7 +2193,7 @@ bibdatabase: [
             },
 
   {
-            'id': '107',
+            'id': '106',
             'author': 'Yoshihiro Kinoshita, Kenichiro Fujita, Yasuaki Ikemi, Sachio Fukatsu, Yohei Ishida, Hiromichi Kamakari, Hironobu Murano, Masahiro Ashida, Tomohiro Kuroda',
             'title': 'Utilizing GS-1 Codes for Medicine in Hospital Information System -Targeting Recording Medicine used for Surgery-',
             'year': '2021',
@@ -2230,7 +2211,7 @@ bibdatabase: [
             },
 
   {
-            'id': '108',
+            'id': '107',
             'author': 'Otsuki Ryo, Sugiyama Osamu, Mori Yuki, Miyake Masahiro, Hiragi Shusuke, Yamamoto Goshiro, Santos Luciano, Nakanishi Yuta, Hosoda Yoshikatsu, Tamura Hiroshi, Matsumoto Shigemi, Tsujikawa Akitaka, Kuroda Tomohiro',
             'title': 'Deep Learning Model to Predict Postoperative Visual Acuity from Preoperative Multimedia Ophthalmic Data',
             'year': '2020',
@@ -2248,7 +2229,7 @@ bibdatabase: [
             },
 
   {
-            'id': '109',
+            'id': '108',
             'author': 'Okamoto Kazuya, Yamamoto Takashi, Santos Luciano H. O., Hiragi Shusuke, Sugiyama Osamu, Yamamoto Goshiro, Hirose Masahiro, Kuroda Tomohiro',
             'title': 'Detecting Severe Incidents from Electronic Medical Records Using Machine Learning Methods',
             'year': '2020',
@@ -2266,7 +2247,7 @@ bibdatabase: [
             },
 
   {
-            'id': '110',
+            'id': '109',
             'author': 'Morris Kensuke, Yamamoto Goshiro, Sugiyama Osamu, Santos Luciano H. O., Tsutsumi Takahiko, Ohtsuki Ryo, Kato Genta, Hiragi Shusuke, Okamoto Kazuya, Nambu Masayuki, Kuroda Tomohiro',
             'title': 'Designing a Mobile Patient Information Sharing System using Patient\'s Community Members: Perceptions of Emergency Physicians',
             'year': '2020',
@@ -2284,7 +2265,7 @@ bibdatabase: [
             },
 
   {
-            'id': '111',
+            'id': '110',
             'author': 'Kenta Takahashi, Eri Ishibashi, Toshio Kubo, Yohei Harada, Hideyuki Hayashi, Masayuki Kano, Yasushi Shimizu, Hidekazu Shirota, Yukiko Mori, Manabu Muto, Chikashi Ishioka, Hirotoshi Dosaka-Akita, Hisahiro Matsubara, Hiroshi Nishihara, Naoko Sueoka-Aragane, Shinichi Toyooka, Akihiro Hirakawa, Ukihide Tateishi, Satoshi Miyake, Sadakatsu Ikeda',
             'title': 'A phase 2 basket trial of combination therapy with trastuzumab and pertuzumab in patients with solid cancers harboring human epidermal growth factor receptor 2 amplification (JUPITER trial)',
             'year': '2020',
@@ -2302,7 +2283,7 @@ bibdatabase: [
             },
 
   {
-            'id': '112',
+            'id': '111',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Yuki Mori, Masahiro Miyake, Shusuke Hiragi, Goshiro Yamamoto, Luciano Santos, Yuta Nakanishi, Yoshikatsu Hosoda, Hiroshi Tamura, Shigemi Matsumoto, Akitaka Tsujikawa, Tomohiro Kuroda',
             'title': 'Deep Learning Model to Predict Postoperative Visual Acuity from Preoperative Multimedia Ophthalmic Data',
             'year': '2020',
@@ -2319,7 +2300,7 @@ bibdatabase: [
             },
 
   {
-            'id': '113',
+            'id': '112',
             'author': 'Eizen Kimura, Shosuke Ohtera, Kaori Sasaki, Tomohiro Kuroda',
             'title': 'Status of Health Sector Registers and Data Provision in Finland',
             'year': '2020',
@@ -2337,7 +2318,7 @@ bibdatabase: [
             },
 
   {
-            'id': '114',
+            'id': '113',
             'author': 'Risa Sakurai, Tomohiro Kuroda, Hideo Nakamura, Masaru Sugimachi, Yuichi Kimura',
             'title': 'Principle to Decide the Applicability of BME Researches to Clinical Trials Act of Japan',
             'year': '2020',
@@ -2355,7 +2336,7 @@ bibdatabase: [
             },
 
   {
-            'id': '115',
+            'id': '114',
             'author': 'Kazuya Okamoto, Takashi Yamamoto, Luciano Santos, Shusuke Hiragi, Osamu Sugiyama, Goshiro Yamamoto, Masahiro Hirose, Tomohiro Kuroda',
             'title': 'Detecting Severe Incidents from Electronic Medical Records Using Machine Learning Methods',
             'year': '2020',
@@ -2373,7 +2354,7 @@ bibdatabase: [
             },
 
   {
-            'id': '116',
+            'id': '115',
             'author': 'Kimihiko Murase, Kiminobu Tanizawa, Takuma Minami, Takeshi Matsumoto, Ryo Tachikawa, Naomi Takahashi, Toru Tsuda, Yoshiro Toyama, Motoharu Ohi, Toshiki Akahoshi, Yasuhiro Tomita, Koji Narui, Hiroshi Nakamura, Tetsuro Ohdaira, Hiroyuki Yoshimine, Tomomasa Tsuboi, Yoshihiro Yamashiro, Shinichi Ando, Takatoshi Kasai, Hideo Kita, Koichiro Tatsumi, Naoto Burioka, Keisuke Tomii, Yasuhiro Kondoh, Hirofumi Takeyama, Tomohiro Handa, Satoshi Hamada, Toru Oga, Takeo Nakayama, Tetsuo Sakamaki, Satoshi Morita, Tomohiro Kuroda, Toyohiro Hirai, Kazuo Chin',
             'title': 'A Randomized Controlled Trial of Telemedicine for Long-Term Sleep Apnea Continuous Positive Airway Pressure Management',
             'year': '2020',
@@ -2391,7 +2372,7 @@ bibdatabase: [
             },
 
   {
-            'id': '117',
+            'id': '116',
             'author': 'Kensuke Morris, Osamu Sugiyama, Goshiro Yamamoto, Manabu Shimoto, Genta Kato, Shigeru Ohtsuru, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Towards a Medical Oriented Social Network Service: Analysis of Instant Messaging Communication among Emergency Physicians',
             'year': '2020',
@@ -2409,7 +2390,7 @@ bibdatabase: [
             },
 
   {
-            'id': '118',
+            'id': '117',
             'author': 'Tomohide Iwao, Genta Kato, Isao Ito, Toyohiro Hirai, Tomohiro Kuroda',
             'title': 'Treatment of Mycobacterium avium-intracellulare complex 82lung disease in the real world: a retrospective big data analysis',
             'year': '2020',
@@ -2427,7 +2408,7 @@ bibdatabase: [
             },
 
   {
-            'id': '119',
+            'id': '118',
             'author': 'Miho Asano, Tomohiro Kuroda, Satoshi Numata, Tuneo Jozen, Tomoki Yoshikawa, Hiroshi Noborio',
             'title': 'Stability Maintenance of Depth-Depth Matching of Steepest Descent Method Using an Incision Shape of an Occluded Organ',
             'year': '2020',
@@ -2445,7 +2426,7 @@ bibdatabase: [
             },
 
   {
-            'id': '120',
+            'id': '119',
             'author': 'Heryawan Lukman, Khotimah Purnomo Husnul, Sugiyama Osamu, Yamamoto Goshiro, Santos Luciano Henrique de Oliveira, Pramono Angga Eko, Okamoto Kazuya, Kuroda Tomohiro',
             'title': 'Toward Design of an Agent-based Writing Support System for the SOAP Note: A Content Analysis of the Video-based Survey',
             'year': '2020',
@@ -2464,7 +2445,7 @@ bibdatabase: [
             },
 
   {
-            'id': '121',
+            'id': '120',
             'author': 'Heryawan Lukman, Sugiyama Osamu, Yamamoto Goshiro, Khotimah Purnomo Husnul, Santos Luciano H O, Okamoto Kazuya, Kuroda Tomohiro',
             'title': 'A Detection of Informal Abbreviations from Free Text Medical Notes Using Deep Learning',
             'year': '2020',
@@ -2483,7 +2464,7 @@ bibdatabase: [
             },
 
   {
-            'id': '122',
+            'id': '121',
             'author': 'Naoto Kume, Shinji Kobayashi, Hiroyuki Yoshihara, Tomohiro Kuroda, Kenji Araki',
             'title': 'Social Implementation of Medical Information Circulation Model with Electronic Health Record under The Next Generation Medical Infrastructure Law',
             'year': '2020',
@@ -2502,7 +2483,7 @@ bibdatabase: [
             },
 
   {
-            'id': '123',
+            'id': '122',
             'author': 'Yunwei Ma, Kazuya Okamoto, Osamu Sugiyama, Goshiro Yamamoto, Hiroshi Sasaki, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Proposal for Federated Learning Based on Medical Data Features',
             'year': '2020',
@@ -2521,7 +2502,7 @@ bibdatabase: [
             },
 
   {
-            'id': '124',
+            'id': '123',
             'author': 'Tomohiro Kuroda, Risa Sakurai, Shunsuke Yoshimoto, Hideo Nakamura, Masaru Sugimachi, Yuichi Kimura',
             'title': 'Toward Clarification of Guideline to Classify Biomedical Engineering Researches under Clinical Trials Act of Japan',
             'year': '2020',
@@ -2540,7 +2521,7 @@ bibdatabase: [
             },
 
   {
-            'id': '125',
+            'id': '124',
             'author': 'Tomoya Watanabe, Chiaki Uema, Mika Inoue, Koji Oogari, Koji Koizumi, Kazuo Ueshima, Tomohiro Kuroda',
             'title': 'Investigation of Ghost Shadow for Wearable ECG Textile on the Use of Chest Radiograph',
             'year': '2020',
@@ -2560,7 +2541,7 @@ bibdatabase: [
             },
 
   {
-            'id': '126',
+            'id': '125',
             'author': 'Yuta Nakanishi, Masahiro Miyake, Ryo Otsuki, Yuki Mori, Yoshikatsu Hosoda, Akio Oishi, Sotaro Ooto, Shusuke Hiragi, Osamu Sugiyama, Hiroshi Tamura, Tomohiro Kuroda, Akitaka Tsujikawa',
             'title': 'Transition of Diagnostic Accuracy for Each Number of Data in Fundus Photodiagnosis using Deep Learning Model',
             'year': '2020',
@@ -2580,7 +2561,7 @@ bibdatabase: [
             },
 
   {
-            'id': '127',
+            'id': '126',
             'author': 'Hiroki Chino, Haruo Noma, Osamu Sugiyama, Manabu Shimoto, Shigeru Ohtsuru, Tomohiro Kuroda',
             'title': 'Quantitative Analysis of Disaster Countermeasure Training and Development',
             'year': '2020',
@@ -2599,7 +2580,7 @@ bibdatabase: [
             },
 
   {
-            'id': '128',
+            'id': '127',
             'author': 'Takeshi Sugino, Miho Nishii, Masashi Kotani, Kentaro Honma, Shusuke Hiragi, Tomohiro Kuroda',
             'title': 'Statistical Analysis of Management Indicator - Creating a Regression Model for Newly Hospitalized Patients by Multiple Regression Analysis-',
             'year': '2020',
@@ -2616,7 +2597,7 @@ bibdatabase: [
             },
 
   {
-            'id': '129',
+            'id': '128',
             'author': 'Kazuya Okamoto, Tadashi Ogi, Eiji Kobayasi, Tomoko Hikita, Natsuko Nishida, Shinichi Kai, Makoto Fujisawa, Yusuke Shiga, Katsuyuki Sugimura, Takashi Yamamoto, Chikamune Takeda, Yuya Matsuda, Youhei Taniguchi, Kenichiro Fujita, Osamu Sugiyama, Goshiro Yamamoto, Kohei Takai, Tomoharu Tanaka, Tomohiro Kuroda',
             'title': 'Suspension of using Special Purpose Information System for Intensive Care and Introduction of Core Hospital Information System at Intensive Care Unit',
             'year': '2020',
@@ -2636,7 +2617,7 @@ bibdatabase: [
             },
 
   {
-            'id': '130',
+            'id': '129',
             'author': '山本豪志朗, 岡本和也, 黒田知宏',
             'title': '新型コロナウイルス対策のための「触らずに繋げる」6フィートの遠隔医療の実現',
             'year': '2020',
@@ -2653,7 +2634,7 @@ bibdatabase: [
             },
 
   {
-            'id': '131',
+            'id': '130',
             'author': 'Tomohide Iwao, Genta Kato, Shigeru Ohtsuru, Tomohiro Kuroda',
             'title': 'Survey on Cases of Child Abuse with Trauma using Receipt Data',
             'year': '2020',
@@ -2670,7 +2651,7 @@ bibdatabase: [
             },
 
   {
-            'id': '132',
+            'id': '131',
             'author': 'Kazuhiko Ohe, Tomohiro Kuroda',
             'title': 'Electronic Medical Record Systems and Healthcare Information Systems after 10 years or 20 years',
             'year': '2020',
@@ -2688,7 +2669,7 @@ bibdatabase: [
             },
 
   {
-            'id': '133',
+            'id': '132',
             'author': 'Yunwei Ma, Kazuya Okamoto, Osamu Sugiyama, Goshiro Yamamoto, Hiroshi Sasaki, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Design of Multi-institutional Federated Learning Considering Medical Data Characteristics',
             'year': '2020',
@@ -2706,7 +2687,7 @@ bibdatabase: [
             },
 
   {
-            'id': '134',
+            'id': '133',
             'author': 'Tomohiro Kuroda, Yuki Kuroda, Risa Sakurai, Yuichi Kimura',
             'title': 'Legislations on Personal Data Protection surrounding Home Medical Care',
             'year': '2020',
@@ -2725,7 +2706,7 @@ bibdatabase: [
             },
 
   {
-            'id': '135',
+            'id': '134',
             'author': 'Kenichiro Fujita, Yoshihiro Takimoto, Satoshi Nakao, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Evaluating Cooling Potential of Server Room -From Viewpoint of Optimization of Power Consumption and Investment-',
             'year': '2020',
@@ -2745,7 +2726,7 @@ bibdatabase: [
             },
 
   {
-            'id': '136',
+            'id': '135',
             'author': 'Santos Luciano Henrique Oliveira, Okamoto Kazuya, Hiragi Shusuke, Yamamoto Goshiro, Sugiyama Osamu, Aoyama Tomoki, Kuroda Tomohiro',
             'title': 'Design Elements of Pervasive Games for Elderly Players: A Social Interaction Study Case',
             'year': '2019',
@@ -2763,7 +2744,7 @@ bibdatabase: [
             },
 
   {
-            'id': '137',
+            'id': '136',
             'author': 'Santos Luciano HO, Okamoto Kazuya, Hiragi Shusuke, Yamamoto Goshiro, Sugiyama Osamu, Aoyama Tomoki, Kuroda Tomohiro',
             'title': 'Pervasive game design to evaluate social interaction effects on levels of physical activity among older adults',
             'year': '2019',
@@ -2781,7 +2762,7 @@ bibdatabase: [
             },
 
   {
-            'id': '138',
+            'id': '137',
             'author': 'Santos Luciano H O, Okamoto Kazuya, Cavalli Adriana S, Hiragi Shusuke, Yamamoto Goshiro, Sugiyama Osamu, Castanho Carla D, Aoyama Tomoki, Kuroda Tomohiro',
             'title': 'Designing Pervasive Social Interaction Mechanics for Elderly Players: A Multicultural Study Case',
             'year': '2019',
@@ -2799,7 +2780,7 @@ bibdatabase: [
             },
 
   {
-            'id': '139',
+            'id': '138',
             'author': 'Santos Luciano HO, Okamoto Kazuya, Funghetto Silvana Schwerz, Cavalli Adriana Schüler, Hiragi Shusuke, Yamamoto Goshiro, Sugiyama Osamu, Castanho Carla Denise, Aoyama Tomoki, Kuroda Tomohiro',
             'title': 'Effects of Social Interaction Mechanics in Pervasive Games on the Physical Activity Levels of Older Adults: Quasi-Experimental Study',
             'year': '2019',
@@ -2816,7 +2797,7 @@ bibdatabase: [
             },
 
   {
-            'id': '140',
+            'id': '139',
             'author': 'Santos Luciano H O, Okamoto Kazuya, Otsuki Ryo, Hiragi Shusuke, Yamamoto Goshiro, Sugiyama Osamu, Aoyama Tomoki, Kuroda Tomohiro',
             'title': 'Evaluating the Effect of Social Interaction in a Pervasive Game to Promote Physical Activity of Older Adults',
             'year': '2019',
@@ -2833,7 +2814,7 @@ bibdatabase: [
             },
 
   {
-            'id': '141',
+            'id': '140',
             'author': 'Samar El Helou, Victoria Abou-Khalil, Goshiro Yamamoto, Eiji Kondo, Hiroshi Tamura, Shusuke Hiragi, Osamu Sugiyama, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Prioritizing Features to Redesign in an EMR System',
             'year': '2019',
@@ -2852,7 +2833,7 @@ bibdatabase: [
             },
 
   {
-            'id': '142',
+            'id': '141',
             'author': 'Kenichiro Fujita, Osamu Sugiyama, Shusuke Hiragi, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda',
             'title': 'Analysis for the Annual Text Amount of Electronic Medical Records',
             'year': '2019',
@@ -2870,7 +2851,7 @@ bibdatabase: [
             },
 
   {
-            'id': '143',
+            'id': '142',
             'author': 'Yohei Yamasaki, Osamu Sugiyama, Shusuke Hiragi, Shosuke Ohtera, Goshiro Yamamoto, Hiroshi Sasaki, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Early Nephrosis Detection Based on Deep Learning with Clinical Time-Series Data',
             'year': '2019',
@@ -2889,7 +2870,7 @@ bibdatabase: [
             },
 
   {
-            'id': '144',
+            'id': '143',
             'author': 'Luciano Santos, Kazuya Okamoto, Silvana Funghetto, Adriana Cavalli, Shusuke Hiragi, Goshiro Yamamoto, Osamu Sugiyama, Carla Castanho, Tomoki Aoyama, Tomohiro Kuroda',
             'title': 'Effects of Social Interaction Mechanics in Pervasive Games on the Physical Activity Levels of Older Adults: Quasi-Experimental Study',
             'year': '2019',
@@ -2908,7 +2889,7 @@ bibdatabase: [
             },
 
   {
-            'id': '145',
+            'id': '144',
             'author': 'Samar El Helou, Victoria Abou-Khalil, Goshiro Yamamoto, Hiroshi Tamura, Shusuke Hiragi, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Understanding the Situated Roles of Electronic Medical Record Systems to Enable Redesign: Mixed Methods Study',
             'year': '2019',
@@ -2927,7 +2908,7 @@ bibdatabase: [
             },
 
   {
-            'id': '146',
+            'id': '145',
             'author': 'Samar El Helou, Victoria Abou-Khalil, Goshiro Yamamoto, Eiji Kondo, Hiroshi Tamura, Shusuke Hiragi, Osamu Sugiyama, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Understanding the EMR-Related Experiences of Pregnant Japanese Women to Redesign Antenatal Care EMR Systems',
             'year': '2019',
@@ -2946,7 +2927,7 @@ bibdatabase: [
             },
 
   {
-            'id': '147',
+            'id': '146',
             'author': 'Tadao Nagasaki, Keiko Sato, Naoto Kume, Tsuyoshi Oguma, Hironobu Sunadome, Isao Ito, Yumi Izuhara, Kazuya Okamoto, Shinji Kobayashi, Tomoya Ohno, Akiko Mizukami, Akihiro Kobayashi, Toshihiko Kaise, Tomohiro Kuroda, Michiaki Mishima, Hisako Matsumoto',
             'title': 'The Prevalence and Disease Burden of Severe Eosinophilic Asthma in Japan',
             'year': '2019',
@@ -2965,7 +2946,7 @@ bibdatabase: [
             },
 
   {
-            'id': '148',
+            'id': '147',
             'author': 'Tomohiro Kuroda',
             'title': 'Clinical Medicine of Infomation Age',
             'year': '2019',
@@ -2984,7 +2965,7 @@ bibdatabase: [
             },
 
   {
-            'id': '149',
+            'id': '148',
             'author': 'Tomohide Iwao, Genta Kato, Eiji Aramaki, Tomohiro Kuroda',
             'title': 'A survey of clarithromycin monotherapy and long‐term administration of ethambutol for patients with MAC lung disease in Japan: A retrospective cohort study using the database of health insurance claims',
             'year': '2019',
@@ -3004,7 +2985,7 @@ bibdatabase: [
             },
 
   {
-            'id': '150',
+            'id': '149',
             'author': 'Kenichiro Fujita, Katsumi Onishi, Tadamasa Takemura, Tomohiro Kuroda',
             'title': 'The Improvement of the Electronic Health Record User Experience by Screen Design Principles',
             'year': '2019',
@@ -3021,7 +3002,7 @@ bibdatabase: [
             },
 
   {
-            'id': '151',
+            'id': '150',
             'author': 'Samar El Helou, Shinji Kobayashi, Goshiro Yamamoto, Naoto Kume, Eiji Kondo, Shusuke Hiragi, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Graph databases for openEHR clinical repositories',
             'year': '2019',
@@ -3039,7 +3020,7 @@ bibdatabase: [
             },
 
   {
-            'id': '152',
+            'id': '151',
             'author': 'Kana Eguchi, Masayuki Nambu, Takahiro Kamikawa, Kazuo Ueshima, Tomohiro Kuroda',
             'title': 'Smart Textile Device with Embedded Fabric Electrodes Targeting Periodic Limb Movements Monitoring at Home: A Case Report',
             'year': '2019',
@@ -3059,7 +3040,7 @@ bibdatabase: [
             },
 
   {
-            'id': '153',
+            'id': '152',
             'author': 'Yuichi Nishioka, Sadanori Okada, Tatsuya Noda, Tomoya Myojin, Shinichiro Kubo, Shosuke Ohtera, Genta Kato, Tomohiro Kuroda, Hitoshi Ishii, Tomoaki Imamura',
             'title': 'Absolute Risk of Acute Coronary Syndrome after Severe Hypoglycemia: A Population-Based 11 2-year Cohort Study Using the National Database in Japan',
             'year': '2019',
@@ -3078,7 +3059,7 @@ bibdatabase: [
             },
 
   {
-            'id': '154',
+            'id': '153',
             'author': 'Tomohide Iwao, Genta Kato, Shigeru Ohtsuru, Eiji Kondo, Takeo Nakayama, Tomohiro Kuroda',
             'title': 'An Optimum Data Warehouse for Epidemiological Analysis using the National Database of Health Insurance Claims of Japan',
             'year': '2019',
@@ -3098,7 +3079,7 @@ bibdatabase: [
             },
 
   {
-            'id': '155',
+            'id': '154',
             'author': 'Shusuke Hiragi, Rei Goto, Yukari Tanaka, Yoko Matsuyama, Atsuo Sawada, Kaoru Sakai, Hitomi Miyata, Hiroshi Tamura, Motoko Yanagita, Tomohiro Kuroda, Osamu Ogawa, Takashi Kobayashi',
             'title': 'Estimating the Net Utility Gains among Donors and Recipients of Adult Living Donor Kidney Transplantation',
             'year': '2019',
@@ -3118,7 +3099,7 @@ bibdatabase: [
             },
 
   {
-            'id': '156',
+            'id': '155',
             'author': 'Miho Asano, Genta Kato, Shosuke Ohtera, Yukiko Mori, Hiroaki Ueshima, Tomohiro Kuroda',
             'title': 'Introduction of healthcare big data in Japan: National Database of Health Insurance Claims and Specific Health Checkups of Japan (NDB)',
             'year': '2019',
@@ -3135,7 +3116,7 @@ bibdatabase: [
             },
 
   {
-            'id': '157',
+            'id': '156',
             'author': 'Tomohiro Kuroda',
             'title': 'Next Generation Hospital Information Systems',
             'year': '2019',
@@ -3154,7 +3135,7 @@ bibdatabase: [
             },
 
   {
-            'id': '158',
+            'id': '157',
             'author': 'Kenichiro Fujita, Osamu Sugiyama, Shusuke Hiragi, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda',
             'title': 'Analysis for the Annual Text Amount of Electronic Medical Records',
             'year': '2019',
@@ -3171,7 +3152,7 @@ bibdatabase: [
             },
 
   {
-            'id': '159',
+            'id': '158',
             'author': 'Samar El Helou, Victoria Abou-Khalil, Goshiro Yamamoto, Eiji Kondo, Hiroshi Tamura, Shusuke Hiragi, Osamu Sugiyama, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Prioritizing Features to Redesign in an EMR System',
             'year': '2019',
@@ -3188,7 +3169,7 @@ bibdatabase: [
             },
 
   {
-            'id': '160',
+            'id': '159',
             'author': 'Yohei Yamasaki, Osamu Sugiyama, Shusuke Hiragi, Shosuke Ohtera, Goshiro Yamamoto, Hiroshi Sasaki, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Early Nephrosis Detection Based on Deep Learning with Clinical Time-Series Data',
             'year': '2019',
@@ -3205,7 +3186,7 @@ bibdatabase: [
             },
 
   {
-            'id': '161',
+            'id': '160',
             'author': 'Luciano Santos, Kazuya Okamoto, Goshiro Yamamoto, Osamu Sugiyama, Tomoki Aoyama, Tomohiro Kuroda',
             'title': 'Design Elements of Pervasive Games for Elderly Players: A Social Interaction Study Case',
             'year': '2019',
@@ -3224,7 +3205,7 @@ bibdatabase: [
             },
 
   {
-            'id': '162',
+            'id': '161',
             'author': 'Koji Shimizu, Gakuto Aoyama, Mizuho Nishio, Masahiro Yakami, Takeshi Kubo, Yutaka Emoto, Tatsuya Ito, Tomohiro Kuroda, Hiroyoshi Isoda',
             'title': 'A case study regarding clinical performance evaluation method of medical device software for approval',
             'year': '2019',
@@ -3243,7 +3224,7 @@ bibdatabase: [
             },
 
   {
-            'id': '163',
+            'id': '162',
             'author': 'Tomohiro Kuroda',
             'title': 'In order to Nurture Genuine Medical : Guideline for Medical Data Collection and Utilization',
             'year': '2019',
@@ -3262,7 +3243,7 @@ bibdatabase: [
             },
 
   {
-            'id': '164',
+            'id': '163',
             'author': 'Osamu Sugiyama, Yoshikatsu Hosoda, Masahiro Miyake, Ryo Otsuki, Shusuke Hiragi, Goshiro Yamamoto, Hiroshi Tamura, Akitaka Tsujikawa, Tomohiro Kuroda',
             'title': 'Applying GoogLeNet for Classifying Exudative Lesions with AMD based on Fundus Images',
             'year': '2019',
@@ -3281,7 +3262,7 @@ bibdatabase: [
             },
 
   {
-            'id': '165',
+            'id': '164',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Shuji Yano, Kohei Matsumura, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'Development of Digital Symbol Understanding System (DSUS) for understand Numerical Values from Healthcare Device Pictures',
             'year': '2019',
@@ -3299,7 +3280,7 @@ bibdatabase: [
             },
 
   {
-            'id': '166',
+            'id': '165',
             'author': 'Tomohiro Kuroda',
             'title': 'Research on Ideal Health Big-data Utilization Model using NDB',
             'year': '2019',
@@ -3316,7 +3297,7 @@ bibdatabase: [
             },
 
   {
-            'id': '167',
+            'id': '166',
             'author': 'Youhei Taniguchi, Kenichiro Fujita, Yoshihiro Kinoshita, Kentaro Honma, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Formulation and Application of Regulation for Medical Devices to be Connected HIS Network',
             'year': '2019',
@@ -3335,7 +3316,7 @@ bibdatabase: [
             },
 
   {
-            'id': '168',
+            'id': '167',
             'author': 'Kazuya Matsuura, Goshiro Yamamoto, Koshiro Katsuki, Masayoshi Sudo, Junzo Sasaki, Keiko Kitayama, Kana Tsuji, Yasuhiro Kusano, Matsuko Mimoto, Masashi Kotani, Kenichiro Fujita, Masahiro Ashida, Kimihiro Furusawa, Mototsugu Takemoto, Mikako Ohno, Shusuke Hiragi, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Development of License Management System for Kyoto University Hospital',
             'year': '2019',
@@ -3354,7 +3335,7 @@ bibdatabase: [
             },
 
   {
-            'id': '169',
+            'id': '168',
             'author': 'Masashi Kotani, Masaru Watanabe, Jun Isejima, Takeshi Sugino, Tsukasa Mishiro, Rikako Sato, Ayako Nakamura, Toshiharu Teramae, Genta Kato, Junko Igawa, Tomohiro Kuroda, Akifumi Takaori',
             'title': 'Switching to Medical-Nursing Requirement 2 -Utilization of HOMAS2 for Decision Making of Board of Hospital-',
             'year': '2019',
@@ -3371,7 +3352,7 @@ bibdatabase: [
             },
 
   {
-            'id': '170',
+            'id': '169',
             'author': 'Tomoko Hikita, Osamu Sugiyama, Tomohiro Kuroda, Tadamasa Takemura',
             'title': 'Analysis of Nurses Location Information from the Log Data of the Vital Data  Terminal',
             'year': '2019',
@@ -3389,7 +3370,7 @@ bibdatabase: [
             },
 
   {
-            'id': '171',
+            'id': '170',
             'author': 'Shosuke Ohtera, Eizen Kimura, Kaori Sasaki, Tomohiro Kuroda',
             'title': 'What Japan can Learn from Actual Situation of Secondary Usage of Medical Information in Finland',
             'year': '2019',
@@ -3407,7 +3388,7 @@ bibdatabase: [
             },
 
   {
-            'id': '172',
+            'id': '171',
             'author': 'Naoto Kume, Hiroyuki Yoshihara, Tomohiro Kuroda, Kenji Araki',
             'title': 'Construction of A Centralized Database System of Electronic Health Record As A Medical Information Distribution Infrastructure',
             'year': '2019',
@@ -3425,7 +3406,7 @@ bibdatabase: [
             },
 
   {
-            'id': '173',
+            'id': '172',
             'author': 'Shota Yamauchi, Kazuya Okamoto, Shusuke Hiragi, Osamu Sugiyama, Goshiro Yamamoto, Hiroshi Sasaki, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'User evaluation of interactive decision support systems for potential patients in terms of willingness of seeing a doctor and usability',
             'year': '2019',
@@ -3444,7 +3425,7 @@ bibdatabase: [
             },
 
   {
-            'id': '174',
+            'id': '173',
             'author': 'Andri Malfian Labiro, Kazuya Okamoto, Purnomo Husnul Khotimah, Shusuke Hiragi, Osamu Sugiyama, Goshiro Yamamoto, Tomohiro Kuroda',
             'title': 'Predicting risk of Complication in T2DM: A Temporal Phenotyping Approach to detect risk of diabetic Nephropathy',
             'year': '2019',
@@ -3463,7 +3444,7 @@ bibdatabase: [
             },
 
   {
-            'id': '175',
+            'id': '174',
             'author': 'Shusuke Hiragi, Tomohiro Kuroda, Masahiro Ihara, Genta Kato',
             'title': 'KUMAHOPE Project -Fostering Young Clinicians with Management Mind',
             'year': '2019',
@@ -3482,7 +3463,7 @@ bibdatabase: [
             },
 
   {
-            'id': '176',
+            'id': '175',
             'author': 'Yuki Mori, Masahiro Miyake, Ryo Otsuki, Yoshikatsu Hosoda, Shusuke Hiragi, Osamu Sugiyama, Hiroshi Tamura, Tomohiro Kuroda, Akitaka Tsujikawa',
             'title': 'Effect of Transfer Learning in Automatic Diagnosis of Age-related Macular Degeneration from Fundus Photography using Deep Learning',
             'year': '2019',
@@ -3501,7 +3482,7 @@ bibdatabase: [
             },
 
   {
-            'id': '177',
+            'id': '176',
             'author': 'Chikako Toyooka, Yasuyo Kusunoki, Kaoru Tochinoki, Yoshihiro Kuwabara, Ai Kawakami, Hiroshi Sasaki, Kiyohiko Matsutake, Masayo Ishiguro, Chisa Yasukawa, Akiko Kuroda, Kaori Kikumoto, Hiromichi Kamakari, Miho Nishii, Masahiro Hashi, Minoru Fukushima, Tomohiro Kuroda, Kenji Ueshima, Atsushi Takahashi, Ryosuke Takahashi',
             'title': 'Report on Management System for Public Recruitment of Eye-catching and Highly-applicable Doctor-initiated Clinical Trials using iPS Cells -Preparing Special Web Site and Call Center-',
             'year': '2019',
@@ -3520,7 +3501,7 @@ bibdatabase: [
             },
 
   {
-            'id': '178',
+            'id': '177',
             'author': 'Yuta Nakanishi, Masahiro Miyake, Ryo Otsuki, Yuki Mori, Yoshikatsu Hosoda, Shusuke Hiragi, Osamu Sugiyama, Hiroshi Tamura, Tomohiro Kuroda, Akitaka Tsujikawa',
             'title': 'Performance Comparison of Deep Learning Models in Fundus Photographic Diagnosis of Wet Age-related Macular Degeneration',
             'year': '2019',
@@ -3539,7 +3520,7 @@ bibdatabase: [
             },
 
   {
-            'id': '179',
+            'id': '178',
             'author': 'Yuta Nakanishi, Masahiro Miyake, Ryo Otsuki, Yoshikatsu Hosoda, Shusuke Hiragi, Osamu Sugiyama, Hiroshi Tamura, Tomohiro Kuroda, Akitaka Tsujikawa',
             'title': 'Performance Comparison of Deep Learning Models in Fundus Photographic Diagnosis of Wet Age-related Macular Degeneration',
             'year': '2019',
@@ -3557,7 +3538,7 @@ bibdatabase: [
             },
 
   {
-            'id': '180',
+            'id': '179',
             'author': 'Kensuke Morris, Osamu Sugiyama, Goshiro Yamamoto, Manabu Shimoto, Genta Kato, Shigeru Ohtsuru, Tomohiro Kuroda',
             'title': 'Analyzing Instant Messaging Communication of Emergency Physicians',
             'year': '2019',
@@ -3574,7 +3555,7 @@ bibdatabase: [
             },
 
   {
-            'id': '181',
+            'id': '180',
             'author': 'Tomohiro Kuroda',
             'title': 'History and Snapshot of JSMBE Guideline for Clinical Research Act Development',
             'year': '2019',
@@ -3592,7 +3573,7 @@ bibdatabase: [
             },
 
   {
-            'id': '182',
+            'id': '181',
             'author': 'Tomohiro Kuroda, Kazuo Ueshima',
             'title': 'Needs for Smart Textiles and Solutions',
             'year': '2019',
@@ -3609,7 +3590,7 @@ bibdatabase: [
             },
 
   {
-            'id': '183',
+            'id': '182',
             'author': 'Kana Eguchi, Masayuki Nambu, Kazuo Ueshima, Tomohiro Kuroda',
             'title': 'Primary Evaluation of Wearable Surface Electromyogram Measurement Textile Targeting Periodic Limb Movements Detection at Home',
             'year': '2019',
@@ -3626,7 +3607,7 @@ bibdatabase: [
             },
 
   {
-            'id': '184',
+            'id': '183',
             'author': 'Shusuke Hiragi, Osamu Sugiyama, Shosuke Ohtera, Goshiro Yamamoto, Hiroshi Sasaki, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Efficiency of token-based hospital bed allocation system',
             'year': '2019',
@@ -3643,7 +3624,7 @@ bibdatabase: [
             },
 
   {
-            'id': '185',
+            'id': '184',
             'author': 'Shota Yamauchi, Kazuya Okamoto, Shusuke Hiragi, Osamu Sugiyama, Goshiro Yamamoto, Hiroshi Sasaki, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'An attempt at interview optimization for an interactive decision support system for potential patients',
             'year': '2019',
@@ -3661,7 +3642,7 @@ bibdatabase: [
             },
 
   {
-            'id': '186',
+            'id': '185',
             'author': 'Yohei Yamasaki, Osamu Sugiyama, Shusuke Hiragi, Shosuke Ohtera, Goshiro Yamamoto, Hiroshi Sasaki, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Nephrosis onset prediction with clinical time-series data for clinical support system',
             'year': '2019',
@@ -3679,7 +3660,7 @@ bibdatabase: [
             },
 
   {
-            'id': '187',
+            'id': '186',
             'author': 'Shuji Yano, Ryo Otsuki, Osamu Sugiyama, Kohei Matsumura, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'Analyzing the relationship between page views toward visualization application and activities in health promotion event',
             'year': '2019',
@@ -3697,7 +3678,7 @@ bibdatabase: [
             },
 
   {
-            'id': '188',
+            'id': '187',
             'author': 'Tomohiro Kuroda',
             'title': 'Evaluating 12-lead ECG e-Textile TECHOSENSOR ER (First Report)',
             'year': '2019',
@@ -3715,7 +3696,7 @@ bibdatabase: [
             },
 
   {
-            'id': '189',
+            'id': '188',
             'author': 'Santos Luciano Henrique Oliveira, Okamoto Kazuya, Hiragi Shusuke, Yamamoto Goshiro, Sugiyama Osamu, Aoyama Tomoki, Kuroda Tomohiro',
             'title': 'Pervasive Game Design to Evaluate Social Interaction Effects on Levels of Physical Activity among Older Adults',
             'year': '2018',
@@ -3733,7 +3714,7 @@ bibdatabase: [
             },
 
   {
-            'id': '190',
+            'id': '189',
             'author': 'Santos Luciano H O, Okamoto Kazuya, Hiragi Shusuke, Yamamoto Goshiro, Sugiyama Osamu, Aoyama Tomoki, Kuroda Tomohiro',
             'title': 'Pervasive Game Design to Promote an Active Lifestyle among Older Adults Using Social Interaction',
             'year': '2018',
@@ -3751,7 +3732,7 @@ bibdatabase: [
             },
 
   {
-            'id': '191',
+            'id': '190',
             'author': 'Mizuho Nishio, Osamu Sugiyama, Masahiro Yakami, Shoko Ueno, Takeshi Kubo, Tomohiro Kuroda, Kaori Togashi',
             'title': 'Computer-aided diagnosis of lung nodule classification between benign nodule, primary lung cancer, and metastatic lung cancer at different image size using deep convolutional neural network with transfer learning',
             'year': '2018',
@@ -3768,7 +3749,7 @@ bibdatabase: [
             },
 
   {
-            'id': '192',
+            'id': '191',
             'author': 'Samar El Helou, Goshiro Yamamoto, Eiji Kondo, Hiroshi Tamura, Shusuke Hiragi, Osamu Sugiyama, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Understanding the Roles of EMR Systems in Japanese Antenatal Care Settings',
             'year': '2018',
@@ -3785,7 +3766,7 @@ bibdatabase: [
             },
 
   {
-            'id': '193',
+            'id': '192',
             'author': 'Mai Sato, Eiji Kondo, Tomohide Iwao, Shusuke Hiragi, Kazuya Okamoto, Hiroshi Tamura, Haruta Mogami, Yoshitsugu Chigusa, Tomohiro Kuroda, Masaki Mandai, Ikuo Konishi, Genta Kato',
             'title': 'Nationwide Survey of Severe Postpartum Haemorrhage in Japan: an Exploratory Study using the National Database of Health Insurance Claims',
             'year': '2018',
@@ -3803,7 +3784,7 @@ bibdatabase: [
             },
 
   {
-            'id': '194',
+            'id': '193',
             'author': 'Kensuke Morris, Goshiro Yamamoto, Shusuke Hiragi, Shosuke Ohtera, Michi Sakai, Osamu Sugiyama, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Designing an Authorization System Based on Patient Privacy Preferences in Japan',
             'year': '2018',
@@ -3820,7 +3801,7 @@ bibdatabase: [
             },
 
   {
-            'id': '195',
+            'id': '194',
             'author': 'Mizuho Nishio, Mitsuo Nishizawa, Osamu Sugiyama, Ryosuke Kojima, Masahiro Yakami, Tomohiro Kuroda, Kaori Togashi',
             'title': 'Computer-aided diagnosis of lung nodule using gradient tree boosting and Bayesian optimization',
             'year': '2018',
@@ -3839,7 +3820,7 @@ bibdatabase: [
             },
 
   {
-            'id': '196',
+            'id': '195',
             'author': 'Shusuke Hiragi, Hiroyuki Yamada, Tatsuo Tsukamoto, Kazuki Yoshida, Naoya Kondo, Takeshi Matsubara, Motoko Yanagita, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Acetaminophen Administration and the Risk of Acute Kidney Injury: a Self-Controlled Case Series Study',
             'year': '2018',
@@ -3858,7 +3839,7 @@ bibdatabase: [
             },
 
   {
-            'id': '197',
+            'id': '196',
             'author': 'Kenichiro Fujita, Youhei Taniguchi, Yoshihiro Kinoshita, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda',
             'title': 'Developing a Conference Support Information System with Inter-System Extraction and Display Function',
             'year': '2018',
@@ -3877,7 +3858,7 @@ bibdatabase: [
             },
 
   {
-            'id': '198',
+            'id': '197',
             'author': 'Kazuya Okamoto, Toshio Uchiyama, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Automatic Selection of Diagnosis Procedure Combination Codes Based on Partial Treatment Data Relative to the Number of Hospitalization Days',
             'year': '2018',
@@ -3896,7 +3877,7 @@ bibdatabase: [
             },
 
   {
-            'id': '199',
+            'id': '198',
             'author': 'Tomohiro Kuroda',
             'title': 'Year in Review - Viewpoint of Engineering',
             'year': '2018',
@@ -3915,7 +3896,7 @@ bibdatabase: [
             },
 
   {
-            'id': '200',
+            'id': '199',
             'author': 'Shusuke Hiragi, Hiroshi Tamura, Rei Goto, Tomohiro Kuroda',
             'title': 'The Effect of Model Selection on Cost-effectiveness Research: a Comparison of Kidney Function-based Microsimulation and Disease Grade-based Microsimulation in Chronic Kidney Disease Modeling',
             'year': '2018',
@@ -3934,7 +3915,7 @@ bibdatabase: [
             },
 
   {
-            'id': '201',
+            'id': '200',
             'author': 'Tomohiro Kuroda, Yuki Kuroda, Kazuo Chin',
             'title': 'Structure of Information System for Remote Monitoring',
             'year': '2018',
@@ -3953,7 +3934,7 @@ bibdatabase: [
             },
 
   {
-            'id': '202',
+            'id': '201',
             'author': 'Kenichiro Fujita, Youhei Taniguchi, Masashi Kotani, Masahiro Yakami, Mizuho Nishio, Kazuya Okamoto, Tadamasa Takemura, Hiroyoshi Isoda, Tomohiro Kuroda',
             'title': 'Construction and Evaluation of Clinical Information Export Environment Complying with the Amended Act on the Protection of Personal Information',
             'year': '2018',
@@ -3972,7 +3953,7 @@ bibdatabase: [
             },
 
   {
-            'id': '203',
+            'id': '202',
             'author': 'Tomohide Iwao, Ken Yano, Tomohiro Kuroda',
             'title': 'Survey of drug prescription patterns among patients with nontuberculous mycobacterial disease using the database of health insurance claims',
             'year': '2018',
@@ -3992,7 +3973,7 @@ bibdatabase: [
             },
 
   {
-            'id': '204',
+            'id': '203',
             'author': 'Yuji Morita, Masatoshi Yoshikawa, Noboru Kada, Akihiro Hamasaki, Osamu Sugiyama, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Medication Pattern Mining Considering Unbiased Frequent Use by Doctors',
             'year': '2018',
@@ -4011,7 +3992,7 @@ bibdatabase: [
             },
 
   {
-            'id': '205',
+            'id': '204',
             'author': 'Samar El Helou, Goshiro Yamamoto, Tomohiro Kuroda',
             'title': 'A Socio-Temporal Approach to Understanding Electronic Medical Record System in their Context of Use',
             'year': '2018',
@@ -4030,7 +4011,7 @@ bibdatabase: [
             },
 
   {
-            'id': '206',
+            'id': '205',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Kohei Matsumura, Shuji Yano, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'Walking Record Analysis in the Health Promotion Event with State Transition Diagram',
             'year': '2018',
@@ -4047,7 +4028,7 @@ bibdatabase: [
             },
 
   {
-            'id': '207',
+            'id': '206',
             'author': 'Kazuya Okamoto, Karin Goka, Masahiro Hirose, Goshiro Yamamoto, Shusuke Hiragi, Osamu Sugiyama, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Detecting Incidents of Injection from Electronic Medical Records using Machine Learning Methods',
             'year': '2018',
@@ -4064,7 +4045,7 @@ bibdatabase: [
             },
 
   {
-            'id': '208',
+            'id': '207',
             'author': 'Shosuke Ohtera, Michi Sakai, Tomohide Iwao, Yukiko Neff, Yoshimitsu Takahashi, Genta Kato, Tomohiro Kuroda, Takeo Nakayama',
             'title': 'Health Care Utilization and Hospital Expenditures Among Inpatients Dying of Cancer in Japan',
             'year': '2018',
@@ -4081,7 +4062,7 @@ bibdatabase: [
             },
 
   {
-            'id': '209',
+            'id': '208',
             'author': 'Luciano Santos, Kazuya Okamoto, Goshiro Yamamoto, Shusuke Hiragi, Osamu Sugiyama, Tomoki Aoyama, Tomohiro Kuroda',
             'title': 'Pervasive Game Design to Evaluate Social Interaction Effects on Levels of Physical Activity Among Older Adults',
             'year': '2018',
@@ -4099,7 +4080,7 @@ bibdatabase: [
             },
 
   {
-            'id': '210',
+            'id': '209',
             'author': 'Kana Eguchi, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Investigation of Two Channel Surface Electromyogram Measurement in Lower Extremities for Wearable Devices Targeting Periodic Limb Movements Detection at Home',
             'year': '2018',
@@ -4117,7 +4098,7 @@ bibdatabase: [
             },
 
   {
-            'id': '211',
+            'id': '210',
             'author': 'Samar El Helou, Goshiro Yamamoto, Eiji Kondo, Hiroshi Tamura, Shusuke Hiragi, Osamu Sugiyama, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Understanding the Roles of EMR Systems in Japanese Antenatal Care Settings',
             'year': '2018',
@@ -4135,7 +4116,7 @@ bibdatabase: [
             },
 
   {
-            'id': '212',
+            'id': '211',
             'author': 'Kensuke Morris, Goshiro Yamamoto, Shusuke Hiragi, Shosuke Ohtera, Michi Sakai, Osamu Sugiyama, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Designing an Authorization System Based on Patient Privacy Preferences in Japan',
             'year': '2018',
@@ -4153,7 +4134,7 @@ bibdatabase: [
             },
 
   {
-            'id': '213',
+            'id': '212',
             'author': 'Tomohiro Kuroda, Tomohiro Sawa',
             'title': 'Year in Review',
             'year': '2018',
@@ -4172,7 +4153,7 @@ bibdatabase: [
             },
 
   {
-            'id': '214',
+            'id': '213',
             'author': 'Kana Eguchi, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Overnight Investigation of Periodic Limb Movements by Two Channel Surface EMG in Lower',
             'year': '2018',
@@ -4188,7 +4169,7 @@ bibdatabase: [
             },
 
   {
-            'id': '215',
+            'id': '214',
             'author': 'Kana Eguchi, Masayuki Nambu, Kazuo Ueshima, Tomohiro Kuroda',
             'title': 'Periodic Limb Movements Detection at Daily Life Environment using Wearable Surface Electromyogram Measurement Textile',
             'year': '2018',
@@ -4205,7 +4186,7 @@ bibdatabase: [
             },
 
   {
-            'id': '216',
+            'id': '215',
             'author': 'Tomohiro Kuroda, Toshikazu Shiga',
             'title': 'Data Management for Home Health Monitoring',
             'year': '2018',
@@ -4223,7 +4204,7 @@ bibdatabase: [
             },
 
   {
-            'id': '217',
+            'id': '216',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Kohei Matsumura, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'Medical Numerical Record Recognition using Deep Learning',
             'year': '2018',
@@ -4241,7 +4222,7 @@ bibdatabase: [
             },
 
   {
-            'id': '218',
+            'id': '217',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Kohei Matsumura, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'An Attempt to Develop a Pedometer reading Booth for Health Promotion Event Management',
             'year': '2018',
@@ -4261,7 +4242,7 @@ bibdatabase: [
             },
 
   {
-            'id': '219',
+            'id': '218',
             'author': 'Kenya Murata, Noboru Nishimoto, Kohei Matsumura, Takahiro Adachi, Haruo Noma, Kougoro Iwanaga, Tomohiro Kuroda',
             'title': 'A Proposal of an Attachment Device of Stethoscope for the Neonatal Cardio-Pulmonary Resuscitation Training Workshop',
             'year': '2018',
@@ -4278,7 +4259,7 @@ bibdatabase: [
             },
 
   {
-            'id': '220',
+            'id': '219',
             'author': 'Osamu Sugiyama, Shigeto Sasaki, Hiroaki Kobayashi, Takumi Ishida, Kazuhiko Takase, Tomohiro Kuroda',
             'title': 'Development of Zero-Step Checkup System with IoT Equipment Data Collection Platform',
             'year': '2018',
@@ -4296,7 +4277,7 @@ bibdatabase: [
             },
 
   {
-            'id': '221',
+            'id': '220',
             'author': 'Toshiki Kawai, Hiroki Chino, Haruka Kanbara, Kohei Matsumura, Osamu Sugiyama, Manabu Shimoto, Shigeru Ohtsuru, Haruo Noma, Tomohiro Kuroda',
             'title': 'Proposal and Development of Information Management System based on SNS for Disaster Medical Assistant Team',
             'year': '2018',
@@ -4314,7 +4295,7 @@ bibdatabase: [
             },
 
   {
-            'id': '222',
+            'id': '221',
             'author': 'Yohei Yamasaki, Shusuke Hiragi, Osamu Sugiyama, Shosuke Ohtera, Hiroshi Sasaki, Goshiro Yamamoto, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Interpretation Trial of Nephrosis Prediction Model based on Deep Learning with Clinical Time-series Data',
             'year': '2018',
@@ -4331,7 +4312,7 @@ bibdatabase: [
             },
 
   {
-            'id': '223',
+            'id': '222',
             'author': 'Tomohiro Kuroda, Yuki Kuroda, Kazuo Chin',
             'title': 'Favorable Configuration of Information System to Support Remote Monitoring',
             'year': '2018',
@@ -4349,7 +4330,7 @@ bibdatabase: [
             },
 
   {
-            'id': '224',
+            'id': '223',
             'author': 'Jun Hatanaka, Shusuke Hiragi, Osamu Sugiyama, Shosuke Ohtera, Goshiro Yamamoto, Hiroshi Sasaki, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Attempt for Effective Bed Control by Market Mechanism-based Approach',
             'year': '2018',
@@ -4367,7 +4348,7 @@ bibdatabase: [
             },
 
   {
-            'id': '225',
+            'id': '224',
             'author': 'Yasushi Matsumura, Katsuyuki Miura, Hiroyasu Iso, Isao Muraki, Takeo Okada, Tomohiro Kuroda, Genta Kato, Toshihiro Takeda, Katsuki Okada',
             'title': 'The Possibility of Unified Management of Medical Checkup Data as PHR',
             'year': '2018',
@@ -4385,7 +4366,7 @@ bibdatabase: [
             },
 
   {
-            'id': '226',
+            'id': '225',
             'author': 'Kenichiro Fujita, Osamu Sugiyama, Shusuke Hiragi, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda',
             'title': 'Analysis for a Predictive Model for an Annual Quantity of Description of Electronic Medical Records',
             'year': '2018',
@@ -4403,7 +4384,7 @@ bibdatabase: [
             },
 
   {
-            'id': '227',
+            'id': '226',
             'author': 'Kazuya Okamoto, Masahiro Hirose, Tomohiro Kuroda',
             'title': 'Finding Incidents from Electronic Medical Records using Machine Learning Technique',
             'year': '2018',
@@ -4421,7 +4402,7 @@ bibdatabase: [
             },
 
   {
-            'id': '228',
+            'id': '227',
             'author': 'Jun Hatanaka, Shusuke Hiragi, Osamu Sugiyama, Goshiro Yamamoto, Hiroshi Sasaki, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Evaluating Bed-Control based on Market Mechanism',
             'year': '2018',
@@ -4439,7 +4420,7 @@ bibdatabase: [
             },
 
   {
-            'id': '229',
+            'id': '228',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Kohei Matsumura, Shuji Yano, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'Analyzing Change of Steps using Step Counter Record during a Walking Event',
             'year': '2018',
@@ -4458,7 +4439,7 @@ bibdatabase: [
             },
 
   {
-            'id': '230',
+            'id': '229',
             'author': 'Kenichiro Fujita, Youhei Taniguchi, Masahiro Yakami, Mizuho Nishio, Kazuya Okamoto, Tadamasa Takemura, Hiroyoshi Isoda, Tomohiro Kuroda',
             'title': 'Developing Clinical Data Output Platform along the Act on Privacy Data Protection',
             'year': '2018',
@@ -4475,7 +4456,7 @@ bibdatabase: [
             },
 
   {
-            'id': '231',
+            'id': '230',
             'author': 'Tomohiro Kuroda',
             'title': 'Basic Strategy to Generate Machine Readable Data',
             'year': '2018',
@@ -4492,7 +4473,7 @@ bibdatabase: [
             },
 
   {
-            'id': '232',
+            'id': '231',
             'author': 'Takeshi Sugino, Masayoshi Sudo, Kenichiro Fujita, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Cost Reduction of Expendables by Replacement of Printer',
             'year': '2018',
@@ -4510,7 +4491,7 @@ bibdatabase: [
             },
 
   {
-            'id': '233',
+            'id': '232',
             'author': 'Santos Luciano Henrique Oliveira, Okamoto Kazuya, Yamamoto Goshiro, Sugiyama Osamu, Aoyama Tomoki, Kuroda Tomohiro',
             'title': 'A Pervasive Game to Evaluate the Effectiveness of Social Interaction to Increase Daily Activity of Older Adults',
             'year': '2017',
@@ -4527,7 +4508,7 @@ bibdatabase: [
             },
 
   {
-            'id': '234',
+            'id': '233',
             'author': 'Purnomo Husnul Khotimah, Yuichi Sugiyama, Masatoshi Yoshikawa, Akihiro Hamasaki, Osamu Sugiyama, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Medication Episode Construction Framework for Retrospective Database Analyses of Patients with Chronic Diseases',
             'year': '2017',
@@ -4544,7 +4525,7 @@ bibdatabase: [
             },
 
   {
-            'id': '235',
+            'id': '234',
             'author': 'Kana Eguchi, Masayuki Nambu, Kazuo Ueshima, Tomohiro Kuroda',
             'title': 'Prototyping of Smart Wearable Socks for Periodic Limb Movement Home Monitoring System',
             'year': '2017',
@@ -4564,7 +4545,7 @@ bibdatabase: [
             },
 
   {
-            'id': '236',
+            'id': '235',
             'author': 'Yuki Uranishi, Yu Maruyama, Chisako Naito, Kazuya Okamoto, Hiroshi Tamura, Genta Kato, Tomohiro Kuroda',
             'title': 'Blood Collection Trainer with Visualization of Failure',
             'year': '2017',
@@ -4584,7 +4565,7 @@ bibdatabase: [
             },
 
   {
-            'id': '237',
+            'id': '236',
             'author': 'Tuukka Karvonen, Yusuke Muranishi, Goshiro Yamamoto, Tomohiro Kuroda, Toshihiko Sato',
             'title': 'Evaluation of a novel multi-articulated endoscope: proof of concept through a virtual simulation',
             'year': '2017',
@@ -4604,7 +4585,7 @@ bibdatabase: [
             },
 
   {
-            'id': '238',
+            'id': '237',
             'author': 'Hitomi Yamada, Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Shigeki Kuwata',
             'title': 'Consideration of Automatic Evaluation System for Description of Informed Consent in Medical Records',
             'year': '2017',
@@ -4623,7 +4604,7 @@ bibdatabase: [
             },
 
   {
-            'id': '239',
+            'id': '238',
             'author': 'Goshiro Yamamoto, Luiz Sampaio, Takashi Taketomi, Hirokazu Kato, Christian Sandor, Tomohiro Kuroda',
             'title': 'Imperceptible On-Screen Markers for Mobile Interaction on Public Large Displays',
             'year': '2017',
@@ -4641,7 +4622,7 @@ bibdatabase: [
             },
 
   {
-            'id': '240',
+            'id': '239',
             'author': 'Takeo Nakayama, Yuichi Imanaka, Yasushi Okuno, Genta Kato, Tomohiro Kuroda, Rei Goto, Shiro Tanaka, Hiroshi Tamura, Shunichi Fukuhara, Shingo Fukuma, Manabu Muto, Motoko Yanagita, Yosuke Yamamoto',
             'title': 'Analysis of the Evidence-practice Gap to Facilitate Proper Medical Care for the Elderly: Investigation, using Databases, of Utilization Measures for National Database of Health Insurance Claims and Specific Health Checkups of Japan (NDB)',
             'year': '2017',
@@ -4658,7 +4639,7 @@ bibdatabase: [
             },
 
   {
-            'id': '241',
+            'id': '240',
             'author': 'Kana Eguchi, Masayuki Nambu, Kimihiko Murase, Kazuo Chin, Tomohiro Kuroda',
             'title': 'Surface Electromyogram Measurement e-Textile for the Wearable Periodic Limb Movement Home Monitoring System',
             'year': '2017',
@@ -4675,7 +4656,7 @@ bibdatabase: [
             },
 
   {
-            'id': '242',
+            'id': '241',
             'author': 'Tomohiro Kuroda, Kenichiro Fujita, Goshiro Yamamoto, Kazuya Okamoto, Masahiro Yakami, Mizuho Nishio, Hiroyoshi Isoda',
             'title': 'A Medical Image De-identifier Bridging a Hospital Information Systems and Cloud Services',
             'year': '2017',
@@ -4692,7 +4673,7 @@ bibdatabase: [
             },
 
   {
-            'id': '243',
+            'id': '242',
             'author': 'Tomohiro Kuroda, Hiroki Shiomi, Eri Minamino-Muta, Yugo Yamashita, Tomohide Iwao, Hiroshi Tamura, Kazuo Ueshima, Takeshi Kimura',
             'title': 'Evaluation of NISHIJIN e-Textile for 12-lead ECG measurement through Automatic ECG Analyzer',
             'year': '2017',
@@ -4710,7 +4691,7 @@ bibdatabase: [
             },
 
   {
-            'id': '244',
+            'id': '243',
             'author': 'Noboru Nishimoto, Wei Yaguang, Kohei Matsumura, Roberto Lopez-Gulliver, Haruo Noma, Kougoro Iwanaga, Tomohiro Kuroda',
             'title': 'Training Simulator for Resuscitation of Neonate with High Effectiveness and Low Introduction Cost',
             'year': '2017',
@@ -4728,7 +4709,7 @@ bibdatabase: [
             },
 
   {
-            'id': '245',
+            'id': '244',
             'author': 'Toshiki Kawai, Haruka Kanbara, Kohei Matsumura, Haruo Noma, Osamu Sugiyama, Manabu Shimoto, Shigeru Ohtsuru, Tomohiro Kuroda',
             'title': 'Design and Implementation of a Social Networking Service-Based Application for Supporting Disaster Medical Assistance Teams',
             'year': '2017',
@@ -4746,7 +4727,7 @@ bibdatabase: [
             },
 
   {
-            'id': '246',
+            'id': '245',
             'author': 'Tuukka Karvonen, Yusuke Muranishi, Goshiro Yamamoto, Tomohiro Kuroda, Toshihiko Sato',
             'title': 'Evaluation of a novel multi-articulated endoscope: proof of concept through a virtual simulation',
             'year': '2017',
@@ -4765,7 +4746,7 @@ bibdatabase: [
             },
 
   {
-            'id': '247',
+            'id': '246',
             'author': 'Tomohiro Kuroda',
             'title': 'Snapshot of Medical Informatics Research in Japan',
             'year': '2017',
@@ -4783,7 +4764,7 @@ bibdatabase: [
             },
 
   {
-            'id': '248',
+            'id': '247',
             'author': 'Tuukka Karvonen, Goshiro Yamamoto, Yusuke Muranishi, Toshihiko Sato, Tomohiro Kuroda',
             'title': 'Augmented Virtuality Platform for Usability Evaluation of a Novel Endoscope Concept',
             'year': '2017',
@@ -4802,7 +4783,7 @@ bibdatabase: [
             },
 
   {
-            'id': '249',
+            'id': '248',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Kohei Matsumura, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'When should the Health Promotion Agent Recommend the User to Walk? - Approach for Searching an Appropriate Walking Pattern for the User',
             'year': '2017',
@@ -4820,7 +4801,7 @@ bibdatabase: [
             },
 
   {
-            'id': '250',
+            'id': '249',
             'author': 'Tomohiro Kuroda',
             'title': 'New Japanese Legislations on Privacy Protection and Health Data Utilization',
             'year': '2017',
@@ -4837,7 +4818,7 @@ bibdatabase: [
             },
 
   {
-            'id': '251',
+            'id': '250',
             'author': 'Samar El Helou, Tuukka Karvonen, Goshiro Yamamoto, Naoto Kume, Shinji Kobayashi, Eiji Kondo, Shusuke Hiragi, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Generation of OpenEHR Test Datasets for Benchmarking',
             'year': '2017',
@@ -4857,7 +4838,7 @@ bibdatabase: [
             },
 
   {
-            'id': '252',
+            'id': '251',
             'author': 'Kensuke Morris, Naoto Kume, Goshiro Yamamoto, Shinji Kobayashi, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Authenticating Unknown Doctors for Access to EHRs based on Societal Trust',
             'year': '2017',
@@ -4877,7 +4858,7 @@ bibdatabase: [
             },
 
   {
-            'id': '253',
+            'id': '252',
             'author': 'Tomohiro Kuroda, Tomoko Hikita, Kenichiro Fujita, Osamu Sugiyama, Kazuya Okamoto',
             'title': 'Bedside Vital Data Terminal reducing Nursing Tasks',
             'year': '2017',
@@ -4894,7 +4875,7 @@ bibdatabase: [
             },
 
   {
-            'id': '254',
+            'id': '253',
             'author': 'Masayuki Nambu, Osamu Sugiyama, Miho Asano, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Data Warehouse System Conjunction with Cohort Data and Clinical Data',
             'year': '2017',
@@ -4912,7 +4893,7 @@ bibdatabase: [
             },
 
   {
-            'id': '255',
+            'id': '254',
             'author': 'Kana Eguchi, Masayuki Nambu, Kimihiko Murase, Kazuo Chin, Tomohiro Kuroda',
             'title': 'Wearable Electromyogram Measurement Textile for Periodic Limb Movement Monitoring in Daily Life',
             'year': '2017',
@@ -4932,7 +4913,7 @@ bibdatabase: [
             },
 
   {
-            'id': '256',
+            'id': '255',
             'author': 'Osamu Sugiyama, Mao Suzuki, Ryo Otsuki, Kohei Matsumura, Asuka Wakao, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'Development of PHR Platform to Collect Activity Record within Health Promotion Event and Analysis of the Activity to Make People Obtain Walking Habit',
             'year': '2017',
@@ -4949,7 +4930,7 @@ bibdatabase: [
             },
 
   {
-            'id': '257',
+            'id': '256',
             'author': 'Noboru Kada, Masatoshi Yoshikawa, Akihiro Hamasaki, Osamu Sugiyama, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'User Interface of CDSS for Drug Therapy of Thyroid Disease',
             'year': '2017',
@@ -4966,7 +4947,7 @@ bibdatabase: [
             },
 
   {
-            'id': '258',
+            'id': '257',
             'author': 'Yuji Morita, Masatoshi Yoshikawa, Akihiro Hamasaki, Osamu Sugiyama, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Reconstruction of Medication History and Pattern Mining considering Medical Doctors\' Diversity',
             'year': '2017',
@@ -4983,7 +4964,7 @@ bibdatabase: [
             },
 
   {
-            'id': '259',
+            'id': '258',
             'author': 'Shusuke Hiragi, Yasushi Kobayashi, Hiroshi Tamura, Rei Goto, Yukari Tanaka, Atsuo Sawada, Kaoru Sakai, Hitomi Miyata, Motoko Yanagita, Tomohiro Kuroda',
             'title': 'Evaluation of QoL after Renal Transplantation using EQ5D5L',
             'year': '2017',
@@ -5001,7 +4982,7 @@ bibdatabase: [
             },
 
   {
-            'id': '260',
+            'id': '259',
             'author': 'Tomohiro Kuroda',
             'title': 'Ideal Data Flow of Clinical Medicine of the Information Age and Laws',
             'year': '2017',
@@ -5018,7 +4999,7 @@ bibdatabase: [
             },
 
   {
-            'id': '261',
+            'id': '260',
             'author': 'Osamu Sugiyama, Ryo Otsuki, Mao Suzuki, Kohei Matsumura, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'Analysis of Health Behavior based on Users\' Activities in the Health Promotion Event',
             'year': '2017',
@@ -5037,7 +5018,7 @@ bibdatabase: [
             },
 
   {
-            'id': '262',
+            'id': '261',
             'author': 'Kazuya Okamoto, Masahiro Yakami, Akira Yamamoto, Hiroyoshi Isoda, Kenichiro Fujita, Masayoshi Sudo, Kaori Togashi, Tomohiro Kuroda',
             'title': 'How to secure data continuation in PACS update',
             'year': '2017',
@@ -5055,7 +5036,7 @@ bibdatabase: [
             },
 
   {
-            'id': '263',
+            'id': '262',
             'author': 'Shoko Ueno, Osamu Sugiyama, Mizuho Nishio, Masahiro Yakami, Goshiro Yamamoto, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Attempts of Computer-Aided Diagnosis for Pulmanory Nodule Classification with Patient Information',
             'year': '2017',
@@ -5074,7 +5055,7 @@ bibdatabase: [
             },
 
   {
-            'id': '264',
+            'id': '263',
             'author': 'Karin Goka, Kazuya Okamoto, Masahiro Hirose, Shusuke Hiragi, Goshiro Yamamoto, Osamu Sugiyama, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Attempt to Detect Incidents from Electronic Medical Records using Data Mining Technology',
             'year': '2017',
@@ -5093,7 +5074,7 @@ bibdatabase: [
             },
 
   {
-            'id': '265',
+            'id': '264',
             'author': 'Tomohiro Kuroda',
             'title': 'Ideal Data Flow of Medicine of Information Age',
             'year': '2017',
@@ -5110,7 +5091,7 @@ bibdatabase: [
             },
 
   {
-            'id': '266',
+            'id': '265',
             'author': 'Kenichiro Fujita, Minoru Fukushima, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Efforts to Improve Regional Healthcare Collaboration by Connecting FAX and Hospital Information System',
             'year': '2017',
@@ -5129,7 +5110,7 @@ bibdatabase: [
             },
 
   {
-            'id': '267',
+            'id': '266',
             'author': 'Osamu Sugiyama, Hiroaki Kobayashi, Takumi Ishida, Kazuhiko Takase, Tomohiro Kuroda',
             'title': 'Attempt to Develop Medical Device Data Collection Platform for IoT based Hospital Information System',
             'year': '2017',
@@ -5148,7 +5129,7 @@ bibdatabase: [
             },
 
   {
-            'id': '268',
+            'id': '267',
             'author': 'Tomohiro Kuroda, Hisashi Saito, Shinsuke Muto, Shigeto Yonemura, Takashi Suzuki',
             'title': 'Challenges on Legal Systems for Computerization of Clinical Medicine - Toward Accumulation and Utilization of Clinical Big Data -',
             'year': '2017',
@@ -5167,7 +5148,7 @@ bibdatabase: [
             },
 
   {
-            'id': '269',
+            'id': '268',
             'author': 'Tomoko Hikita, Hiroe Yamanaka, Kenichiro Fujita, Tadamasa Takemura, Tomohiro Kuroda',
             'title': 'Evaluation on Usage Situation of Vital Data Terminal',
             'year': '2017',
@@ -5186,7 +5167,7 @@ bibdatabase: [
             },
 
   {
-            'id': '270',
+            'id': '269',
             'author': 'Shosuke Ohtera, Michi Sakai, Genta Kato, Tomohiro Kuroda',
             'title': 'Progress in Usage of National Insurance Claims Database (NDB) On-site Research Center in Kyoto',
             'year': '2017',
@@ -5205,7 +5186,7 @@ bibdatabase: [
             },
 
   {
-            'id': '271',
+            'id': '270',
             'author': 'Tomohiro Kuroda',
             'title': 'Future with Next Generation Medical Platform Act',
             'year': '2017',
@@ -5224,7 +5205,7 @@ bibdatabase: [
             },
 
   {
-            'id': '272',
+            'id': '271',
             'author': 'Kosuke Sasai, Yuko Shimoe, Naoki Mihara, Sawako Uchida, Shinya Nakajima, Toshinari Nakano, Tomohiro Kuroda, Hiroo Tamagawa, Keunsik Park, Masaki Miyamoto',
             'title': 'Development of the Diagnostic Imaging Navigation using the Knowledge Base',
             'year': '2017',
@@ -5243,7 +5224,7 @@ bibdatabase: [
             },
 
   {
-            'id': '273',
+            'id': '272',
             'author': 'Kazuko Komai, Toshiharu Teramae, Masayoshi Sudo, Atsushi Hattori, Youhei Taniguchi, Daisuke Suto, Ayako Nakamura, Rikako Sato, Kazuo Matsubara, Sachio Fukatsu, Junko Ozaki, Hiroshi Tamura, Genta Kato, Tomohiro Kuroda, Toshio Heike',
             'title': 'Switching to Generic Drug based on HOMAS2 data -Utilize Benchmark Data-',
             'year': '2017',
@@ -5260,7 +5241,7 @@ bibdatabase: [
             },
 
   {
-            'id': '274',
+            'id': '273',
             'author': 'Shusuke Hiragi, Naoya Kondo, Youhei Taniguchi, Midori Higashiura, Kumiko Uno, Yuki Nakajima, Eiji Kobayasi, Kenichiro Fujita, Tomohiro Kuroda',
             'title': 'Development of Hospital Information Module for Dialysis Department - For Better Information Sharing -',
             'year': '2017',
@@ -5279,7 +5260,7 @@ bibdatabase: [
             },
 
   {
-            'id': '275',
+            'id': '274',
             'author': 'Kenichiro Fujita, Youhei Taniguchi, Masashi Kotani, Masahiro Yakami, Mizuho Nishio, Kazuya Okamoto, Tadamasa Takemura, Hiroyoshi Isoda, Tomohiro Kuroda',
             'title': 'Construction of Clinical Information Export Environment Complying with the Amended Act on the Protection of Personal Information',
             'year': '2017',
@@ -5298,7 +5279,7 @@ bibdatabase: [
             },
 
   {
-            'id': '276',
+            'id': '275',
             'author': 'Manabu Muto, Osamu Kato, Shinnichi Usami, Eizaburo Sueoka, Tomohiro Kuroda',
             'title': 'Medical Information to Save Lives -Real-World Data toward Precision Medicine-',
             'year': '2017',
@@ -5317,7 +5298,7 @@ bibdatabase: [
             },
 
   {
-            'id': '277',
+            'id': '276',
             'author': 'Tomohiro Kuroda',
             'title': 'To Emerge Medical Information Database to Save Lives',
             'year': '2017',
@@ -5334,7 +5315,7 @@ bibdatabase: [
             },
 
   {
-            'id': '278',
+            'id': '277',
             'author': 'Kensuke Morris, Goshiro Yamamoto, Shosuke Ohtera, Michi Sakai, Shusuke Hiragi, Kazuya Okamoto, Osamu Sugiyama, Naoto Kume, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Reducing Patient Privacy Concerns via Access Control to EHRs',
             'year': '2017',
@@ -5353,7 +5334,7 @@ bibdatabase: [
             },
 
   {
-            'id': '279',
+            'id': '278',
             'author': 'Eizen Kimura, Koki Hamada, Gembu Morohashi, Koji Chida, Kazuya Okamoto, Shirou Manabe, Toshihiro Takeda, Naoki Mihara, Tomohiro Kuroda, Yasushi Matsumura',
             'title': 'Feasibility Study of Applying Secure Multiparty Computation on Distributed Medical Information Analysis System',
             'year': '2017',
@@ -5372,7 +5353,7 @@ bibdatabase: [
             },
 
   {
-            'id': '280',
+            'id': '279',
             'author': 'Genta Kato, Michi Sakai, Shosuke Ohtera, Toru Shimogaki, Hiroki Matsui, Tatsuya Noda, Hideo Yasunaga, Tomoaki Imamura, Tomohiro Kuroda',
             'title': 'Abstract Report : Next Generation NDB Research Platform for New Medical Evidences',
             'year': '2017',
@@ -5389,7 +5370,7 @@ bibdatabase: [
             },
 
   {
-            'id': '281',
+            'id': '280',
             'author': 'Genta Kato, Michi Sakai, Shosuke Ohtera, Toru Shimogaki, Hiroki Matsui, Tatsuya Noda, Hideo Yasunaga, Tomoaki Imamura, Tomohiro Kuroda',
             'title': 'Research on Next Generation NDB platform Generation for New Medical Evidences : Potential for Epidemiology',
             'year': '2017',
@@ -5406,7 +5387,7 @@ bibdatabase: [
             },
 
   {
-            'id': '282',
+            'id': '281',
             'author': 'Yusuke Yokota, Goshiro Yamamoto, Shusuke Hiragi, Naoki Ohboshi, Tomohiro Kuroda',
             'title': 'Development of',
             'year': '2017',
@@ -5424,7 +5405,7 @@ bibdatabase: [
             },
 
   {
-            'id': '283',
+            'id': '282',
             'author': 'Kenichiro Fujita, Youhei Taniguchi, Yoshihiro Kinoshita, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda',
             'title': 'Developing Conference Support Information System with Inter-system Extraction / Display Function',
             'year': '2017',
@@ -5442,7 +5423,7 @@ bibdatabase: [
             },
 
   {
-            'id': '284',
+            'id': '283',
             'author': 'Atsushi Hattori, Toshiharu Teramae, Masayoshi Sudo, Kazuko Komai, Takeshi Sugino, Genta Kato, Hiroshi Tamura, Tomohiro Kuroda, Toshio Heike, Susumu Miyamoto',
             'title': 'An Example of Hospital Management Improvement utilizing Data -Activity of Office for Hospital Strategic Planning-',
             'year': '2017',
@@ -5459,7 +5440,7 @@ bibdatabase: [
             },
 
   {
-            'id': '285',
+            'id': '284',
             'author': 'Kana Eguchi, Masayuki Nambu, Kimihiko Murase, Kazuo Chin, Tomohiro Kuroda',
             'title': 'Measurement Points Optimization for Wearable Surface Electromyogram Devices Targeting Periodic Limb Movements Screening at Home',
             'year': '2017',
@@ -5477,7 +5458,7 @@ bibdatabase: [
             },
 
   {
-            'id': '286',
+            'id': '285',
             'author': 'Tomohide Iwao, Shosuke Ohtera, Michi Sakai, Shusuke Hiragi, Shigeru Ohtsuru, Eiji Kondo, Hiroshi Tamura, Genta Kato, Tomohiro Kuroda',
             'title': 'Research on the reconstruction method of health insurance claims database suitable for secondary use for epidemiological analysis',
             'year': '2017',
@@ -5495,7 +5476,7 @@ bibdatabase: [
             },
 
   {
-            'id': '287',
+            'id': '286',
             'author': 'Michi Sakai, Shosuke Ohtera, Tomohide Iwao, Yukiko Neff, Hirokazu Kato, Tomohiro Kuroda, Yoshimitsu Takahashi, Takeo Nakayama',
             'title': 'Clarification of Terminal Care using National Database of Health Insurance Claims and Specific Health Checkups of Japan',
             'year': '2017',
@@ -5512,7 +5493,7 @@ bibdatabase: [
             },
 
   {
-            'id': '288',
+            'id': '287',
             'author': 'Tomohiro Kuroda',
             'title': 'Regulations around Medical Image Database -Including Next Generation Medical Platform Act-',
             'year': '2017',
@@ -5530,7 +5511,7 @@ bibdatabase: [
             },
 
   {
-            'id': '289',
+            'id': '288',
             'author': 'Tomohide Iwao, Shusuke Hiragi, Shosuke Ohtera, Michi Sakai, Genta Kato, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Development of Analytical Database on National Database of Health Insurance Claims and Specific Health Checkups of Japan (NDB) for Epidemiology Research',
             'year': '2017',
@@ -5549,7 +5530,7 @@ bibdatabase: [
             },
 
   {
-            'id': '290',
+            'id': '289',
             'author': 'Ryo Otsuki, Osamu Sugiyama, Mao Suzuki, Kohei Matsumura, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'Activity Recognition from Many Types of Media for Constructing Personal Health Record System',
             'year': '2017',
@@ -5566,7 +5547,7 @@ bibdatabase: [
             },
 
   {
-            'id': '291',
+            'id': '290',
             'author': 'Shoko Ueno, Osamu Sugiyama, Mizuho Nishio, Masahiro Yakami, Goshiro Yamamoto, Kazuya Okamoto, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Design of Computer-Aided Diagnosis for Pulmonary Nodule Classification with 3D Convolutional Neural Network',
             'year': '2017',
@@ -5583,7 +5564,7 @@ bibdatabase: [
             },
 
   {
-            'id': '292',
+            'id': '291',
             'author': 'Karin Goka, Kazuya Okamoto, Masahiro Hirose, Shusuke Hiragi, Goshiro Yamamoto, Osamu Sugiyama, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Attempt at Automatic Incident Detection from Electronic Medical Records using Natural Language Processing',
             'year': '2017',
@@ -5600,7 +5581,7 @@ bibdatabase: [
             },
 
   {
-            'id': '293',
+            'id': '292',
             'author': 'Hisashi Yoshida, Saki Konaka, Satoshi Adachi, Kikuo Hirano, Kazushige Sugimura, Kazuo Ueshima, Tomohiro Kuroda, Masaki Yoshida, Toshiyuki Sado, Hiroshi Kobayashi',
             'title': 'Potential distribution of fetal electrocardiogram on maternal abdomen and development of e-Textile',
             'year': '2017',
@@ -5618,7 +5599,7 @@ bibdatabase: [
             },
 
   {
-            'id': '294',
+            'id': '293',
             'author': 'Goshiro Yamamoto, Tomohiro Kuroda, Naoki Ohboshi, Kenta Ogushi',
             'title': 'A Study on Doctor-Patient Communication in Telemedicine using Hand Gesture',
             'year': '2017',
@@ -5637,7 +5618,7 @@ bibdatabase: [
             },
 
   {
-            'id': '295',
+            'id': '294',
             'author': 'Mao Suzuki, Ryo Otsuki, Asuka Wakao, Kohei Matsumura, Osamu Sugiyama, Haruo Noma, Tomohiro Kuroda',
             'title': 'Analyzing Relations between Number of Steps and External Factors for Walking Habituation',
             'year': '2017',
@@ -5655,7 +5636,7 @@ bibdatabase: [
             },
 
   {
-            'id': '296',
+            'id': '295',
             'author': 'Eizen Kimura, Koki Hamada, Ryo Kikuchi, Koji Chida, Kazuya Okamoto, Shirou Manabe, Tomohiro Kuroda, Yasushi Matsumura, Toshihiro Takeda, Naoki Mihara',
             'title': 'Evaluation of Secure Computation in a Distributed Healthcare Setting',
             'year': '2016',
@@ -5673,7 +5654,7 @@ bibdatabase: [
             },
 
   {
-            'id': '297',
+            'id': '296',
             'author': 'Ayako Kajimura, Tadamasa Takemura, Tomoko Hikita, Kenichiro Fujita, Waon Yoshihara, Akane Hashiya, Tomohiro Kuroda',
             'title': 'Nurses’ Actual Usage of EMRs: An Access Log-Based Analysis',
             'year': '2016',
@@ -5691,7 +5672,7 @@ bibdatabase: [
             },
 
   {
-            'id': '298',
+            'id': '297',
             'author': 'Kikue Sato, Koji Yamashita, Mitsuko Goshima, Tomohiro Kuroda, Yasutomi Kinosada, Akitoshi Seiyama',
             'title': 'An Analysis of the Factor Model on the Workload of Nursing Staff Using a Hospital Management Tool',
             'year': '2016',
@@ -5709,7 +5690,7 @@ bibdatabase: [
             },
 
   {
-            'id': '299',
+            'id': '298',
             'author': 'Eizen Kimura, Yasushi Matsumura, Naoki Mihara, Tomohiro Kuroda, Yoshinori Yamashita, Haruhiko Hiramatsu, Shirou Manabe, Daisuke Tanaka, Atsushi Sato, Tadashi Yamakura',
             'title': 'Applying Secret Sharing for Backup Exchange and Reference of Medical Information',
             'year': '2016',
@@ -5727,7 +5708,7 @@ bibdatabase: [
             },
 
   {
-            'id': '300',
+            'id': '299',
             'author': 'Mao Suzuki, Asuka Wakao, Kohei Matsumura, Haruo Noma, Masahiro Tada, Tomohiro Kuroda',
             'title': 'Working as a Team Promotes Daily Walking Habit - An Exploratory Study -',
             'year': '2016',
@@ -5746,7 +5727,7 @@ bibdatabase: [
             },
 
   {
-            'id': '301',
+            'id': '300',
             'author': 'Kenta Hori, Katsuya Takanashi, Chisako Naito, Tomohiro Kuroda',
             'title': 'Communication Analysis of a Simulated Tele-auscultation Experiment',
             'year': '2016',
@@ -5765,7 +5746,7 @@ bibdatabase: [
             },
 
   {
-            'id': '302',
+            'id': '301',
             'author': 'Tuukka Karvonen, Yuki Uranishi, Tatsunori Sakamoto, Yosuke Tona, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Estimation of the Degree of Endolymphatic Hydrops Using Optical Coherence Tomography',
             'year': '2016',
@@ -5783,7 +5764,7 @@ bibdatabase: [
             },
 
   {
-            'id': '303',
+            'id': '302',
             'author': 'Eizen Kimura, Koki Hamada, Ryo Kikuchi, Koji Chida, Kazuya Okamoto, Shirou Manabe, Tomohiro Kuroda, Yasushi Matsumura, Toshihiro Takeda, Naoki Mihara',
             'title': 'Evaluation of Secure Computation in a Distributed Healthcare Setting',
             'year': '2016',
@@ -5801,7 +5782,7 @@ bibdatabase: [
             },
 
   {
-            'id': '304',
+            'id': '303',
             'author': 'Tuukka Karvonen, Tatsunori Sakamoto, Yosuke Tona, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': '3D Reconstruction of Cochlea Using Optical Coherence Tomography',
             'year': '2016',
@@ -5819,7 +5800,7 @@ bibdatabase: [
             },
 
   {
-            'id': '305',
+            'id': '304',
             'author': 'Purnomo Husnul Khotimah, Yuichi Sugiyama, Masatoshi Yoshikawa, Akihiro Hamasaki, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Revealing Oral Medication Patterns from Reconstructed Long-Term Medication History of Type 2 Diabetes',
             'year': '2016',
@@ -5837,7 +5818,7 @@ bibdatabase: [
             },
 
   {
-            'id': '306',
+            'id': '305',
             'author': 'Misa Esashi, Tomohiro Nakano, Nao Onose, Kikue Sato, Tomoko Hikita, Reiko Houya, Kazuya Okamoto, Naoki Ohboshi, Tomohiro Kuroda',
             'title': 'Prototyping Context-aware Nursing Support Mobile System',
             'year': '2016',
@@ -5855,7 +5836,7 @@ bibdatabase: [
             },
 
   {
-            'id': '307',
+            'id': '306',
             'author': 'Ayako Kajimura, Tadamasa Takemura, Tomoko Hikita, Kenichiro Fujita, Waon Yoshihara, Akane Hashiya, Tomohiro Kuroda',
             'title': 'Nurses’ Actual Usage of EMRs: An Access Log-Based Analysis',
             'year': '2016',
@@ -5873,7 +5854,7 @@ bibdatabase: [
             },
 
   {
-            'id': '308',
+            'id': '307',
             'author': 'Kikue Sato, Koji Yamashita, Mitsuko Goshima, Tomohiro Kuroda, Yasutomi Kinosada, Akitoshi Seiyama',
             'title': 'An Analysis of the Factor Model on the Workload of Nursing Staff Using a Hospital Management Tool',
             'year': '2016',
@@ -5891,7 +5872,7 @@ bibdatabase: [
             },
 
   {
-            'id': '309',
+            'id': '308',
             'author': 'Shusuke Hiragi, Hiroshi Tamura, Rei Goto, Tomohiro Kuroda',
             'title': 'The Validity of Markov Model for the Prognostic Estimation of Chronic Kidney Disease',
             'year': '2016',
@@ -5910,7 +5891,7 @@ bibdatabase: [
             },
 
   {
-            'id': '310',
+            'id': '309',
             'author': 'Genta Kato, Shusuke Hiragi, Tomohide Iwao, Kazuya Okamoto, Hisashi Saito, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'An Introduction of the Database of Health Insurance Claims in Japan',
             'year': '2016',
@@ -5927,7 +5908,7 @@ bibdatabase: [
             },
 
   {
-            'id': '311',
+            'id': '310',
             'author': 'Purnomo Husnul Khotimah, Masatoshi Yoshikawa, Akihiro Hamasaki, Osamu Sugiyama, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Comparing Frequent Patterns: A Study Case of Apriori and Singleton Implementations in a Diabetes Type 2 Data set',
             'year': '2016',
@@ -5945,7 +5926,7 @@ bibdatabase: [
             },
 
   {
-            'id': '312',
+            'id': '311',
             'author': 'Samar El Helou, Naoto Kume, Shinji Kobayashi, Eiji Kondo, Yuki Uranishi, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Graph databases for openEHR repositories',
             'year': '2016',
@@ -5963,7 +5944,7 @@ bibdatabase: [
             },
 
   {
-            'id': '313',
+            'id': '312',
             'author': 'Yuki Uranishi, Masataka Imura, Tomohiro Kuroda',
             'title': 'The Rainbow Marker: An AR Marker with Planar Light Probe based on Structural Color Pattern Matching',
             'year': '2016',
@@ -5981,7 +5962,7 @@ bibdatabase: [
             },
 
   {
-            'id': '314',
+            'id': '313',
             'author': 'Takeshi Imanaka, Kazuya Okamoto, Tomoko Hikita, Tomohide Iwao, Yuki Uranishi, Hiroshi Tamura, Hisashi Saito, Genta Kato, Tomohiro Kuroda',
             'title': 'Implementation of nursing scheduling extracted constraints from past roster treatment',
             'year': '2016',
@@ -5998,7 +5979,7 @@ bibdatabase: [
             },
 
   {
-            'id': '315',
+            'id': '314',
             'author': 'Yuta Fukushi, Tomohide Iwao, Kazuya Okamoto, Yuki Uranishi, Hiroshi Tamura, Hisashi Saito, Genta Kato, Tomohiro Kuroda',
             'title': 'Analysis of waiting time of patients using position tracking data and clinical order data in an outpatient ward',
             'year': '2016',
@@ -6015,7 +5996,7 @@ bibdatabase: [
             },
 
   {
-            'id': '316',
+            'id': '315',
             'author': 'Misa Esashi, Tomohiro Nakano, Tomohide Iwao, Yuki Uranishi, Kazuya Okamoto, Genta Kato, Hisashi Saito, Hiroshi Tamura, Haruo Noma, Tomohiro Kuroda',
             'title': 'An attempt to connect medical instruments to hospital information system',
             'year': '2016',
@@ -6034,7 +6015,7 @@ bibdatabase: [
             },
 
   {
-            'id': '317',
+            'id': '316',
             'author': 'Tomohiro Nakano, Misa Esashi, Kikue Sato, Tomoko Hikita, Reiko Houya, Kazuya Okamoto, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'Development of Context-aware Nursing Support Mobile System',
             'year': '2016',
@@ -6053,7 +6034,7 @@ bibdatabase: [
             },
 
   {
-            'id': '318',
+            'id': '317',
             'author': 'Mika Nishihara, Wei Yaguang, Kohei Matsumura, Haruo Noma, Kazuko Nishizawa, Tomohiro Kuroda',
             'title': 'A Proposal of Training Simulator for Neonatal Resuscitation Using the Stethoscope with Sensor',
             'year': '2016',
@@ -6071,7 +6052,7 @@ bibdatabase: [
             },
 
   {
-            'id': '319',
+            'id': '318',
             'author': 'Yuji Morita, Masatoshi Yoshikawa, Akihiro Hamasaki, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Toward Clinical Decision Support System for Pharmacotherapy of Thyroid Disease',
             'year': '2016',
@@ -6088,7 +6069,7 @@ bibdatabase: [
             },
 
   {
-            'id': '320',
+            'id': '319',
             'author': 'Mai Sato, Eiji Kondo, Genta Kato, Shusuke Hiragi, Hiroshi Tamura, Kazuya Okamoto, Hiroshi Takai, Kaoru Kawasaki, Tomohiro Kuroda, Ikuo Konishi',
             'title': 'A Study on the Actual Conditions of Relaxed Bleeding Cases using the National Claims Database',
             'year': '2016',
@@ -6108,7 +6089,7 @@ bibdatabase: [
             },
 
   {
-            'id': '321',
+            'id': '320',
             'author': 'Ryo Otsuki, Mao Suzuki, Kohei Matsumura, Osamu Sugiyama, Masahiro Tada, Haruo Noma, Tomohiro Kuroda',
             'title': 'Analyzing Attendants Behavior to Design Information System to Support Walking Habit',
             'year': '2016',
@@ -6125,7 +6106,7 @@ bibdatabase: [
             },
 
   {
-            'id': '322',
+            'id': '321',
             'author': 'Michi Sakai, Shosuke Ohtera, Tomohide Iwao, Kazuya Okamoto, Genta Kato, Takeo Nakayama, Tomohiro Kuroda',
             'title': 'Validation for Future Utilization of NDB Onsite Research Center',
             'year': '2016',
@@ -6143,7 +6124,7 @@ bibdatabase: [
             },
 
   {
-            'id': '323',
+            'id': '322',
             'author': 'Misa Esashi, Osamu Sugiyama, Shusuke Hiragi, Kazuya Okamoto, Hiroshi Tamura, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Integration of Infusion Pumps and Syringe Drivers with Hospital Information System to Avoid Human Errors',
             'year': '2016',
@@ -6161,7 +6142,7 @@ bibdatabase: [
             },
 
   {
-            'id': '324',
+            'id': '323',
             'author': 'Yuta Fukushi, Kazuya Okamoto, Osamu Sugiyama, Hiroshi Tamura, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'An Attempt to Obtain Patients Waiting Time from Position Tracking Data and Clinical Order Data in a General Hospital',
             'year': '2016',
@@ -6179,7 +6160,7 @@ bibdatabase: [
             },
 
   {
-            'id': '325',
+            'id': '324',
             'author': 'Tomohiro Kuroda, Ryuichi Yamamoto, Kazuhiro Oshima, Mariko Kuriyama, Takayuki Fujita, Yoshiteru Yano, Shigeto Yonemura',
             'title': 'Ongoing Activities between Medicine and New Act on the Protection of Personal Information',
             'year': '2016',
@@ -6197,7 +6178,7 @@ bibdatabase: [
             },
 
   {
-            'id': '326',
+            'id': '325',
             'author': 'Ayako Kajimura, Tadamasa Takemura, Waon Yoshihara, Kenichiro Fujita, Tomoko Hikita, Akane Hashiya, Tomohiro Kuroda',
             'title': 'Analysis of Screen Transition Patterns of Electric Heath Records through Access Logs of Nurses',
             'year': '2016',
@@ -6215,7 +6196,7 @@ bibdatabase: [
             },
 
   {
-            'id': '327',
+            'id': '326',
             'author': 'Tomohiro Kuroda, Kazuya Okamoto, Masayoshi Sudo, Keisuke Teranishi, Toshimizu Yamane, Masanobu Nakachi, Takahiro Kurosawa',
             'title': 'Developing Conference Support Information System',
             'year': '2016',
@@ -6233,7 +6214,7 @@ bibdatabase: [
             },
 
   {
-            'id': '328',
+            'id': '327',
             'author': 'Hiroshi Tamura, Kentaro Honma, Genta Kato, Yohei Ishida, Shusuke Hiragi, Toshiharu Teramae, Tomohiro Kuroda',
             'title': 'Estimation of Automated Drug Recognizing System in the Operation Theater, Looking over Eliminating Work Loads and Improving Health Insurance Claims',
             'year': '2016',
@@ -6251,7 +6232,7 @@ bibdatabase: [
             },
 
   {
-            'id': '329',
+            'id': '328',
             'author': 'Hironobu Murano, Genta Kato, Hiroshi Tamura, Tomohiro Kuroda, Toshio Heike',
             'title': 'Activity of Office for Hospital Strategic Planning',
             'year': '2016',
@@ -6269,7 +6250,7 @@ bibdatabase: [
             },
 
   {
-            'id': '330',
+            'id': '329',
             'author': 'Yusuke Yokota, Tomohiro Kuroda',
             'title': 'Developing Integrated Information System for Tele-medicine Support',
             'year': '2016',
@@ -6287,7 +6268,7 @@ bibdatabase: [
             },
 
   {
-            'id': '331',
+            'id': '330',
             'author': 'Tomohiro Kuroda, Satoshi Adachi, Kikuo Hirano, Kazushige Sugimura, Hisashi Yoshida, Masaki Yoshida, Hiroshi Kobayashi',
             'title': 'Prototyping e-Textile for Fetal Electrocardiogram',
             'year': '2016',
@@ -6305,7 +6286,7 @@ bibdatabase: [
             },
 
   {
-            'id': '332',
+            'id': '331',
             'author': 'Takeshi Imanaka, Kazuya Okamoto, Tomoko Hikita, Shusuke Hiragi, Genta Kato, Hiroshi Tamura, Masayuki Nambu, Tomohiro Kuroda',
             'title': 'Developing Nurse Scheduling System to Reduce Workloads of Nurses',
             'year': '2016',
@@ -6322,7 +6303,7 @@ bibdatabase: [
             },
 
   {
-            'id': '333',
+            'id': '332',
             'author': 'Noboru Kada, Masatoshi Yoshikawa, Akihiro Hamasaki, Kazuya Okamoto, Tomohiro Kuroda, Osamu Sugiyama',
             'title': 'Designing Computer Aided Clinical Decision Sport System for Pharmacotherapy of Hypothyroidism',
             'year': '2016',
@@ -6339,7 +6320,7 @@ bibdatabase: [
             },
 
   {
-            'id': '334',
+            'id': '333',
             'author': 'Yuji Morita, Masatoshi Yoshikawa, Akihiro Hamasaki, Kazuya Okamoto, Tomohiro Kuroda, Osamu Sugiyama',
             'title': 'Toward Computer Aided Clinical Decision Support for Hypothyroidism : Medication Adherence Estimation and Prescription Data Mining',
             'year': '2016',
@@ -6356,7 +6337,7 @@ bibdatabase: [
             },
 
   {
-            'id': '335',
+            'id': '334',
             'author': 'Yusuke Yokota, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'Prototyping Integrated Telemedicine Support Information System',
             'year': '2016',
@@ -6374,7 +6355,7 @@ bibdatabase: [
             },
 
   {
-            'id': '336',
+            'id': '335',
             'author': 'Tomohiro Kuroda, Kazuo Ueshima',
             'title': 'E-textile design, prototype, and production service based using NISHIJIN Technology',
             'year': '2016',
@@ -6391,7 +6372,7 @@ bibdatabase: [
             },
 
   {
-            'id': '337',
+            'id': '336',
             'author': 'Tomohiro Kuroda, Satoshi Adachi, Kikuo Hirano, Kazushige Sugimura, Kazuo Ueshima, Hisashi Yoshida, Masaki Yoshida, Hiroshi Kobayashi',
             'title': 'NISHIJIN e-Textile to for Maternal and Fatal Electrocardiogram -Overview of the Project-',
             'year': '2016',
@@ -6408,7 +6389,7 @@ bibdatabase: [
             },
 
   {
-            'id': '338',
+            'id': '337',
             'author': 'Hisashi Yoshida, Tomohiro Kuroda, Masaki Yoshida, Hiroshi Kobayashi',
             'title': 'Developing Antenatal Monitoring System using e-Textile based Fatal Electrocardiogram',
             'year': '2016',
@@ -6425,7 +6406,7 @@ bibdatabase: [
             },
 
   {
-            'id': '339',
+            'id': '338',
             'author': 'Wei Yaguang, Haruo Noma, Kazuko Nishizawa, Kougoro Iwanaga, Tomohiro Kuroda',
             'title': 'Developing Neonatal Cardio-Pulmonary Resuscitation Trainer to Promote Trainers Discovery',
             'year': '2016',
@@ -6442,7 +6423,7 @@ bibdatabase: [
             },
 
   {
-            'id': '340',
+            'id': '339',
             'author': 'Yu Maruyama, Yuki Uranishi, Chisako Naito, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Feedback Projecting Blood Collection Simulator for Risk Management Learning',
             'year': '2016',
@@ -6460,7 +6441,7 @@ bibdatabase: [
             },
 
   {
-            'id': '341',
+            'id': '340',
             'author': 'Tomohiro Kuroda, Haruo Noma, Kazuhiko Takase, Shigeto Sasaki, Tadamasa Takemura',
             'title': 'Bluetooth Roaming for Sensor Network System in Clinical Environment',
             'year': '2015',
@@ -6478,7 +6459,7 @@ bibdatabase: [
             },
 
   {
-            'id': '342',
+            'id': '341',
             'author': 'Risa Sakurai, Tadamasa Takemura, Hiroshi Tamura, Tomohiro Kuroda, Hiroyuki Horio',
             'title': 'Visual Function Evaluation System using Blue Contract Sensitivity',
             'year': '2015',
@@ -6497,7 +6478,7 @@ bibdatabase: [
             },
 
   {
-            'id': '343',
+            'id': '342',
             'author': 'Samar El Helou, Naoto Kume, Shinji Kobayashi, Eiji Kondo, Yuki Uranishi, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Exploring Graph Databases with openEHR in Antenatal Care Settings',
             'year': '2015',
@@ -6514,7 +6495,7 @@ bibdatabase: [
             },
 
   {
-            'id': '344',
+            'id': '343',
             'author': 'Niina S Keränen, Mia Hautala, Adesh Chimariya, Maarit Kangas, Timo Jämsä, Tomohiro Kuroda',
             'title': 'Validation of signal quality in NISHIJIN e-Textile ECG vest',
             'year': '2015',
@@ -6532,7 +6513,7 @@ bibdatabase: [
             },
 
   {
-            'id': '345',
+            'id': '344',
             'author': 'Misa Esashi, Haruo Noma, Tomohiro Kuroda',
             'title': 'Supporting Nurses Work and Improving Medical Safety Using a Sensor Network System in Hospitals',
             'year': '2015',
@@ -6551,7 +6532,7 @@ bibdatabase: [
             },
 
   {
-            'id': '346',
+            'id': '345',
             'author': 'Kikue Sato, Tomohiro Kuroda, Akitoshi Seiyama',
             'title': 'Visualization and Quantitative Analysis of Nursing Staff Trajectories Based on a Location System',
             'year': '2015',
@@ -6570,7 +6551,7 @@ bibdatabase: [
             },
 
   {
-            'id': '347',
+            'id': '346',
             'author': 'Takashi Nakai, Tadamasa Takemura, Risa Sakurai, Kenichiro Fujita, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Prediction of Clinical Practices by Clinical Data of the Previous Day Using Linear Support Vector Machine',
             'year': '2015',
@@ -6589,7 +6570,7 @@ bibdatabase: [
             },
 
   {
-            'id': '348',
+            'id': '347',
             'author': 'Hitomi Yamada, Tadamasa Takemura, Takahiro Asai, Kazuya Okamoto, Tomohiro Kuroda, Shigeki Kuwata',
             'title': 'A Development of Automatic Audit System for Written Informed Consent using Machine Learning',
             'year': '2015',
@@ -6608,7 +6589,7 @@ bibdatabase: [
             },
 
   {
-            'id': '349',
+            'id': '348',
             'author': 'Kenichiro Fujita, Tadamasa Takemura, Tomohiro Kuroda',
             'title': 'Study of Screen Design Principles for Visualizing Medical Records',
             'year': '2015',
@@ -6627,7 +6608,7 @@ bibdatabase: [
             },
 
   {
-            'id': '350',
+            'id': '349',
             'author': 'Tomohiro Kuroda, Haruo Noma, Kazuhiko Takase, Shigeto Sasaki, Tadamasa Takemura',
             'title': 'Bluetooth Roaming for Sensor Network System in Clinical Environment',
             'year': '2015',
@@ -6645,7 +6626,7 @@ bibdatabase: [
             },
 
   {
-            'id': '351',
+            'id': '350',
             'author': 'Genta Kato, Hiroshi Tamura, Rei Goto, Kazuya Okamoto, Kazuki Yoshida, Shusuke Hiragi, Tomohiro Kuroda.',
             'title': 'An Introduction of the Database of Health Insurance Claims and Health Checkups of Japan',
             'year': '2015',
@@ -6663,7 +6644,7 @@ bibdatabase: [
             },
 
   {
-            'id': '352',
+            'id': '351',
             'author': 'Tomohiro Kuroda',
             'title': 'Considering technical challenges to use EHR as EDC platform',
             'year': '2015',
@@ -6680,7 +6661,7 @@ bibdatabase: [
             },
 
   {
-            'id': '353',
+            'id': '352',
             'author': 'Eriko Sumi, Masayoshi Sudo, Masayuki Yokode, Masashi Kosugi, Tomohiro Kuroda',
             'title': 'Unitary management of signed letter of consent for clinical study',
             'year': '2015',
@@ -6697,7 +6678,7 @@ bibdatabase: [
             },
 
   {
-            'id': '354',
+            'id': '353',
             'author': 'Yuichi Sugiyama, Masatoshi Yoshikawa, Kazuya Okamoto, Tomohiro Kuroda, Akihiro Hamasaki',
             'title': 'Medication Pattern Mining with Time Interval',
             'year': '2015',
@@ -6716,7 +6697,7 @@ bibdatabase: [
             },
 
   {
-            'id': '355',
+            'id': '354',
             'author': 'Tomohiro Nakano, Masahito Sugano, Kikue Sato, Tomoko Hikita, Reiko Houya, Kazuya Okamoto, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'Development of Data Communication Part of Context-aware Nursing Support Mobile System',
             'year': '2015',
@@ -6735,7 +6716,7 @@ bibdatabase: [
             },
 
   {
-            'id': '356',
+            'id': '355',
             'author': 'Katsuya Takanashi, Kenta Hori, Chisako Naito, Tomohiro Kuroda',
             'title': 'Multimodal and Multichannel Sequential Analysis of Interactional Patterns in a Simulated Tele-auscultation Experiment',
             'year': '2015',
@@ -6754,7 +6735,7 @@ bibdatabase: [
             },
 
   {
-            'id': '357',
+            'id': '356',
             'author': 'Tomohiro Kuroda, Tadamasa Takemura, Haruo Noma',
             'title': 'Utilize Location Data in Hospital Information System',
             'year': '2015',
@@ -6772,7 +6753,7 @@ bibdatabase: [
             },
 
   {
-            'id': '358',
+            'id': '357',
             'author': 'Mika Nishihara, Kohei Matsumura, Haruo Noma, Kazuko Nishizawa, Tomohiro Kuroda',
             'title': 'Development of Training Simulator for Neonatal Resuscitation',
             'year': '2015',
@@ -6792,7 +6773,7 @@ bibdatabase: [
             },
 
   {
-            'id': '359',
+            'id': '358',
             'author': 'Hitomi Yamada, Tadamasa Takemura, Takahiro Asai, Kazuya Okamoto, Tomohiro Kuroda, Hiroshi Narazaki, Shigeki Kuwata',
             'title': 'Speculation about relationship between improper informed consent and medical record description from trends of factual finding in recent precedent',
             'year': '2015',
@@ -6810,7 +6791,7 @@ bibdatabase: [
             },
 
   {
-            'id': '360',
+            'id': '359',
             'author': 'Ryosuke Sawano, Masatoshi Yoshikawa, Akihiro Hamasaki, Kazuya Okamoto, Yoshihiro Kuroda',
             'title': 'Evaluating Importance of EMR Articles based on Access Logs and Writing Clinical Staffs',
             'year': '2015',
@@ -6827,7 +6808,7 @@ bibdatabase: [
             },
 
   {
-            'id': '361',
+            'id': '360',
             'author': 'Naoki Mihara, Shirou Manabe, Eizen Kimura, Tomohiro Kuroda, Yasushi Matsumura',
             'title': 'Assessment of the safe backup and disaster recovery of medical documents in the DACS (Document Archiving and Communication System) with secret sharing',
             'year': '2015',
@@ -6845,7 +6826,7 @@ bibdatabase: [
             },
 
   {
-            'id': '362',
+            'id': '361',
             'author': 'Kenichiro Fujita, Tadamasa Takemura, Takashi Nakai, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Analysis of EMR Usage from the Informal Terminal toward Context Awareness in EMR',
             'year': '2015',
@@ -6862,7 +6843,7 @@ bibdatabase: [
             },
 
   {
-            'id': '363',
+            'id': '362',
             'author': 'Kazuya Okamoto, Yukiko Mori, Genta Kato, Tomohiro Kuroda, Manabu Muto',
             'title': 'Reconstruction of Japanese Receipt Data to Investigate Actual Treatments for Stomach Cancer',
             'year': '2015',
@@ -6880,7 +6861,7 @@ bibdatabase: [
             },
 
   {
-            'id': '364',
+            'id': '363',
             'author': 'Kosuke Sasai, Mika Ishii, Nobuyoshi Abe, Naoki Mihara, Toshinari Nakano, Sawako Uchida, Shinya Nakajima, Haruhiko Hiramatsu, Tomohiro Kuroda, Hiroo Tamagawa, Keunsik Park, Yasushi Matsumura, Masaki Miyamoto',
             'title': 'Development of the diagnostic imaging support system using the knowledge base',
             'year': '2015',
@@ -6898,7 +6879,7 @@ bibdatabase: [
             },
 
   {
-            'id': '365',
+            'id': '364',
             'author': 'Waon Yoshihara, Tadamasa Takemura, Kenichiro Fujita, Tomoko Hikita, Ayako Kajimura, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Current analysis of a GUI and consideration of usability in an electronic medical record system',
             'year': '2015',
@@ -6916,7 +6897,7 @@ bibdatabase: [
             },
 
   {
-            'id': '366',
+            'id': '365',
             'author': 'Genta Kato, Tomohiro Kuroda',
             'title': 'An introduction of the process of launching national insurance claims database (NDB) on-site research center',
             'year': '2015',
@@ -6934,7 +6915,7 @@ bibdatabase: [
             },
 
   {
-            'id': '367',
+            'id': '366',
             'author': 'Takashi Nakai, Tadamasa Takemura, Risa Sakurai, Kenichiro Fujita, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'A study of prediction using Clinical Practices of the Previous Day and Linear Support Vector Machine',
             'year': '2015',
@@ -6952,7 +6933,7 @@ bibdatabase: [
             },
 
   {
-            'id': '368',
+            'id': '367',
             'author': 'Risa Sakurai, Tadamasa Takemura, Naoto Kume, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Attempt to Mapper From DPC data to openEHR/Archetype',
             'year': '2015',
@@ -6970,7 +6951,7 @@ bibdatabase: [
             },
 
   {
-            'id': '369',
+            'id': '368',
             'author': 'Samar El Helou, Naoto Kume, Yuki Uranishi, Shinji Kobayashi, Eiji Kondo, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Design of Archetype-based Clinical Concept Models: Towards Interoperable Antenatal Care EHR Systems',
             'year': '2015',
@@ -6988,7 +6969,7 @@ bibdatabase: [
             },
 
   {
-            'id': '370',
+            'id': '369',
             'author': 'Mao Suzuki, Asuka Wakao, Kohei Matsumura, Haruo Noma, Masahiro Tada, Tomohiro Kuroda',
             'title': 'A Method to Motivate and Keep the Habit of Daily Exercise',
             'year': '2015',
@@ -7006,7 +6987,7 @@ bibdatabase: [
             },
 
   {
-            'id': '371',
+            'id': '370',
             'author': 'Misa Esashi, Haruo Noma, Tomohiro Kuroda',
             'title': 'Development of Sensor Network for Collecting Information from the Real-world at the Hospital',
             'year': '2015',
@@ -7024,7 +7005,7 @@ bibdatabase: [
             },
 
   {
-            'id': '372',
+            'id': '371',
             'author': 'Ayako Kajimura, Tadamasa Takemura, Tomoko Hikita, Kenichiro Fujita, Waon Yoshihara, Akane Hashiya, Tomohiro Kuroda',
             'title': 'Analysis of actual electronic-medical-record-use before nurses start day-shifts',
             'year': '2015',
@@ -7042,7 +7023,7 @@ bibdatabase: [
             },
 
   {
-            'id': '373',
+            'id': '372',
             'author': 'Kazuya Okamoto, Yukiko Mori, Genta Kato, Tomohiro Kuroda, Manabu Muto',
             'title': 'The Construction of Data Mart to Analyze Japanese Receipt Information of Stomach Cancer Cases',
             'year': '2015',
@@ -7059,7 +7040,7 @@ bibdatabase: [
             },
 
   {
-            'id': '374',
+            'id': '373',
             'author': 'Manabu Muto, Yukiko Mori, Masashi Kanai, Shigemi Matsumoto, Tomohiro Sakuma, Tomoyoshi Koyanagi, Kazuya Okamoto, Genta Kato, Tomohiro Kuroda, Satoshi Morita, Masashi Kosugi, Keiko Tamon, Kei Taneishi, Yasushi Okuno, Akifumi Takaori',
             'title': 'Clinical Bio-bank, Clinical Sequencing, and Big-data Analysis in Kyoto University Hospital',
             'year': '2015',
@@ -7076,7 +7057,7 @@ bibdatabase: [
             },
 
   {
-            'id': '375',
+            'id': '374',
             'author': 'Masashi Kanai, Tomohiro Sakuma, Koji Yanagisawa, Kentaro Matsushima, Tomoyoshi Koyanagi, Shigemi Matsumoto, Tomohiro Kuroda, Satoshi Morita, Masashi Kosugi, Yasushi Okuno, Manabu Muto',
             'title': 'The Frist Introduction of Clinical Sequence using Exhaustive Gene Mutation Panel in Japan',
             'year': '2015',
@@ -7093,7 +7074,7 @@ bibdatabase: [
             },
 
   {
-            'id': '376',
+            'id': '375',
             'author': 'Genta Kato, Toshihiko Masui, Shintaro Yagi, Miho Nishii, Hiroshi Tamura, Toshimi Kaido, Hideaki Okajima, Tomohiro Kuroda, Toshio Heike, Shinji Uemoto',
             'title': 'How to make transplantation sustainable ?',
             'year': '2015',
@@ -7111,7 +7092,7 @@ bibdatabase: [
             },
 
   {
-            'id': '377',
+            'id': '376',
             'author': 'Tuukka Karvonen, Yuki Uranishi, Tatsunori Sakamoto, Yosuke Tona, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Estimation of the degree of endolymphatic hydrops using optical coherence tomography',
             'year': '2015',
@@ -7129,7 +7110,7 @@ bibdatabase: [
             },
 
   {
-            'id': '378',
+            'id': '377',
             'author': 'Kenichiro Fujita, Tadamasa Takemura, Katsumi Onishi, Tomohiro Kuroda',
             'title': 'The Improvement of EHR User Experience by Screen Design Principles',
             'year': '2015',
@@ -7147,7 +7128,7 @@ bibdatabase: [
             },
 
   {
-            'id': '379',
+            'id': '378',
             'author': 'Mao Suzuki, Asuka Wakao, Kohei Matsumura, Haruo Noma, Masahiro Tada, Tomohiro Kuroda',
             'title': 'Working as a Team Makes Walking Daily Habit - an Exploratory Study',
             'year': '2015',
@@ -7165,7 +7146,7 @@ bibdatabase: [
             },
 
   {
-            'id': '380',
+            'id': '379',
             'author': 'Tuukka Karvonen, Yuki Uranishi, Tatsunori Sakamoto, Yosuke Tona, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Segmentation of Cochlear Structure in Optical Coherence Tomography Images',
             'year': '2015',
@@ -7183,7 +7164,7 @@ bibdatabase: [
             },
 
   {
-            'id': '381',
+            'id': '380',
             'author': 'Yu Maruyama, Yuki Uranishi, Chisako Naito, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Estimating Angle and Depth of Needle for Blood Collection Training',
             'year': '2015',
@@ -7201,7 +7182,7 @@ bibdatabase: [
             },
 
   {
-            'id': '382',
+            'id': '381',
             'author': 'Tomohiro Kuroda, Kikuo Hirano, Kazushige Sugimura, Satoshi Adachi, Hidetsugu Igarashi, Kazuo Ueshima',
             'title': 'Developing 12-lead ECG textile -Project NISHIJIN-',
             'year': '2015',
@@ -7220,7 +7201,7 @@ bibdatabase: [
             },
 
   {
-            'id': '383',
+            'id': '382',
             'author': 'Mao Suzuki, Asuka Wakao, Kohei Matsumura, Haruo Noma, Osamu Sugiyama, Masahiro Tada, Tomohiro Kuroda',
             'title': 'Tekupeko : a System Promotes Users to Acquire Daily Walking Habit',
             'year': '2015',
@@ -7238,7 +7219,7 @@ bibdatabase: [
             },
 
   {
-            'id': '384',
+            'id': '383',
             'author': 'Shusuke Hiragi, Hiroshi Tamura, Genta Kato, Rei Goto, Kazuya Okamoto, Kiyoshi Suzuma, Nagahisa Yoshimura, Tomohiro Kuroda',
             'title': 'Survey on Laser Treatment for Diabetic Retinopathy using Sampling Dataset from Healthcare Insurance Claim and Specific Health Checkup Database (NDB)',
             'year': '2015',
@@ -7256,7 +7237,7 @@ bibdatabase: [
             },
 
   {
-            'id': '385',
+            'id': '384',
             'author': 'Yu Uneno, Kei Taneishi, Masashi Kanai, Keiko Tamon, Kazuya Okamoto, Akira Nozaki, Daisuke Yamaguchi, Yoshitaka Nishikawa, Teruko Tomono, Masatoshi Hamanaka, J.B. Brown, Shigemi Matsumoto, Tomohiro Kuroda, Yasushi Okuno, Manabu Muto',
             'title': 'Establishment of a Terminal Prognosis Prediction Model by applying Time Series Analysis to Real-World Data',
             'year': '2015',
@@ -7273,7 +7254,7 @@ bibdatabase: [
             },
 
   {
-            'id': '386',
+            'id': '385',
             'author': 'Yukiko Mori, Kazuya Okamoto, Genta Kato, Takeshi Sugino, Masayoshi Sudo, Tomohiro Kuroda, Manabu Muto',
             'title': 'Survey of gastric cancer treatment in Japan using real world data obtained from health insurance claims',
             'year': '2015',
@@ -7290,7 +7271,7 @@ bibdatabase: [
             },
 
   {
-            'id': '387',
+            'id': '386',
             'author': 'Shigemi Matsumoto, Masahiro Yakami, Kazuya Okamoto, Masashi Kanai, Kaori Togashi, Tomohiro Kuroda, Manabu Muto',
             'title': 'Setting up of a new therapeutic evaluation workflow deploying LMS（Lesion Management Solution） in oncology practice',
             'year': '2015',
@@ -7307,7 +7288,7 @@ bibdatabase: [
             },
 
   {
-            'id': '388',
+            'id': '387',
             'author': 'Ayako Kajimura, Tadamasa Takemura, Kenichiro Fujita, Tomoko Hikita, Akane Hashiya, Tomohiro Kuroda',
             'title': 'The access log analysis of nurses’ using of electronic medical records',
             'year': '2015',
@@ -7324,7 +7305,7 @@ bibdatabase: [
             },
 
   {
-            'id': '389',
+            'id': '388',
             'author': 'Risa Sakurai, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda',
             'title': 'Attempt to Mapping openEHR for Medical Action and Laboratory Test Results',
             'year': '2015',
@@ -7341,7 +7322,7 @@ bibdatabase: [
             },
 
   {
-            'id': '390',
+            'id': '389',
             'author': 'Kenta Hori, Katsuya Takanashi, Chisako Naito, Tomohiro Kuroda',
             'title': 'Communication Analysis of a Simulated Tele-auscultation Experiment',
             'year': '2015',
@@ -7358,7 +7339,7 @@ bibdatabase: [
             },
 
   {
-            'id': '391',
+            'id': '390',
             'author': 'Yuki Uranishi, Masataka Imura, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Natural Color Pattern Matching for Light Direction Estimation',
             'year': '2015',
@@ -7376,7 +7357,7 @@ bibdatabase: [
             },
 
   {
-            'id': '392',
+            'id': '391',
             'author': 'Yu Maruyama, Yuki Uranishi, Chisako Naito, Kazuya Okamoto, Hiroshi Tamura, Tomohiro Kuroda',
             'title': 'Anatomical Structure Projection onto Simulator Arm for Injection Training',
             'year': '2015',
@@ -7394,7 +7375,7 @@ bibdatabase: [
             },
 
   {
-            'id': '393',
+            'id': '392',
             'author': 'Tomohiro Kuroda',
             'title': 'Developing Health Promotion Program based on Wearable ICT and Collective Responsibility',
             'year': '2015',
@@ -7412,7 +7393,7 @@ bibdatabase: [
             },
 
   {
-            'id': '394',
+            'id': '393',
             'author': 'Kenta Hori, Yusuke Uchida, Maya Minami, Chisako Naito, Tomohiro Kuroda, Hideya Takahashi, Masahiko Ando, Takashi Kawamura, Naoto Kume, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Evaluation of Vision-based Remote Navigation System for Tele-auscultation',
             'year': '2014',
@@ -7431,7 +7412,7 @@ bibdatabase: [
             },
 
   {
-            'id': '395',
+            'id': '394',
             'author': 'Kazuya Okamoto, Hiroki Kayama, Minoru Yamada, Naoto Kume, Tomohiro Kuroda, Tomoki Aoyama',
             'title': 'Development of a system for the assessment of a dual-task performance based on a motion-capture device',
             'year': '2014',
@@ -7451,7 +7432,7 @@ bibdatabase: [
             },
 
   {
-            'id': '396',
+            'id': '395',
             'author': 'Tomohiro Kuroda, Nodoka Nakashima, Mayuko Kaneda, Kikue Sato, Naoki Ohboshi, Ayumu Okada, Kazuya Okamoto, Hiroyuki Yoshihara, Tomoya Akiyama',
             'title': 'Evaluating the Workload Reduction of Automatic Vital Data Transmission',
             'year': '2014',
@@ -7469,7 +7450,7 @@ bibdatabase: [
             },
 
   {
-            'id': '397',
+            'id': '396',
             'author': 'Tatsuya Tokunaga, Naoto Kume, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Electronic Health Record Application Development Framework of Clinical Information Statistics',
             'year': '2014',
@@ -7487,7 +7468,7 @@ bibdatabase: [
             },
 
   {
-            'id': '398',
+            'id': '397',
             'author': 'Hiroki Kayama, Kazuya Okamoto, Shu Nishiguchi, Minoru Yamada, Tomohiro Kuroda, Tomoki Aoyama',
             'title': 'Effect of a Kinect-based Exercise Game on Improving Executive Cognitive Performance in Community-dwelling Elderly: Case Control Study',
             'year': '2014',
@@ -7506,7 +7487,7 @@ bibdatabase: [
             },
 
   {
-            'id': '399',
+            'id': '398',
             'author': 'Tatsuya Tokunaga, Naoto Kume, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Naoki Ohboshi, Hiroyuki Yoshihara',
             'title': 'An Application Framework for Enriching Electronic Health Records by Web Services Coordination',
             'year': '2014',
@@ -7524,7 +7505,7 @@ bibdatabase: [
             },
 
   {
-            'id': '400',
+            'id': '399',
             'author': 'Shinji Kobayashi, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Designing clinical models of EHR (Electronic Health Records) for long-term care providers to elderly persons',
             'year': '2014',
@@ -7542,7 +7523,7 @@ bibdatabase: [
             },
 
   {
-            'id': '401',
+            'id': '400',
             'author': 'Ryosuke Sawano, Masatoshi Yoshikawa, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Assessment of Electronic Medical Records Highly Ranked by Scoring Algorithms using Access Logs',
             'year': '2014',
@@ -7559,7 +7540,7 @@ bibdatabase: [
             },
 
   {
-            'id': '402',
+            'id': '401',
             'author': 'Goshiro Yamamoto, Zeeshan Asghar, Yuki Uranishi, Takashi Taketomi, Christian Sandor, Tomohiro Kuroda, Petri Pulli, Hirokazu Kato',
             'title': 'Grid-pattern Indicating Interface for Ambient Assisted Living',
             'year': '2014',
@@ -7577,7 +7558,7 @@ bibdatabase: [
             },
 
   {
-            'id': '403',
+            'id': '402',
             'author': 'Naoto Kume, Shinji Kobayashi, Kenta Masuda, Tomohiro Kuroda, Kenji Araki, Hiroyuki Yoshihara',
             'title': 'Preparation of Common Test Item Master Table for Clinical Study between Plural Facilities',
             'year': '2014',
@@ -7594,7 +7575,7 @@ bibdatabase: [
             },
 
   {
-            'id': '404',
+            'id': '403',
             'author': 'Takashi Nakai, Tadamasa Takemura, Kenichiro Fujita, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'State definition for medical decision support system by machine learning',
             'year': '2014',
@@ -7611,7 +7592,7 @@ bibdatabase: [
             },
 
   {
-            'id': '405',
+            'id': '404',
             'author': 'Risa Sakurai, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda',
             'title': 'Attempt to Mapping openEHR for DPC Data as Medical Record',
             'year': '2014',
@@ -7628,7 +7609,7 @@ bibdatabase: [
             },
 
   {
-            'id': '406',
+            'id': '405',
             'author': 'Yu Uneno, Masashi Kanai, Keiko Tamon, Kei Taneishi, Kazuya Okamoto, Shigemi Matsumoto, Tomohiro Kuroda, Yasushi Okuno, Manabu Muto',
             'title': 'Exploratory Research on predicting therapeutic effect and side effect of anticancer drug using Electronic Patient Record Database System (CyberOncology)',
             'year': '2014',
@@ -7645,7 +7626,7 @@ bibdatabase: [
             },
 
   {
-            'id': '407',
+            'id': '406',
             'author': 'Tomohiro Nakano, Nao Onose, Kikue Sato, Tomoko Hikita, Reiko Houya, Kazuya Okamoto, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'Development of Situation Detection Part of Context-aware Nursing Support Mobile System',
             'year': '2014',
@@ -7663,7 +7644,7 @@ bibdatabase: [
             },
 
   {
-            'id': '408',
+            'id': '407',
             'author': 'Hitomi Yamada, Tadamasa Takemura, Takahiro Asai, Kazuya Okamoto, Tomohiro Kuroda, Shigeki Kuwata',
             'title': 'Consideration of Automatic Evaluation System for Written Informed Consent',
             'year': '2014',
@@ -7681,7 +7662,7 @@ bibdatabase: [
             },
 
   {
-            'id': '409',
+            'id': '408',
             'author': 'Tomohiro Kuroda, Atsushi Masuda, Tomoaki Harii, Hideya Takahashi, Eiji Shimizu',
             'title': 'Prototyping Pressure Ulcer Prevention Mattress Management System using RFID Fiber Woven Label',
             'year': '2014',
@@ -7699,7 +7680,7 @@ bibdatabase: [
             },
 
   {
-            'id': '410',
+            'id': '409',
             'author': 'Yusuke Takeuchi, Hideya Takahashi, Tomohiro Kuroda, Atsushi Masuda, Tomoaki Harii, Eiji Shimizu',
             'title': 'RFID Sensor System for Detection of Volume of Urinary Incontinence',
             'year': '2014',
@@ -7716,7 +7697,7 @@ bibdatabase: [
             },
 
   {
-            'id': '411',
+            'id': '410',
             'author': 'Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Youhei Taniguchi, Hiroyuki Yoshihara',
             'title': 'Adoption and Evaluation of Functions Enabling Templates to Connect Each Other and HIS DB',
             'year': '2014',
@@ -7733,7 +7714,7 @@ bibdatabase: [
             },
 
   {
-            'id': '412',
+            'id': '411',
             'author': 'Naoki Mihara, Yasushi Matsumura, Eizen Kimura, Tomohiro Kuroda, Naoto Kume, Souichi Saishu, Atsushi Sato',
             'title': 'Development of Document Backup System for DACS (Document Archiving and Communication System) By Using Secret Sharing',
             'year': '2014',
@@ -7750,7 +7731,7 @@ bibdatabase: [
             },
 
   {
-            'id': '413',
+            'id': '412',
             'author': 'Takahiro Asai, Hitomi Yamada, Tadamasa Takemura, Hiroshi Narazaki, Kazuya Okamoto, Tomohiro Kuroda, Shigeki Kuwata',
             'title': 'Building a consent described automated audit system in the electronic medical record system',
             'year': '2014',
@@ -7767,7 +7748,7 @@ bibdatabase: [
             },
 
   {
-            'id': '414',
+            'id': '413',
             'author': 'Hitomi Yamada, Tadamasa Takemura, Takahiro Asai, Kazuya Okamoto, Tomohiro Kuroda, Hiroshi Narazaki, Shigeki Kuwata',
             'title': 'Development of Criteria for Medical Record Audits Focused on Informed Consent Descriptions',
             'year': '2014',
@@ -7784,7 +7765,7 @@ bibdatabase: [
             },
 
   {
-            'id': '415',
+            'id': '414',
             'author': 'Ayako Kajimura, Tadamasa Takemura, Kenichiro Fujita, Tomoko Hikita, Akane Taruya, Tomohiro Kuroda',
             'title': 'Analysis of the relationship of screen transition and the nursing service in Electric Medical Records',
             'year': '2014',
@@ -7801,7 +7782,7 @@ bibdatabase: [
             },
 
   {
-            'id': '416',
+            'id': '415',
             'author': 'Kenichiro Fujita, Tadamasa Takemura, Tomoko Hikita, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Study of the evaluation criteria for the screen design of electronic medical records based on the user experience',
             'year': '2014',
@@ -7818,7 +7799,7 @@ bibdatabase: [
             },
 
   {
-            'id': '417',
+            'id': '416',
             'author': 'Ryosuke Sawano, Masatoshi Yoshikawa, Akihiro Hamasaki, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Extracting Relation between Clinical Documents from Access Log',
             'year': '2014',
@@ -7835,7 +7816,7 @@ bibdatabase: [
             },
 
   {
-            'id': '418',
+            'id': '417',
             'author': 'Naoto Kume, Kana Eguchi, Koji Yoshimura, Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Soft Tissue Ablation Model for Surgical Simulation by Applying a Combination of Multiple Hypotheses',
             'year': '2013',
@@ -7853,7 +7834,7 @@ bibdatabase: [
             },
 
   {
-            'id': '419',
+            'id': '418',
             'author': 'Seiko Tsuruoka, Kazuya Okamoto, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Medical Document Ranking Useful to Study Using External Information of the Documents',
             'year': '2013',
@@ -7872,7 +7853,7 @@ bibdatabase: [
             },
 
   {
-            'id': '420',
+            'id': '419',
             'author': 'Tomohiro Kuroda, Eizen Kimura, Yasushi Matsumura, Yoshinori Yamashita, Haruhiko Hiramatsu, Naoto Kume',
             'title': 'Simulating Cloud Environment for HIS backup using Secret Sharing',
             'year': '2013',
@@ -7889,7 +7870,7 @@ bibdatabase: [
             },
 
   {
-            'id': '421',
+            'id': '420',
             'author': 'Kazuya Okamoto, Toshio Uchiyama, Tadamasa Takemura, Naoto Kume, Takayuki Adachi, Tomohiro Kuroda, Tadasu Uchiyama, Hiroyuki Yoshihara',
             'title': 'Qualitative Evaluation of the Supporting System for Diagnosis Procedure Combination Code Selection',
             'year': '2013',
@@ -7906,7 +7887,7 @@ bibdatabase: [
             },
 
   {
-            'id': '422',
+            'id': '421',
             'author': 'Tadamasa Takemura, Toshiyuki Tanaka, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Masahiro Hirose, Hiroyuki Yoshihara',
             'title': 'The Development of a Multiplayer Game for Education of Hospital Management',
             'year': '2013',
@@ -7923,7 +7904,7 @@ bibdatabase: [
             },
 
   {
-            'id': '423',
+            'id': '422',
             'author': 'Sachiko Okada, Keisuke Nagase, Akiko Ito, Masahiko Ando, Yoshiaki Nakagawa, Kazuya Okamoto, Naoto Kume, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of a methodology for the detection of hospital financial outliers using information systems',
             'year': '2013',
@@ -7941,7 +7922,7 @@ bibdatabase: [
             },
 
   {
-            'id': '424',
+            'id': '423',
             'author': 'Tomohiro Kuroda, Haruo Noma, Chisako Naito, Masahiro Tada, Hiroe Yamanaka, Tadamasa Takemura, Kazuko Nin, Hiroyuki Yoshihara',
             'title': 'Prototyping Sensor Network System for Automatic Vital Signs Collection -Evaluation of a Location Based Automated Assignment of Measured Vital Signs to Patients-',
             'year': '2013',
@@ -7960,7 +7941,7 @@ bibdatabase: [
             },
 
   {
-            'id': '425',
+            'id': '424',
             'author': 'Naoto Kume, Kana Eguchi, Tomohiro Kuroda, Koji Yoshimura, Kazutoshi Okubo, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Rupture Progression Model of Stress Integration for Virtual Reality Ablation',
             'year': '2013',
@@ -7978,7 +7959,7 @@ bibdatabase: [
             },
 
   {
-            'id': '426',
+            'id': '425',
             'author': 'Tomohiro Kuroda, Eizen Kimura, Yasushi Matsumura, Yoshinori Yamashita, Haruhiko Hiramatsu, Naoto Kume',
             'title': 'Feasibility Study of HIS Backup Cloud based on Secret Sharing',
             'year': '2013',
@@ -7997,7 +7978,7 @@ bibdatabase: [
             },
 
   {
-            'id': '427',
+            'id': '426',
             'author': 'Tadamasa Takemura, Haruo Noma, Tomohiro Kuroda, Masahiro Tada, Naoto Kume, Kazuya Okamoto, Tomoko Hikita, Hiroyuki Yoshihara',
             'title': 'Ubiquitous Sensor Network Environment in Hospital using BT-AP Antenna',
             'year': '2013',
@@ -8016,7 +7997,7 @@ bibdatabase: [
             },
 
   {
-            'id': '428',
+            'id': '427',
             'author': 'Masahiro Yakami, Tomohiro Kuroda, Takeshi Kubo, Yutaka Emoto, Hiroyuki Yoshihara, Kaori Togashi',
             'title': 'Development and Evaluation of an End-User System for Retrieving Case Data from a Hospital Information System Supporting Complex Search Conditions Involving Multiple Data Tables',
             'year': '2013',
@@ -8034,7 +8015,7 @@ bibdatabase: [
             },
 
   {
-            'id': '429',
+            'id': '428',
             'author': 'Hitomi Yamada, Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Shigeki Kuwata',
             'title': 'A Study of Automatic Evaluation System for Written Informed Consent using Machine Learning',
             'year': '2013',
@@ -8052,7 +8033,7 @@ bibdatabase: [
             },
 
   {
-            'id': '430',
+            'id': '429',
             'author': 'Kikue Sato, Tomohiro Kuroda, Tadamasa Takemura, Akitoshi Seiyama',
             'title': 'Feasibility Assessment of Bluetooth Based Location System for Workflow Analysis of Nursing Staff',
             'year': '2013',
@@ -8070,7 +8051,7 @@ bibdatabase: [
             },
 
   {
-            'id': '431',
+            'id': '430',
             'author': 'Tuukka Karvonen, Tapio Seppanen, Suvi Tiinanen, Antti Kiviniemi, Kazuya Okamoto, Tomohiro Kuroda, Mikko Tulppo',
             'title': 'Ultrasound Image Analysis for Assessment of Flow-mediated Dilation of Human Arteries',
             'year': '2013',
@@ -8088,7 +8069,7 @@ bibdatabase: [
             },
 
   {
-            'id': '432',
+            'id': '431',
             'author': 'Kenta Hori, Yusuke Uchida, Tsukasa Kan, Maya Minami, Chisako Naito, Tomohiro Kuroda, Hideya Takahashi, Masahiko Ando, Takashi Kawamura, Naoto Kume, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Tele-Auscultation Support System with Mixed Reality Navigation',
             'year': '2013',
@@ -8106,7 +8087,7 @@ bibdatabase: [
             },
 
   {
-            'id': '433',
+            'id': '432',
             'author': 'Tomohiro Kuroda, Eizen Kimura, Yasushi Matsumura, Yoshinori Yamashita, Haruhiko Hiramatsu, Naoto Kume, Atsushi Sato',
             'title': 'Applying Secret Sharing for HIS Backup Exchange',
             'year': '2013',
@@ -8124,7 +8105,7 @@ bibdatabase: [
             },
 
   {
-            'id': '434',
+            'id': '433',
             'author': 'Tomohiro Kuroda, Kikuo Hirano, Kazushige Sugimura, Satoshi Adachi, Hidetsugu Igarashi, Kazuo Ueshima, Hideo Nakamura, Masayuki Nambu, Takahiro Doi',
             'title': 'Applying NISHIJIN Historical Textile Technique for e-Textile',
             'year': '2013',
@@ -8142,7 +8123,7 @@ bibdatabase: [
             },
 
   {
-            'id': '435',
+            'id': '434',
             'author': 'Hiroki Kayama, Kazuya Okamoto, Shu Nishiguchi, Minoru Yamada, Tomohiro Kuroda, Tomoki Aoyama',
             'title': 'Effect of a Kinect-based exercise game on improving executive cognitive performance in community-dwelling elderly',
             'year': '2013',
@@ -8159,7 +8140,7 @@ bibdatabase: [
             },
 
   {
-            'id': '436',
+            'id': '435',
             'author': 'Tomohiro Kuroda, Yusuke Uchida, Tsukasa Kan, Maya Minami, Chisako Naito, Kenta Hori, Hideya Takahashi, Masahiko Ando, Takashi Kawamura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Mixed Reality Navigation for Tele-Auscultation',
             'year': '2013',
@@ -8176,7 +8157,7 @@ bibdatabase: [
             },
 
   {
-            'id': '437',
+            'id': '436',
             'author': 'Tomohiro Kuroda, Yoshihiro Kuroda, Kenta Hori, Naoki Ohboshi',
             'title': 'How AR Reforms Social Medical System?',
             'year': '2013',
@@ -8195,7 +8176,7 @@ bibdatabase: [
             },
 
   {
-            'id': '438',
+            'id': '437',
             'author': 'Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'The Electronic Health Record as a Clinical Study Information Hub',
             'year': '2013',
@@ -8213,7 +8194,7 @@ bibdatabase: [
             },
 
   {
-            'id': '439',
+            'id': '438',
             'author': 'Tomohiro Kuroda, Kenta Hori, Kazuya Okamoto',
             'title': 'Introducing Multi-media Communication for Regional Medicine: Nagahama Telemedicine Project',
             'year': '2013',
@@ -8231,7 +8212,7 @@ bibdatabase: [
             },
 
   {
-            'id': '440',
+            'id': '439',
             'author': 'Tomohiro Kuroda, Eizen Kimura, Yasushi Matsumura, Yoshinori Yamashita, Haruhiko Hiramatsu, Naoto Kume',
             'title': 'Simulating Cloud Environment for HIS backup using Secret Sharing',
             'year': '2013',
@@ -8249,7 +8230,7 @@ bibdatabase: [
             },
 
   {
-            'id': '441',
+            'id': '440',
             'author': 'Kazuya Okamoto, Toshio Uchiyama, Tadamasa Takemura, Naoto Kume, Takayuki Adachi, Tomohiro Kuroda, Tadasu Uchiyama, Hiroyuki Yoshihara',
             'title': 'Qualitative Evaluation of the Supporting System for Diagnosis Procedure Combination Code Selection',
             'year': '2013',
@@ -8267,7 +8248,7 @@ bibdatabase: [
             },
 
   {
-            'id': '442',
+            'id': '441',
             'author': 'Tadamasa Takemura, Toshiyuki Tanaka, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Masahiro Hirose, Hiroyuki Yoshihara',
             'title': 'The Development of a Multiplayer Game for Education of Hospital Management',
             'year': '2013',
@@ -8285,7 +8266,7 @@ bibdatabase: [
             },
 
   {
-            'id': '443',
+            'id': '442',
             'author': 'Naoto Kume, Shirou Manabe, Yasushi Matsumura, Kenji Araki, Katsuhiko Takabayashi, Yoshinari Shima, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Distributed Clinical Study Database for Traversal Search of the Accounting Information and Laboratory Test Results',
             'year': '2013',
@@ -8303,7 +8284,7 @@ bibdatabase: [
             },
 
   {
-            'id': '444',
+            'id': '443',
             'author': 'Kazuya Okamoto, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of a Hypothesis-generating Support System using Medical Records for Clinical Knowledge Acquisition',
             'year': '2013',
@@ -8321,7 +8302,7 @@ bibdatabase: [
             },
 
   {
-            'id': '445',
+            'id': '444',
             'author': 'Kana Eguchi, Naoto Kume, Tomohiro Kuroda, Koji Yoshimura, Kazutoshi Okubo, Kazuya Okamoto, Hiroyuki Yoshihara',
             'title': 'Rupture progression model of stress integration for VR ablation',
             'year': '2013',
@@ -8339,7 +8320,7 @@ bibdatabase: [
             },
 
   {
-            'id': '446',
+            'id': '445',
             'author': 'Atsuo Sawada, Koji Yoshimura, Hiroki Murata, Naoto Kume, Tomohiro Kuroda',
             'title': 'Developing Explanation Support System based on Virtual Reality -Process Visualization of Pelvic Organ Prolapse-',
             'year': '2013',
@@ -8357,7 +8338,7 @@ bibdatabase: [
             },
 
   {
-            'id': '447',
+            'id': '446',
             'author': 'Seiko Tsuruoka, Kazuya Okamoto, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Medical Document Ranking Useful to Study using External Information of the Documents',
             'year': '2013',
@@ -8375,7 +8356,7 @@ bibdatabase: [
             },
 
   {
-            'id': '448',
+            'id': '447',
             'author': 'Tomohiro Kuroda, Eizen Kimura, Yasushi Matsumura, Yoshinori Yamashita, Haruhiko Hiramatsu, Naoto Kume',
             'title': 'Feasibility Study of HIS Backup Cloud based on Secret Sharing',
             'year': '2013',
@@ -8393,7 +8374,7 @@ bibdatabase: [
             },
 
   {
-            'id': '449',
+            'id': '448',
             'author': 'Kikue Sato, Tomohiro Kuroda, Tadamasa Takemura',
             'title': 'Quantitative Analysis of Staff Trajectory based on Location System using Bluetooth',
             'year': '2013',
@@ -8411,7 +8392,7 @@ bibdatabase: [
             },
 
   {
-            'id': '450',
+            'id': '449',
             'author': 'Tomohiro Kuroda, Kikuo Hirano, Kazushige Sugimura, Satoshi Adachi, Hidetsugu Igarashi, Kazuo Ueshima',
             'title': 'Prototyping e-Textile Underwear for 12-lead Electrocardiograph using Traditional Weaving Technique 2nd Report',
             'year': '2013',
@@ -8429,7 +8410,7 @@ bibdatabase: [
             },
 
   {
-            'id': '451',
+            'id': '450',
             'author': 'Tomohiro Kuroda, Tadamasa Takemura, Haruo Noma',
             'title': 'Implementing Ubiquitous Sensor Network into Clinical Environment',
             'year': '2013',
@@ -8446,7 +8427,7 @@ bibdatabase: [
             },
 
   {
-            'id': '452',
+            'id': '451',
             'author': 'Masashi Kanai, Keiko Furukawa, Shigemi Matsumoto, Atsushi Yonezawa, Tomohiro Kuroda, Tatsuaki Yonezawa, Shuichi Shiga, Hironori Haga, Masashi Kosugi, Satoshi Ichiyama, Hiroyuki Yoshihara, Kazuo Matsubara, Tsutomu Chiba, Manabu Muto',
             'title': 'Kyoto University Hospital Cancer Center, Bio-bank and -informatics for Cancer (BIC) Project',
             'year': '2013',
@@ -8463,7 +8444,7 @@ bibdatabase: [
             },
 
   {
-            'id': '453',
+            'id': '452',
             'author': 'Yoshihiro Umehara, Masatoshi Yoshikawa, Tomohiro Kuroda, Kazuya Okamoto, Naoto Kume, Hiroyuki Yoshihara',
             'title': 'Study on platform for therapeutic value analysis of medicine based on electronic patient record',
             'year': '2013',
@@ -8482,7 +8463,7 @@ bibdatabase: [
             },
 
   {
-            'id': '454',
+            'id': '453',
             'author': 'Naoto Kume, Yasutomo Kawata, Shirou Manabe, Yoshinari Shima, Yasushi Matsumura, Kenji Araki, Katsuhiko Takabayashi, Kazuya Okamoto, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Problems toward Sharing Laboratory Data Between Hospitals',
             'year': '2013',
@@ -8500,7 +8481,7 @@ bibdatabase: [
             },
 
   {
-            'id': '455',
+            'id': '454',
             'author': 'Takuya Uwate, Tadamasa Takemura, Kazuya Okamoto, Tatsuya Tokunaga, Naoto Kume, Tomohiro Kuroda, Masumi Azuma, Naoki Ohboshi, Hiroyuki Yoshihara, Haruhiko Nishimura',
             'title': 'Development of Mediation Support System using EHR and Social Media System',
             'year': '2013',
@@ -8518,7 +8499,7 @@ bibdatabase: [
             },
 
   {
-            'id': '456',
+            'id': '455',
             'author': 'Tomohiro Nakano, Nao Onose, Kikue Sato, Tomoko Hikita, Reiko Houya, Kazuya Okamoto, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'Development of Context-aware Nursing Support Mobile System',
             'year': '2013',
@@ -8536,7 +8517,7 @@ bibdatabase: [
             },
 
   {
-            'id': '457',
+            'id': '456',
             'author': 'Tadamasa Takemura, Hitomi Yamada, Kazuya Okamoto, Tomohiro Kuroda, Kazuo Nakazawa, Shigeki Kuwata',
             'title': 'Development of Automatic Evaluation System for Written Informed Consent on Electronic Medical Record System',
             'year': '2013',
@@ -8554,7 +8535,7 @@ bibdatabase: [
             },
 
   {
-            'id': '458',
+            'id': '457',
             'author': 'Tomohiro Kuroda, Kenji Araki, Yoshiyau Okuhara, Eizen Kimura, Toru Kumai, Naoto Kume, Atsushi Sato, Tadahiro Shimogawa, Yutaka Hatakeyama, Haruhiko Hiramatsu, Yasushi Matsumura, Yoshinori Yamashita',
             'title': 'Basic Strategy of HIS data backup',
             'year': '2013',
@@ -8572,7 +8553,7 @@ bibdatabase: [
             },
 
   {
-            'id': '459',
+            'id': '458',
             'author': 'Tomohiro Kuroda, Hiroaki Iwamaru, Kenji Masaki, Kazuya Okamoto',
             'title': 'Study and Validation of the Cloud Print System under Virtual Desktop Infrastructure',
             'year': '2013',
@@ -8590,7 +8571,7 @@ bibdatabase: [
             },
 
   {
-            'id': '460',
+            'id': '459',
             'author': 'Atsushi Sato, Eizen Kimura, Tomohiro Kuroda',
             'title': 'Improving the Performance of Secret Sharing Backup System by Applying Compression and Differential Methods on HIS data',
             'year': '2013',
@@ -8608,7 +8589,7 @@ bibdatabase: [
             },
 
   {
-            'id': '461',
+            'id': '460',
             'author': 'Takashi Yamamoto, Kenichi Murakami, Yoji Okada, Tomohiro Miyasaka, Kazuya Okamoto, Tomohiro Kuroda',
             'title': 'Dynamic Control of Wireless Network Configuration Considering Priority of Medical Device Communication',
             'year': '2013',
@@ -8626,7 +8607,7 @@ bibdatabase: [
             },
 
   {
-            'id': '462',
+            'id': '461',
             'author': 'Tomohiro Kuroda, Nodoka Nakashima, Mayuko Kaneda, Kikue Sato, Naoki Ohboshi, Ayumu Okada, Kazuya Okamoto, Hiroyuki Yoshihara, Tomoya Akiyama',
             'title': 'Evaluating the Workload Reduction from Automatic Vital Data Transmission',
             'year': '2013',
@@ -8644,7 +8625,7 @@ bibdatabase: [
             },
 
   {
-            'id': '463',
+            'id': '462',
             'author': 'Tomohiro Kuroda, Kikue Sato, Tadamasa Takemura, Kazuya Okamoto, Akitoshi Seiyama',
             'title': 'Visualization of nursing staff\'s workflow for management with location system',
             'year': '2013',
@@ -8662,7 +8643,7 @@ bibdatabase: [
             },
 
   {
-            'id': '464',
+            'id': '463',
             'author': 'Risa Sakurai, Tadamasa Takemura, Hiroshi Tamura, Tomohiro Kuroda, Hideyuki Horio, Kazuhiko Yamashita',
             'title': 'Developing Computerized Contrast-sensitivity Test for Early Diagnosis of Cataract',
             'year': '2013',
@@ -8680,7 +8661,7 @@ bibdatabase: [
             },
 
   {
-            'id': '465',
+            'id': '464',
             'author': 'Hironobu Murano, Masashi Kotani, Kunihiro Terazawa, Tomohiro Kuroda, Nobuya Inagaki, Hiroyuki Yoshihara',
             'title': 'Publication for Administrative Improvement -Activities of Office for Hospital Strategic Planning-',
             'year': '2013',
@@ -8698,7 +8679,7 @@ bibdatabase: [
             },
 
   {
-            'id': '466',
+            'id': '465',
             'author': 'Tomohiro Kuroda, Hiroshi Sasaki, Takatoshi Suenaga, Yasushi Masuda, Yoshihiro Yasumuro, Kenta Hori, Naoki Ohboshi, Tadamasa Takemura, Kunihiro Chihara, Hiroyuki Yoshihara',
             'title': 'Embedded Ubiquitous Services on Hospital Information Systems',
             'year': '2012',
@@ -8717,7 +8698,7 @@ bibdatabase: [
             },
 
   {
-            'id': '467',
+            'id': '466',
             'author': 'Tadamasa Takemura, Toshiyuki Tanaka, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Masahiro Hirose, Hiroyuki Yoshihara',
             'title': 'The Development of a Multiplayer Game for Education of Hospital Management',
             'year': '2012',
@@ -8736,7 +8717,7 @@ bibdatabase: [
             },
 
   {
-            'id': '468',
+            'id': '467',
             'author': 'Yusuke Uchida, Tomohiro Kuroda, Tsukasa Kan, Hideya Takahashi, Kenta Hori, Naoto Kume, Masahiko Ando, Takashi Kawamura, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Constructing an Information Support System for Remote Ausculation',
             'year': '2012',
@@ -8755,7 +8736,7 @@ bibdatabase: [
             },
 
   {
-            'id': '469',
+            'id': '468',
             'author': 'Kenta Hori, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'JPEG2000 Multi-scale Video Streaming System for Total Information Transmission Control in Telemedicine',
             'year': '2012',
@@ -8774,7 +8755,7 @@ bibdatabase: [
             },
 
   {
-            'id': '470',
+            'id': '469',
             'author': 'Tadamasa Takemura, Kenji Araki, Kenji Arita, Toshiaki Suzuki, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Akira Takada, Hiroyuki Yoshihara',
             'title': 'Development of Fundamental Infrastructure for Nationwide EHR in Japan',
             'year': '2012',
@@ -8793,7 +8774,7 @@ bibdatabase: [
             },
 
   {
-            'id': '471',
+            'id': '470',
             'author': 'Tomohiro Kuroda, Kenta Hori, Masahiko Ando, Takashi Kawamura, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Designing Smooth Communication Environment for Telemedicine for General Practitioner',
             'year': '2012',
@@ -8811,7 +8792,7 @@ bibdatabase: [
             },
 
   {
-            'id': '472',
+            'id': '471',
             'author': 'Kazuya Okamoto, Hiroko Tanaka, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of a Hypothesis-finding Support System using Medical Records for Clinical Knowledge Acquisition',
             'year': '2012',
@@ -8830,7 +8811,7 @@ bibdatabase: [
             },
 
   {
-            'id': '473',
+            'id': '472',
             'author': 'Yuta Yamane, Kenta Hori, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'Multiscale Video Streaming System for Application Level Total QoS Control',
             'year': '2012',
@@ -8849,7 +8830,7 @@ bibdatabase: [
             },
 
   {
-            'id': '474',
+            'id': '473',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of an environment for information reuse on a hospital information system',
             'year': '2012',
@@ -8867,7 +8848,7 @@ bibdatabase: [
             },
 
   {
-            'id': '475',
+            'id': '474',
             'author': 'Hiroyuki Yoshihara, Naoto Kume, Tomohiro Kuroda',
             'title': 'The History of MML (Medical Markup Language) and its Application for EHR (Dolphin Project) in Japan',
             'year': '2012',
@@ -8884,7 +8865,7 @@ bibdatabase: [
             },
 
   {
-            'id': '476',
+            'id': '475',
             'author': 'Kazuya Okamoto, Toshio Uchiyama, Tadamasa Takemura, Takayuki Adachi, Naoto Kume, Tomohiro Kuroda, Tadasu Uchiyama, Hiroyuki Yoshihara',
             'title': 'Automatic Selection of Diagnosis Procedure Combination Codes Based on Partial Treatment Data Relative to the Number of Hospitalization Days',
             'year': '2012',
@@ -8901,7 +8882,7 @@ bibdatabase: [
             },
 
   {
-            'id': '477',
+            'id': '476',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Kazuya Okamoto',
             'title': 'Development of a Glove-Type Input Device with the Minimum Number of Sensors for Japanese Finger Spelling',
             'year': '2012',
@@ -8919,7 +8900,7 @@ bibdatabase: [
             },
 
   {
-            'id': '478',
+            'id': '477',
             'author': 'Kazuya Okamoto, Hiroki Kayama, Minoru Yamada, Naoto Kume, Tomohiro Kuroda, Tomoki Aoyama',
             'title': 'Development of a system for the assessment of a dual-task performance based on a motion-capture device',
             'year': '2012',
@@ -8937,7 +8918,7 @@ bibdatabase: [
             },
 
   {
-            'id': '479',
+            'id': '478',
             'author': 'Tomohiro Kuroda, Tadamasa Takemura, Haruo Noma, Kazuya Okamoto, Naoto Kume, Hiroyuki Yoshihara',
             'title': 'Impact of Position Tracking on the Outpatient Navigation System',
             'year': '2012',
@@ -8955,7 +8936,7 @@ bibdatabase: [
             },
 
   {
-            'id': '480',
+            'id': '479',
             'author': 'Naoto Kume, Nobuhiro Mikuni, Megumi Nakao, Koji Sakai, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Susumu Miyamoto, Hiroyuki Yoshihara',
             'title': 'Brain-shift-Simulation using Hounsfield Numbers for Elasticity Parameter on Finite Element Method',
             'year': '2012',
@@ -8973,7 +8954,7 @@ bibdatabase: [
             },
 
   {
-            'id': '481',
+            'id': '480',
             'author': 'Tomohiro Kuroda, Tomoya Hioki, Naoto Kume, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Prototyping Mixed Reality Endoscopic Surgery Trainer',
             'year': '2012',
@@ -8990,7 +8971,7 @@ bibdatabase: [
             },
 
   {
-            'id': '482',
+            'id': '481',
             'author': 'Kazuya Okamoto, Hiroko Tanaka, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'A Hypothesis-generating Support System Using Medical Records for Clinical Knowledge Acquisition',
             'year': '2012',
@@ -9008,7 +8989,7 @@ bibdatabase: [
             },
 
   {
-            'id': '483',
+            'id': '482',
             'author': 'Tomohiro Kuroda',
             'title': 'Ubiquitous Information Supports for Healthcare Service',
             'year': '2012',
@@ -9026,7 +9007,7 @@ bibdatabase: [
             },
 
   {
-            'id': '484',
+            'id': '483',
             'author': 'Tomohiro Kuroda, Kikuo Hirano, Kazushige Sugimura, Satoshi Adachi, Hidetsugu Igarashi, Kazuo Ueshima, Hiroyuki Yoshihara',
             'title': 'Prototyping e-textile underwear for 12-lead electrocardiograph using traditional weaving technique',
             'year': '2012',
@@ -9044,7 +9025,7 @@ bibdatabase: [
             },
 
   {
-            'id': '485',
+            'id': '484',
             'author': 'Hiroki Murata, Naoto Kume, Tomohiro Kuroda, Koji Yoshimura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'A Proposal of The Virtual Organ Model for Several Pelvic Organ Prolapse',
             'year': '2012',
@@ -9062,7 +9043,7 @@ bibdatabase: [
             },
 
   {
-            'id': '486',
+            'id': '485',
             'author': 'Yusuke Uchida, Tomohiro Kuroda, Kenta Hori, Naoto Kume, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'A Proposal of Information Support System for Remote Auscultation',
             'year': '2012',
@@ -9080,7 +9061,7 @@ bibdatabase: [
             },
 
   {
-            'id': '487',
+            'id': '486',
             'author': 'Seiko Tsuruoka, Kazuya Okamoto, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Medical Document Ranking using HITS Algorithm',
             'year': '2012',
@@ -9098,7 +9079,7 @@ bibdatabase: [
             },
 
   {
-            'id': '488',
+            'id': '487',
             'author': 'Naoki Ohboshi, Yosuke Hirayama, Naoto Kume, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Kenji Araki, Hiroyuki Yoshihara',
             'title': 'An asynchronous communication technique for retrieving electronic health record with tablet terminal',
             'year': '2012',
@@ -9117,7 +9098,7 @@ bibdatabase: [
             },
 
   {
-            'id': '489',
+            'id': '488',
             'author': 'Yosuke Hirayama, Naoto Kume, Naoki Ohboshi, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Kenji Araki, Hiroyuki Yoshihara',
             'title': 'Development of the EHR browser on tablet',
             'year': '2012',
@@ -9136,7 +9117,7 @@ bibdatabase: [
             },
 
   {
-            'id': '490',
+            'id': '489',
             'author': 'Kentaro Nakayama, Kenta Hori, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'Applying QoS Management Framework designed for Telemedicine on Multi-scaling Video Streaming',
             'year': '2012',
@@ -9155,7 +9136,7 @@ bibdatabase: [
             },
 
   {
-            'id': '491',
+            'id': '490',
             'author': 'Masahiro Tada, Haruo Noma, Tomohiro Kuroda, Tadamasa Takemura',
             'title': 'Development of Information Service within Hospital using Sensor Network',
             'year': '2012',
@@ -9173,7 +9154,7 @@ bibdatabase: [
             },
 
   {
-            'id': '492',
+            'id': '491',
             'author': 'Seiko Tsuruoka, Kazuya Okamoto, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Proposal of Ranking Method of Clinical Documents Using External Data',
             'year': '2012',
@@ -9190,7 +9171,7 @@ bibdatabase: [
             },
 
   {
-            'id': '493',
+            'id': '492',
             'author': 'Hiroki Murata, Naoto Kume, Tomohiro Kuroda, Koji Yoshimura, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Three Dimensional Model to Explain Pelvic Organ Prolapse',
             'year': '2012',
@@ -9207,7 +9188,7 @@ bibdatabase: [
             },
 
   {
-            'id': '494',
+            'id': '493',
             'author': 'Yusuke Uchida, Tomohiro Kuroda, Tsukasa Kan, Hideya Takahashi, Naoto Kume, Kenta Hori, Masahiko Ando, Takashi Kawamura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Development of Information System for Tele-auscultation support',
             'year': '2012',
@@ -9224,7 +9205,7 @@ bibdatabase: [
             },
 
   {
-            'id': '495',
+            'id': '494',
             'author': 'Seiko Tsuruoka, Kazuya Okamoto, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Medical Document Ranking using External Information of the Documents',
             'year': '2012',
@@ -9242,7 +9223,7 @@ bibdatabase: [
             },
 
   {
-            'id': '496',
+            'id': '495',
             'author': 'Satoki Hamaguchi, Toshihiko Osugi, Tomohiro Kuroda, Ken-ichiro Watanabe',
             'title': 'ICT Support for Educational Activity at Special Needs Education School for Sick Children',
             'year': '2012',
@@ -9260,7 +9241,7 @@ bibdatabase: [
             },
 
   {
-            'id': '497',
+            'id': '496',
             'author': 'Tomohiro Kuroda, Eizen Kimura, Yasushi Matsumura, Yoshinori Yamashita, Haruhiko Hiramatsu, Naoto Kume',
             'title': 'Simulating Cloud Environment for HIS backup using Secret Sharing',
             'year': '2012',
@@ -9278,7 +9259,7 @@ bibdatabase: [
             },
 
   {
-            'id': '498',
+            'id': '497',
             'author': 'Yusuke Uchida, Tomohiro Kuroda, Tsukasa Suga, Hideya Takahashi, Kenta Hori, Naoto Kume, Masahiko Ando, Takashi Kawamura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Information Support System for Tele-Auscultation using Mixed Reality',
             'year': '2012',
@@ -9296,7 +9277,7 @@ bibdatabase: [
             },
 
   {
-            'id': '499',
+            'id': '498',
             'author': 'Sachiko Okada, Keisuke Nagase, Akiko Ito, Fumihiko Ando, Yoshiaki Nakagawa, Kazuya Okamoto, Naoto Kume, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development and Evaluation of Outlier Detector on Hospital Management using Hospital Information Systems',
             'year': '2012',
@@ -9314,7 +9295,7 @@ bibdatabase: [
             },
 
   {
-            'id': '500',
+            'id': '499',
             'author': 'Tatsuya Tokunaga, Naoto Kume, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Naoki Ohboshi, Hiroyuki Yoshihara',
             'title': 'An application framework providing medical information enriched by web service combination',
             'year': '2012',
@@ -9332,7 +9313,7 @@ bibdatabase: [
             },
 
   {
-            'id': '501',
+            'id': '500',
             'author': 'Haruo Noma, Masahiro Tada, Tomohiro Kuroda, Tadamasa Takemura',
             'title': 'Development of Real-Time Location System Using Bluetooth',
             'year': '2012',
@@ -9352,7 +9333,7 @@ bibdatabase: [
             },
 
   {
-            'id': '502',
+            'id': '501',
             'author': 'Masahiro Yakami, Tomohiro Kuroda',
             'title': 'Development and evaluation of a system for end-users to retrieve case data from a HIS supporting complex search conditions involving multiple data tables',
             'year': '2012',
@@ -9370,7 +9351,7 @@ bibdatabase: [
             },
 
   {
-            'id': '503',
+            'id': '502',
             'author': 'Fumihiko Ando, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Hospital management simulation by the model to fill the sickbed with real patient data',
             'year': '2012',
@@ -9388,7 +9369,7 @@ bibdatabase: [
             },
 
   {
-            'id': '504',
+            'id': '503',
             'author': 'Yusuke Uchida, Tomohiro Kuroda, Tsukasa Kan, Hideya Takahashi, Kenta Hori, Naoto Kume, Masahiko Ando, Takashi Kawamura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Developing Tele-medicine Support Information System Which Integrates and Transmits Visual, Tactile, and Auditory information',
             'year': '2012',
@@ -9406,7 +9387,7 @@ bibdatabase: [
             },
 
   {
-            'id': '505',
+            'id': '504',
             'author': 'Hiroki Murata, Naoto Kume, Tomohiro Kuroda, Koji Yoshimura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Development of The Virtual Organ Model for Several Pelvic Organ Prolapse',
             'year': '2012',
@@ -9424,7 +9405,7 @@ bibdatabase: [
             },
 
   {
-            'id': '506',
+            'id': '505',
             'author': 'Naoto Kume, Kana Eguchi, Koji Yoshimura, Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Soft tissue ablation model by multiple manipulation for surgical simulation',
             'year': '2012',
@@ -9442,7 +9423,7 @@ bibdatabase: [
             },
 
   {
-            'id': '507',
+            'id': '506',
             'author': 'Tatsuya Tokunaga, Kazuya Okamoto, Naoto Kume, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Prototyping statistical data provider based on EHR application framework',
             'year': '2012',
@@ -9460,7 +9441,7 @@ bibdatabase: [
             },
 
   {
-            'id': '508',
+            'id': '507',
             'author': 'Hiroki Murata, Naoto Kume, Tomohiro Kuroda, Koji Yoshimura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Prototyping The Virtual Organ Model for Several Pelvic Organ Prolapse',
             'year': '2012',
@@ -9478,7 +9459,7 @@ bibdatabase: [
             },
 
   {
-            'id': '509',
+            'id': '508',
             'author': 'Kojiro Taura, Megumi Nakao, Etsuno Hatano, Takamichi Ishii, Tadahiro Narita, Hiromitsu Nagata, Tomohiro Kuroda, Kotaro Minato, Shinji Uemoto',
             'title': 'Virtual Reality of Hepatectomy using Plissimo Era',
             'year': '2012',
@@ -9495,7 +9476,7 @@ bibdatabase: [
             },
 
   {
-            'id': '510',
+            'id': '509',
             'author': 'Kenta Hori, Kentaro Nakayama, Yuta Yamane, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'A Multi-Scale Image Transmission on an Integrated Communication Control System for Telemedicine',
             'year': '2012',
@@ -9513,7 +9494,7 @@ bibdatabase: [
             },
 
   {
-            'id': '511',
+            'id': '510',
             'author': 'Masahiro Yakami, Tomohiro Kuroda, Takeshi Kubo, Yutaka Emoto, Hiroyuki Yoshihara, Kaori Togashi',
             'title': 'Developing Case Finding and Information Retrieval System for Non-informatics Specialists Enabling Complicated Query over Multiple EMR Tables',
             'year': '2012',
@@ -9531,7 +9512,7 @@ bibdatabase: [
             },
 
   {
-            'id': '512',
+            'id': '511',
             'author': 'Yuya Yamamoto, Tomohiro Kuroda, Naoki Ohboshi, Osamu Oshiro',
             'title': 'Prototyping armrest-mounted context-aware electrocardiograph',
             'year': '2012',
@@ -9551,7 +9532,7 @@ bibdatabase: [
             },
 
   {
-            'id': '513',
+            'id': '512',
             'author': 'Goshiro Yamamoto, Tomohiro Kuroda, Daisuke Yoshitake, Seamus Hickey, Jaakko Hyry, Kunihiro Chihara, Petri Pulli',
             'title': 'PiTaSu: Wearable Interface for Assisting Senior Citizens with Memory Problems',
             'year': '2011',
@@ -9570,7 +9551,7 @@ bibdatabase: [
             },
 
   {
-            'id': '514',
+            'id': '513',
             'author': 'Tomohiro Kuroda, Tetsuro Kaga, Hiroko Azuma, Masakazu Yagi, Yoshihiro Kuroda, Masataka Imura, Osamu Oshiro, Kenji Takada',
             'title': 'Method to Develop Pseudo Three-Dimensional Dental Image from Dental Panoramic Radiograph',
             'year': '2011',
@@ -9589,7 +9570,7 @@ bibdatabase: [
             },
 
   {
-            'id': '515',
+            'id': '514',
             'author': 'Eizen Kimura, Shinji Kobayashi, Tomohiro Kuroda, Ken Ishihara, Hiroyuki Yoshihara, Tsuneyo Mimori, Ryosuke Takahashi, Tsutomu Chiba',
             'title': 'Lessons Learned from Modeling Archetypes for Intractable Disease Surveys',
             'year': '2011',
@@ -9608,7 +9589,7 @@ bibdatabase: [
             },
 
   {
-            'id': '516',
+            'id': '515',
             'author': 'Tomohiro Kuroda, Junzo Sato, Harutoshi Yazaki, Tadamasa Takemura, Keisuke Nagase, Yasuyuki Kato, Hiroyuki Yoshihara',
             'title': 'Introduction of Template-based Database Framework for Prospective Study into Daily-using HIS',
             'year': '2011',
@@ -9627,7 +9608,7 @@ bibdatabase: [
             },
 
   {
-            'id': '517',
+            'id': '516',
             'author': 'Tadamasa Takemura, Yoko Tanaka, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Masahiro Hirose, Hiroyuki Yoshihara',
             'title': 'Development of the Hospital Management Game for Education based on Role-Play',
             'year': '2011',
@@ -9646,7 +9627,7 @@ bibdatabase: [
             },
 
   {
-            'id': '518',
+            'id': '517',
             'author': 'Kazuya Okamoto, Toshio Uchiyama, Tadamasa Takemura, Takayuki Adachi, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Automatic DPC Code Selection from Discharge Summaries using Several Machine Learning Methods',
             'year': '2011',
@@ -9665,7 +9646,7 @@ bibdatabase: [
             },
 
   {
-            'id': '519',
+            'id': '518',
             'author': 'Tomohiro Kuroda, Kenta Hori, Masahiko Ando, Takashi Kawamura, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Designing Smooth Communication Environment for Telemedicine for General Practitioner',
             'year': '2011',
@@ -9683,7 +9664,7 @@ bibdatabase: [
             },
 
   {
-            'id': '520',
+            'id': '519',
             'author': 'Shinji Kobayashi, Eizen Kimura, Takeki Yoshikawa, Hugh Leslie, Heather Lesie, Masaki Yasukawa, Ken Ishihara, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Clinical Data Modeling Using ArchetypeTechnology for National Surveillance of Intractable Diseases in Japan',
             'year': '2011',
@@ -9700,7 +9681,7 @@ bibdatabase: [
             },
 
   {
-            'id': '521',
+            'id': '520',
             'author': 'Kazuya Okamoto, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Naoki Ohboshi, Kenta Hori, Masahiro Hirose, Nobuaki Ito, Hiroyuki Yoshihara',
             'title': 'A Reporting System and a Similar Case Retrieval System Exploiting Meta-information of Image',
             'year': '2011',
@@ -9717,7 +9698,7 @@ bibdatabase: [
             },
 
   {
-            'id': '522',
+            'id': '521',
             'author': 'Tomohiro Kuroda, Atsushi Kitamura, Naoki Ohboshi, Hiroshi Sasaki, Hiroo Tamagawa, Mitsuhiko Obata, Hiroyuki Yoshihara',
             'title': 'Prototyping MR Clinical Support System for Dentists',
             'year': '2011',
@@ -9734,7 +9715,7 @@ bibdatabase: [
             },
 
   {
-            'id': '523',
+            'id': '522',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Masahiro Hirose, Hiroyuki Yoshihara',
             'title': 'Automatic Extraction of Medical Practices based on Accidents',
             'year': '2011',
@@ -9752,7 +9733,7 @@ bibdatabase: [
             },
 
   {
-            'id': '524',
+            'id': '523',
             'author': 'Naoto Kume, Rei Yamaoka, Nobuhiro Mikuni, Koji Sakai, Tomohiro Kuroda, Megumi Nakao, Kazuya Okamoto, Tadamasa Takemura, Kotaro Minato, Hiroyuki Yoshihara',
             'title': 'VR-based Brain-shift Simulation for Neurosurgery',
             'year': '2011',
@@ -9770,7 +9751,7 @@ bibdatabase: [
             },
 
   {
-            'id': '525',
+            'id': '524',
             'author': 'Toshiyuki Tanaka, Tadamasa Takemura, Kazuya Okamoto, Naoto Kume, Masahiro Hirose, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'A Development of Multiplayer Game for Education of Hospital Management',
             'year': '2011',
@@ -9788,7 +9769,7 @@ bibdatabase: [
             },
 
   {
-            'id': '526',
+            'id': '525',
             'author': 'Tomoya Hioki, Naoto Kume, Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'A Proposal of Mixed Reality Training Simulator for Endoscopic Surgery',
             'year': '2011',
@@ -9806,7 +9787,7 @@ bibdatabase: [
             },
 
   {
-            'id': '527',
+            'id': '526',
             'author': 'Kana Eguchi, Naoto Kume, Tomohiro Kuroda, Koji Yoshimura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'A Proposal of Virtual Reality-based Dissection Simulation of Layered Soft Tissue',
             'year': '2011',
@@ -9824,7 +9805,7 @@ bibdatabase: [
             },
 
   {
-            'id': '528',
+            'id': '527',
             'author': 'Naoki Ohboshi, Atsushi Kitamura, Hiroshi Sasaki, Tomohiro Kuroda, Hiroo Tamagawa, Mitsuhiko Obata, Hiroyuki Yoshihara',
             'title': 'Development of Medical Treatment Support System having NFC Device as Trigger',
             'year': '2011',
@@ -9842,7 +9823,7 @@ bibdatabase: [
             },
 
   {
-            'id': '529',
+            'id': '528',
             'author': 'Tomohiro Kuroda, Kazuya Okamoto, Naoto Kume, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Outpatient Guide System equipping Postion Tracking and Health Insurance Card Authentication',
             'year': '2011',
@@ -9861,7 +9842,7 @@ bibdatabase: [
             },
 
   {
-            'id': '530',
+            'id': '529',
             'author': 'Naoto Kume, Yasutomo Kawata, Shirou Manabe, Yoshinari Shima, Yasushi Matsumura, Kenji Araki, Katsuhiko Takabayashi, Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Traversal Search in Between Four University Hospitals on a Developed Distributed Database of Clinical Accounting Information and Clinical Information',
             'year': '2011',
@@ -9880,7 +9861,7 @@ bibdatabase: [
             },
 
   {
-            'id': '531',
+            'id': '530',
             'author': 'Kohei Kikuchi, Mayumi Bono, Hideyuki Nakanishi, Tomohiro Kuroda, Sumihiro Kawano',
             'title': 'An analysis of gaze agreement in sign language and phonetic language conversation using tele-presence system environment',
             'year': '2011',
@@ -9899,7 +9880,7 @@ bibdatabase: [
             },
 
   {
-            'id': '532',
+            'id': '531',
             'author': 'Tadamasa Takemura, Haruo Noma, Tomohiro Kuroda, Masahiro Tada, Naoto Kume, Kazuya Okamoto, Hiroyuki Yoshihara',
             'title': 'Development of Bluetooth Barcode System to Ordering Check under Wi-Fi Network',
             'year': '2011',
@@ -9918,7 +9899,7 @@ bibdatabase: [
             },
 
   {
-            'id': '533',
+            'id': '532',
             'author': 'Toshiyuki Tanaka, Tadamasa Takemura, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Masahiro Hirose, Hiroyuki Yoshihara',
             'title': 'A Development of Multiplayer Fame for Education of Hospital Management',
             'year': '2011',
@@ -9937,7 +9918,7 @@ bibdatabase: [
             },
 
   {
-            'id': '534',
+            'id': '533',
             'author': 'Naoki Mihara, Kosuke Sasai, Noriyuki Tomiyama, Tomohiro Kuroda, Toshinari Nakano, Masaki Miyamoto, Keunsik Park, Hiroo Tamagawa, Yasushi Matsumura',
             'title': 'The Prototype of the Self-learning System of the Chest X-ray Images',
             'year': '2011',
@@ -9956,7 +9937,7 @@ bibdatabase: [
             },
 
   {
-            'id': '535',
+            'id': '534',
             'author': 'Kazuya Okamoto, Toshio Uchiyama, Tadamasa Takemura, Takayuki Adachi, Naoto Kume, Tomohiro Kuroda, Tadasu Uchiyama, Hiroyuki Yoshihara',
             'title': 'Automatic DPC Code Selection from Treatment Data Corresponding to Length of a Hospitalization',
             'year': '2011',
@@ -9975,7 +9956,7 @@ bibdatabase: [
             },
 
   {
-            'id': '536',
+            'id': '535',
             'author': 'Tatsuya Tokunaga, Tadamasa Takemura, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Naoki Ohboshi, Hiroyuki Yoshihara',
             'title': 'A Construction of a Web Service Providing Clinical Data n Maiko-net',
             'year': '2011',
@@ -9994,7 +9975,7 @@ bibdatabase: [
             },
 
   {
-            'id': '537',
+            'id': '536',
             'author': 'Kazuya Okamoto, Tadamasa Takemura, Setsuko Murata, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'The Development of a System Storing Life Logs and Utilization of the Life Logs in Medical Care',
             'year': '2011',
@@ -10013,7 +9994,7 @@ bibdatabase: [
             },
 
   {
-            'id': '538',
+            'id': '537',
             'author': 'Etsuyo Kaneko, Namiko Hattori, Mikako Ohi, Noriko Hashimoto, Kenichiro Fujita, Kazuhiro Yanagihara, Tomohiro Kuroda, Osamu Ogawa, Hiroyuki Yoshihara',
             'title': 'Design and Operation of the Case Finding',
             'year': '2011',
@@ -10032,7 +10013,7 @@ bibdatabase: [
             },
 
   {
-            'id': '539',
+            'id': '538',
             'author': 'Tadamasa Takemura, Naoto Kume, Kazuya Okamoto, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of an Environment for Information Reuse on a Hospital Information System',
             'year': '2011',
@@ -10051,7 +10032,7 @@ bibdatabase: [
             },
 
   {
-            'id': '540',
+            'id': '539',
             'author': 'Tomohiro Kuroda, Tadamasa Takemura, Naoto Kume, Kazuya Okamoto, Hiroyuki Yoshihara',
             'title': 'Developing Networked Digital Camera System for Clinical Use based on Commercial Ready Sybsystems',
             'year': '2011',
@@ -10070,7 +10051,7 @@ bibdatabase: [
             },
 
   {
-            'id': '541',
+            'id': '540',
             'author': 'Kana Eguchi, Naoto Kume, Tomohiro Kuroda, Koji Yoshimura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'A Method to Solve the Direction of Rupture Progression on a VR-based Dissection Simulation',
             'year': '2011',
@@ -10088,7 +10069,7 @@ bibdatabase: [
             },
 
   {
-            'id': '542',
+            'id': '541',
             'author': 'Masayuki Kadono, Naoki Ohboshi, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Developing Context-aware Unconstraint Cardiograph',
             'year': '2011',
@@ -10108,7 +10089,7 @@ bibdatabase: [
             },
 
   {
-            'id': '543',
+            'id': '542',
             'author': 'Tomoya Hioki, Naoto Kume, Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Prototyping Mixed Reality Training Simulator for Endoscopic Surgery',
             'year': '2011',
@@ -10126,7 +10107,7 @@ bibdatabase: [
             },
 
   {
-            'id': '544',
+            'id': '543',
             'author': 'Naoto Kume, Rei Yamaoka, Megumi Nakao, Nobuhiro Mikuni, Koji Sakai, Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Susumu Miyamoto, Hiroyuki Yoshihara',
             'title': 'Self-wright Deformation Simulation of Soft Tissue for Brain Surgery',
             'year': '2011',
@@ -10144,7 +10125,7 @@ bibdatabase: [
             },
 
   {
-            'id': '545',
+            'id': '544',
             'author': 'Kojiro Taura, Megumi Nakao, Tomohiro Kuroda, Kotaro Minato, Etsuno Hatano, Shinji Uemoto',
             'title': 'Virtual Reality in Hepatectomy -Using Plissimo Era-',
             'year': '2011',
@@ -10162,7 +10143,7 @@ bibdatabase: [
             },
 
   {
-            'id': '546',
+            'id': '545',
             'author': 'Tomoya Hioki, Naoto Kume, Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Designing Mixed Reality Simulator for Endoscopic Surgery Training',
             'year': '2011',
@@ -10180,7 +10161,7 @@ bibdatabase: [
             },
 
   {
-            'id': '547',
+            'id': '546',
             'author': 'Kana Eguchi, Naoto Kume, Tomohiro Kuroda, Koji Yoshimura, Kazuya Okamoto, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Defining Direction of Fracture Propagation in Multi-point Operational Soft-tissue Dissection',
             'year': '2011',
@@ -10198,7 +10179,7 @@ bibdatabase: [
             },
 
   {
-            'id': '548',
+            'id': '547',
             'author': 'Naoto Kume, Rei Yamaoka, Nobuhiro Mikuni, Koji Sakai, Tomohiro Kuroda, Megumi Nakao, Kazuya Okamoto, Tadamasa Takemura, Susumu Miyamoto, Hiroyuki Yoshihara',
             'title': 'Inner Brain Deformation Simulation for Brain Surgery Support',
             'year': '2011',
@@ -10216,7 +10197,7 @@ bibdatabase: [
             },
 
   {
-            'id': '549',
+            'id': '548',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Information Retrieval System on Hospital Information Systems',
             'year': '2011',
@@ -10234,7 +10215,7 @@ bibdatabase: [
             },
 
   {
-            'id': '550',
+            'id': '549',
             'author': 'Yuta Yamane, Kenta Hori, Tomohiro Kuroda, Naoki Ohboshi',
             'title': 'Multiscale Video Streaming System for Application Level QoS Control',
             'year': '2011',
@@ -10252,7 +10233,7 @@ bibdatabase: [
             },
 
   {
-            'id': '551',
+            'id': '550',
             'author': 'Kazuya Okamoto, Hiroko Tanaka, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'A Development of Clinical Knowledge Acquisitions Support System Using Medical Records',
             'year': '2011',
@@ -10270,7 +10251,7 @@ bibdatabase: [
             },
 
   {
-            'id': '552',
+            'id': '551',
             'author': 'Tomohiro Kuroda, Haruo Noma, Chisako Naito, Masahiro Tada, Hiroe Yamanaka, Tadamasa Takemura, Kazuko Nin, Hiroyuki Yoshihara',
             'title': 'Prototyping Sensor Networking System for Automatic Vital Data Collection',
             'year': '2011',
@@ -10288,7 +10269,7 @@ bibdatabase: [
             },
 
   {
-            'id': '553',
+            'id': '552',
             'author': 'Tadamasa Takemura, Toshiharu Teramae, Kenichiro Fujita, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Developing Unified Data Repository of Clinical Research Data and Electoric Patient Record in Kyoto University Hospital',
             'year': '2011',
@@ -10306,7 +10287,7 @@ bibdatabase: [
             },
 
   {
-            'id': '554',
+            'id': '553',
             'author': 'Tomohiro Kuroda, Tetsuro Kaga, Hiroko Azuma, Masakazu Yagi, Yoshihiro Kuroda, Masataka Imura, Osamu Oshiro, Kenji Takada',
             'title': 'Method to Develop Pseudo Three-Dimensional Dental Image from Dental Panoramic Radiograph',
             'year': '2010',
@@ -10324,7 +10305,7 @@ bibdatabase: [
             },
 
   {
-            'id': '555',
+            'id': '554',
             'author': 'Yoshihiro Kuroda, Shunji Kamei, Tomohiro Kuroda, Genta Kawahara, Osamu Oshiro',
             'title': 'Flow Field Haptization System focused on Asymmetric Drag Distribution',
             'year': '2010',
@@ -10343,7 +10324,7 @@ bibdatabase: [
             },
 
   {
-            'id': '556',
+            'id': '555',
             'author': 'Ryosuke Arai, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Real-time Calculation Mothod of Topological Change by Localization and Recording and Playing Approaches',
             'year': '2010',
@@ -10362,7 +10343,7 @@ bibdatabase: [
             },
 
   {
-            'id': '557',
+            'id': '556',
             'author': 'Masataka Imura, Tomohiro Kuroda, Yoshiyuki Kagiyama, Yoshihiro Kuroda, Osamu Oshiro, Hiroko Azuma, Masakazu Yagi, Kenji Takada',
             'title': 'Reconstruction of Pseudo Three-Dimensional Dental Image from Dental Panoramic Radiograph at Tooth Surface Shape',
             'year': '2010',
@@ -10381,7 +10362,7 @@ bibdatabase: [
             },
 
   {
-            'id': '558',
+            'id': '557',
             'author': 'Matti Pouke, Seamus Hickey, Tomohiro Kuroda, Haruo Noma',
             'title': 'Activity Recognition of the Elderly',
             'year': '2010',
@@ -10399,7 +10380,7 @@ bibdatabase: [
             },
 
   {
-            'id': '559',
+            'id': '558',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Kazuya Okamoto',
             'title': 'Basic Study toward Automatic Generation of Glove-type Command Input Device with Optimal Number of Sensors',
             'year': '2010',
@@ -10417,7 +10398,7 @@ bibdatabase: [
             },
 
   {
-            'id': '560',
+            'id': '559',
             'author': 'Tomohiro Kuroda, Goshiro Yamamoto, Daisuke Yoshitake, Seamus Hickey, Jaakko Hyry, Kunihiro Chihara, Petri Pulli',
             'title': 'PiTaSu: Wearable Interface for Assisting Senior Citizens with Memory Problems',
             'year': '2010',
@@ -10435,7 +10416,7 @@ bibdatabase: [
             },
 
   {
-            'id': '561',
+            'id': '560',
             'author': 'Tomohiro Kuroda, Daisuke Yoshitake, Goshiro Yamamoto, Seamus Hickey, Jaakko Hyry, Kunihiro Chihara, Petri Pulli',
             'title': 'PiTaSu: Mobile Mixed Reality Interface among Ubiquitous Information Support Environment',
             'year': '2010',
@@ -10453,7 +10434,7 @@ bibdatabase: [
             },
 
   {
-            'id': '562',
+            'id': '561',
             'author': 'Rei Yamaoka, Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Kotaro Minato, Hiroyuki Yoshihara, Nobuhiro Mikuni',
             'title': 'FEB-Based Soft Tissue Deformation by Gravity Modeling for Brain-shift Simulation',
             'year': '2010',
@@ -10471,7 +10452,7 @@ bibdatabase: [
             },
 
   {
-            'id': '563',
+            'id': '562',
             'author': 'Kazuya Okamoto, Toshio Uchiyama, Tadamasa Takemura, Takayuki Adachi, Naoto Kume, Tomohiro Kuroda, Tadasu Uchiyama, Hiroyuki Yoshihara',
             'title': 'Automatic DPC Coding from Discharge Summary using Multiple Machine Learning Method',
             'year': '2010',
@@ -10489,7 +10470,7 @@ bibdatabase: [
             },
 
   {
-            'id': '564',
+            'id': '563',
             'author': 'Rei Yamaoka, Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Kotaro Minato, Hiroyuki Yoshihara',
             'title': 'Introduction of Deformation by Gravity into Finite Element Deformation Model for Visualization of Brain Shift Phenomena',
             'year': '2010',
@@ -10507,7 +10488,7 @@ bibdatabase: [
             },
 
   {
-            'id': '565',
+            'id': '564',
             'author': 'Juha-Pekka Hamina, Tomohiro Kuroda, Hideo Nakamura, Masayuki Nambu, Timo Rahkonen, Kazuya Okamoto, Naoto Kume, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Cloth with Embedded Electrode Matrix for Continuous Monitoring of Six Lead Electrocardiogram',
             'year': '2010',
@@ -10525,7 +10506,7 @@ bibdatabase: [
             },
 
   {
-            'id': '566',
+            'id': '565',
             'author': 'Tomohiro Kuroda',
             'title': 'Basic Structure of Hospital Information System',
             'year': '2010',
@@ -10542,7 +10523,7 @@ bibdatabase: [
             },
 
   {
-            'id': '567',
+            'id': '566',
             'author': 'Toshio Uchiyama, Kazuya Okamoto, Tadamasa Takemura, Takayuki Adachi, Naoto Kume, Tomohiro Kuroda, Tadasu Uchiyama, Hiroyuki Yoshihara',
             'title': 'DPC Coding using Concept base Specialized in Medical Field',
             'year': '2010',
@@ -10559,7 +10540,7 @@ bibdatabase: [
             },
 
   {
-            'id': '568',
+            'id': '567',
             'author': 'Tomohiro Kuroda',
             'title': 'Application of OpenEHR - Way of composing referral system - European way and States way -',
             'year': '2010',
@@ -10576,7 +10557,7 @@ bibdatabase: [
             },
 
   {
-            'id': '569',
+            'id': '568',
             'author': 'Daisuke Yoshitake, Goshiro Yamamoto, Seamus Hickey, Tomohiro Kuroda, Jaakko Hyry, Kunihiro Chihara, Petri Pulli',
             'title': 'PuTaSu: A Tapping User Interface on Wall Surfaces for Senior Citizens with Memory Problem',
             'year': '2010',
@@ -10596,7 +10577,7 @@ bibdatabase: [
             },
 
   {
-            'id': '570',
+            'id': '569',
             'author': 'Tadamasa Takemura, Naoto Kume, Kazuya Okamoto, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Developing a seamless environment between a hospital information system and a campus network with Server Based Computing and Cloud Computing',
             'year': '2010',
@@ -10614,7 +10595,7 @@ bibdatabase: [
             },
 
   {
-            'id': '571',
+            'id': '570',
             'author': 'Masahiko Kitamura, Takahiro Murooka, Tomoko Sawabe, Atsushi Takahara, Tetsuro Fujii, Mayumi Bono, Tomohiro Kuroda',
             'title': 'Evaluation of the Video Quality with High Resolution and High Framerate Images for Sign Lnguage',
             'year': '2010',
@@ -10631,7 +10612,7 @@ bibdatabase: [
             },
 
   {
-            'id': '572',
+            'id': '571',
             'author': 'Yoshihiro Kuroda, Hisashi Kanamori, Hidekazu Takiuchi, Masao Tanooka, Masataka Imura, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Inside-body Registration with Pair-line Matching for AR Surgical Navigation',
             'year': '2009',
@@ -10650,7 +10631,7 @@ bibdatabase: [
             },
 
   {
-            'id': '573',
+            'id': '572',
             'author': 'Toshiaki Tanimoto, Hiroshi Watabe, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Statistical Dynamic Imaging of RI Tracer from List-mode PET Data',
             'year': '2009',
@@ -10669,7 +10650,7 @@ bibdatabase: [
             },
 
   {
-            'id': '574',
+            'id': '573',
             'author': 'Tomohiro Kuroda, Tsuyoshi Nagashima, Antti Alasalmi, Naoto Kume, Tadamasa Takemura, Olli Martikainen, Naoki Ohboshi, Kenta Hori, Hiroyuki Yoshihara, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'Effectiveness of WLAN Location Services Medical Equipment Logistics',
             'year': '2009',
@@ -10688,7 +10669,7 @@ bibdatabase: [
             },
 
   {
-            'id': '575',
+            'id': '574',
             'author': 'Naoto Kume, Mikko Rissanen, Yoshihiro Kuroda, Megumi Nakao, Tadamasa Takemura, Hiroyuki Yoshihara, Tomohiro Kuroda, Shinichiro Mori, Shinji Tomita, Koji Yoshimura',
             'title': 'Evaluation of Teaching Digital Rectal Examination on Annotated Haptic VR Simulator',
             'year': '2009',
@@ -10707,7 +10688,7 @@ bibdatabase: [
             },
 
   {
-            'id': '576',
+            'id': '575',
             'author': 'Takafumi Terada, Norihito Wada, Tomohiro Kuroda',
             'title': 'Research of the Simulation Based Medical Education',
             'year': '2009',
@@ -10726,7 +10707,7 @@ bibdatabase: [
             },
 
   {
-            'id': '577',
+            'id': '576',
             'author': 'Osamu Oshiro, Tomohiro Kuroda, Masataka Imura, Hiroko Azuma, Masakazu Yagi, Kenji Takada',
             'title': 'Physiome Image Fusion -Multi Modal Image Integration for Dental Clinic',
             'year': '2009',
@@ -10745,7 +10726,7 @@ bibdatabase: [
             },
 
   {
-            'id': '578',
+            'id': '577',
             'author': 'Hideyuki Horio, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro, Shigeo Wada, Toru Haraguchi, Kazuo Nakazawa',
             'title': 'Analysis of Cardiac Torsion with Strain Tensor',
             'year': '2009',
@@ -10763,7 +10744,7 @@ bibdatabase: [
             },
 
   {
-            'id': '579',
+            'id': '578',
             'author': 'Yoshihiro Kuroda, Yuta Morishita, Tomohiro Kuroda, Yasushi Masuda, Osamu Oshiro',
             'title': 'Error Reduction in 3D Gaze Point Estimation for Advanced Medical Annotations',
             'year': '2009',
@@ -10781,7 +10762,7 @@ bibdatabase: [
             },
 
   {
-            'id': '580',
+            'id': '579',
             'author': 'Tomohiro Kuroda',
             'title': 'Toward Wireless Hospital -Snapshot of Trials around the World',
             'year': '2009',
@@ -10799,7 +10780,7 @@ bibdatabase: [
             },
 
   {
-            'id': '581',
+            'id': '580',
             'author': 'Daisuke Fukutsuka, Yoshiyuki Kagiyama, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Designing Multi-Touch Interface for Human Body Shaped Display',
             'year': '2009',
@@ -10817,7 +10798,7 @@ bibdatabase: [
             },
 
   {
-            'id': '582',
+            'id': '581',
             'author': 'Takahiro Tokui, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Context-based Filtering for Unconstrained Electrocardiograph',
             'year': '2009',
@@ -10835,7 +10816,7 @@ bibdatabase: [
             },
 
   {
-            'id': '583',
+            'id': '582',
             'author': 'Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tadamasa Takemura, Hiroyuki Yoshihara, Tomohiro Kuroda, Shinichiro Mori, Shinji Tomita',
             'title': 'Virtual Organ Modeling by Reflecting the Tone Fit of Multiple Attributes',
             'year': '2009',
@@ -10853,7 +10834,7 @@ bibdatabase: [
             },
 
   {
-            'id': '584',
+            'id': '583',
             'author': 'Hideyuki Horio, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro, Shigeo Wada, Toru Haraguchi, Kazuo Nakazawa',
             'title': 'Analysis of Cardiac Torsion from MR Phase-Contrast Image',
             'year': '2009',
@@ -10871,7 +10852,7 @@ bibdatabase: [
             },
 
   {
-            'id': '585',
+            'id': '584',
             'author': 'Shunsuke Yoshimoto, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Tactile Mapping Approach using Electrical Stimulus Pattern',
             'year': '2009',
@@ -10889,7 +10870,7 @@ bibdatabase: [
             },
 
   {
-            'id': '586',
+            'id': '585',
             'author': 'Yoshihiro Kuroda, Yoshiyuki Kagiyama, Masataka Imura, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Virtual Reality-based Surgical Systems -Surgical Training and Navigation with VR Technologies',
             'year': '2009',
@@ -10908,7 +10889,7 @@ bibdatabase: [
             },
 
   {
-            'id': '587',
+            'id': '586',
             'author': 'Tomohiro Kuroda, Daisuke Fukutsuka, Yoshiyuki Kagiyama, Yoshihiro Kuroda, Masataka Imura, Osamu Oshiro',
             'title': 'Human-body Shaped Display System aiming Clinical Training',
             'year': '2009',
@@ -10927,7 +10908,7 @@ bibdatabase: [
             },
 
   {
-            'id': '588',
+            'id': '587',
             'author': 'Yoshihiro Kuroda, Hisashi Kanamori, Hidekazu Takiuchi, Masao Tanooka, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Dynamic Transparency Control of Augmented Surgical View for Interoperative Navigation',
             'year': '2009',
@@ -10947,7 +10928,7 @@ bibdatabase: [
             },
 
   {
-            'id': '589',
+            'id': '588',
             'author': 'Tatsuya Tokunaga, Naoto Kume, Tadamasa Takemura, Tomohiro Kuroda, Naoki Ohboshi, Hiroyuki Yoshihara',
             'title': 'A proposal of service oriented framework of medical information presentation',
             'year': '2009',
@@ -10965,7 +10946,7 @@ bibdatabase: [
             },
 
   {
-            'id': '590',
+            'id': '589',
             'author': 'Daisuke Fukutsuka, Yoshiyuki Kagiyama, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Designing Multi-Touch Interface for Human Body Shaped Display',
             'year': '2009',
@@ -10983,7 +10964,7 @@ bibdatabase: [
             },
 
   {
-            'id': '591',
+            'id': '590',
             'author': 'Yoko Tanaka, Tadamasa Takemura, Naoto Kume, Sachiko Okada, Tomohiro Kuroda, Masahiro Hirose, Hiroyuki Yoshihara',
             'title': 'The Simulation of Hospital Management with Role-playing',
             'year': '2009',
@@ -11001,7 +10982,7 @@ bibdatabase: [
             },
 
   {
-            'id': '592',
+            'id': '591',
             'author': 'Hirotoshi Ashida, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Fluid-Solid Interaction Simulation with Phase Transition Modeling',
             'year': '2009',
@@ -11019,7 +11000,7 @@ bibdatabase: [
             },
 
   {
-            'id': '593',
+            'id': '592',
             'author': 'Shinichiro Mori, Tomohiro Kuroda, Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Hajime Shimada, Shinji Tomita, Yasuhiko Nakashima',
             'title': 'Development of Interactive Supercomputing Environment',
             'year': '2009',
@@ -11039,7 +11020,7 @@ bibdatabase: [
             },
 
   {
-            'id': '594',
+            'id': '593',
             'author': 'Takeshi Yoshida, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Tomohiro Kuroda, Hidefumi Kinoshita, Tadashi Matsuda, Osamu Oshiro',
             'title': 'Pressure measurement in three axial directions on the tip of the laparoscopic forceps and skill analysis in a detachment procedure',
             'year': '2009',
@@ -11058,7 +11039,7 @@ bibdatabase: [
             },
 
   {
-            'id': '595',
+            'id': '594',
             'author': 'Tomohiro Kuroda',
             'title': 'Does Hospital Still Needs Department of Medical Informatics?',
             'year': '2009',
@@ -11075,7 +11056,7 @@ bibdatabase: [
             },
 
   {
-            'id': '596',
+            'id': '595',
             'author': 'Naoto Kume, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Migration of Mail Server to Google Apps at Kyoto University Hospital',
             'year': '2009',
@@ -11093,7 +11074,7 @@ bibdatabase: [
             },
 
   {
-            'id': '597',
+            'id': '596',
             'author': 'Tomohiro Kuroda, Naoto Kume, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Next-generation Medical Equipments Embedded into Hospital Information Systems',
             'year': '2009',
@@ -11111,7 +11092,7 @@ bibdatabase: [
             },
 
   {
-            'id': '598',
+            'id': '597',
             'author': 'Yoshiyuki Kagiyama, Daisuke Fukutsuka, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Multi-scale model viewer system of human body',
             'year': '2009',
@@ -11130,7 +11111,7 @@ bibdatabase: [
             },
 
   {
-            'id': '599',
+            'id': '598',
             'author': 'Tadamasa Takemura, Masahiro Hirose, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'A Development of Automatic Analysis System for Incident / Accident Reports',
             'year': '2009',
@@ -11148,7 +11129,7 @@ bibdatabase: [
             },
 
   {
-            'id': '600',
+            'id': '599',
             'author': 'Yoko Tanaka, Tadamasa Takemura, Naoto Kume, Sachiko Okada, Tomohiro Kuroda, Masahiro Hirose, Hiroyuki Yoshihara',
             'title': 'The Simulation of Hospital Management with Role-playing',
             'year': '2009',
@@ -11166,7 +11147,7 @@ bibdatabase: [
             },
 
   {
-            'id': '601',
+            'id': '600',
             'author': 'Tatsuya Tokunaga, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Naoki Ohboshi, Hiroyuki Yoshihara',
             'title': 'A Construction of Service Oriented Framework of Medical Information Presentation',
             'year': '2009',
@@ -11184,7 +11165,7 @@ bibdatabase: [
             },
 
   {
-            'id': '602',
+            'id': '601',
             'author': 'Kosuke Sasai, Yoichi Kawakami, Naoki Mihara, Tomohiro Kuroda, Toshinari Nakano, Yasushi Matsumura, Masaki Miyamoto',
             'title': 'Development of Image Diagnosis Support System based on Case Ontology',
             'year': '2009',
@@ -11202,7 +11183,7 @@ bibdatabase: [
             },
 
   {
-            'id': '603',
+            'id': '602',
             'author': 'Hisashi Kanamori, Yoshihiro Kuroda, Hidekazu Takiuchi, Masao Tanooka, Masataka Imura, Tomohiro Kuroda, Shingo Yamamoto, Osamu Oshiro',
             'title': 'Trial of Clinical Evaluation of Registration Method based on Intraoperative Measurement in the Body',
             'year': '2009',
@@ -11222,7 +11203,7 @@ bibdatabase: [
             },
 
   {
-            'id': '604',
+            'id': '603',
             'author': 'Daisuke Fukutsuka, Tomohiro Kuroda, Yoshiyuki Kagiyama, Masataka Imura, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'Decision of Tomograhic Plane with Human Body Shaped Display',
             'year': '2009',
@@ -11242,7 +11223,7 @@ bibdatabase: [
             },
 
   {
-            'id': '605',
+            'id': '604',
             'author': 'Hisashi Kanamori, Yoshihiro Kuroda, Hidekazu Takiuchi, Masao Tanooka, Masataka Imura, Tomohiro Kuroda, Shingo Yamamoto, Osamu Oshiro',
             'title': 'Clinical Application of Registration Method based on In-vivo Measurement during Surgery',
             'year': '2009',
@@ -11259,7 +11240,7 @@ bibdatabase: [
             },
 
   {
-            'id': '606',
+            'id': '605',
             'author': 'Kazuhiro Yamada, Tomohiro Kuroda, Masataka Imura, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Katsumi Murakami, Chizu Habukawa, Shigeo Wada, Osamu Oshiro',
             'title': 'Method to Unnormal Respiratory Sound based on Auto-Regressive Model',
             'year': '2009',
@@ -11276,7 +11257,7 @@ bibdatabase: [
             },
 
   {
-            'id': '607',
+            'id': '606',
             'author': 'Kazuhiro Yamada, Tomohiro Kuroda, Masataka Imura, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Katsumi Murakami, Chizu Habukawa, Shigeo Wada, Osamu Oshiro',
             'title': 'Respiratory Sound Analyzing System based on Auto-Regressive Model',
             'year': '2009',
@@ -11295,7 +11276,7 @@ bibdatabase: [
             },
 
   {
-            'id': '608',
+            'id': '607',
             'author': 'Shunsuke Yoshimoto, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Tomohiro Kuroda, Masataka Imura, Osamu Oshiro',
             'title': '*** No English title in DB***',
             'year': '2009',
@@ -11314,7 +11295,7 @@ bibdatabase: [
             },
 
   {
-            'id': '609',
+            'id': '608',
             'author': 'Kazuhiro Yamada, Tomohiro Kuroda, Eisuke Hanada, Yoshiyuki Kagiyama, Yoshihiro Kuroda, Osamu Oshiro, Shigeo Wada',
             'title': 'Measurement of frequency response of electronic stethoscope',
             'year': '2009',
@@ -11333,7 +11314,7 @@ bibdatabase: [
             },
 
   {
-            'id': '610',
+            'id': '609',
             'author': 'Masataka Imura, Tomohiro Kuroda, Yoshihiro Kuroda, Osamu Oshiro, Hiroko Azuma, Masakazu Yagi, Kenji Takada',
             'title': 'Reconstruction of Pseudo Three-Dimensional Dental Image from Dental Panoramic Radiograph and Tooth Surface Shape',
             'year': '2009',
@@ -11351,7 +11332,7 @@ bibdatabase: [
             },
 
   {
-            'id': '611',
+            'id': '610',
             'author': 'Hideyuki Horio, Yoshihiro Kuroda, Masataka Imura, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Measurement of Magnetic Permeability using Phase Image',
             'year': '2009',
@@ -11369,7 +11350,7 @@ bibdatabase: [
             },
 
   {
-            'id': '612',
+            'id': '611',
             'author': 'Tatsuya Tokunaga, Naoto Kume, Tadamasa Takemura, Tomohiro Kuroda, Naoki Ohboshi, Hiroyuki Yoshihara',
             'title': 'Proposing Service Orientation Medical Information Presentation Framework',
             'year': '2009',
@@ -11387,7 +11368,7 @@ bibdatabase: [
             },
 
   {
-            'id': '613',
+            'id': '612',
             'author': 'Tomohiro Kuroda, Hideo Nakamura, Masayuki Nambu, Kikuo Hirano, Hidetsugu Igarashi, Hiroki Ikuta, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'Development of Bio-measurement Circuit using Traditional Weaving Technique of NISHIJIN',
             'year': '2009',
@@ -11405,7 +11386,7 @@ bibdatabase: [
             },
 
   {
-            'id': '614',
+            'id': '613',
             'author': 'Yoko Tanaka, Tadamasa Takemura, Naoto Kume, Sachiko Okada, Tomohiro Kuroda, Masahiro Hirose, Hiroyuki Yoshihara',
             'title': 'Hospital Management Simulation using Role Playing',
             'year': '2009',
@@ -11423,7 +11404,7 @@ bibdatabase: [
             },
 
   {
-            'id': '615',
+            'id': '614',
             'author': 'Tadamasa Takemura, Tomohiro Kuroda, Kazuya Okamoto, Naoto Kume, Hiroyuki Yoshihara',
             'title': 'Informatization of Medicine and Life Log',
             'year': '2009',
@@ -11443,7 +11424,7 @@ bibdatabase: [
             },
 
   {
-            'id': '616',
+            'id': '615',
             'author': 'Hisashi Kanamori, Yoshihiro Kuroda, Hidekazu Takiuchi, Masao Tanooka, Masataka Imura, Tomohiro Kuroda, Shingo Yamashiro, Osamu Oshiro',
             'title': 'Assessment of Registration Method based on Intraoperative Measurement in the Body',
             'year': '2009',
@@ -11461,7 +11442,7 @@ bibdatabase: [
             },
 
   {
-            'id': '617',
+            'id': '616',
             'author': 'Hideyuki Horio, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Static magnetic field correction consideraing permeability',
             'year': '2009',
@@ -11478,7 +11459,7 @@ bibdatabase: [
             },
 
   {
-            'id': '618',
+            'id': '617',
             'author': 'Hisashi Kanamori, Yoshihiro Kuroda, Hidekazu Takiuchi, Masao Tanooka, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'A registration method using intraoperative measurement of the internal body',
             'year': '2009',
@@ -11498,7 +11479,7 @@ bibdatabase: [
             },
 
   {
-            'id': '619',
+            'id': '618',
             'author': 'Ryosuke Arai, Yoshihiro Kuroda, Tomohiro Kuroda, Yoshiyuki Kagiyama, Osamu Oshiro',
             'title': 'Real-time haptic and visual rendering of topological change',
             'year': '2009',
@@ -11516,7 +11497,7 @@ bibdatabase: [
             },
 
   {
-            'id': '620',
+            'id': '619',
             'author': 'Sachiko Okada, Keisuke Nagase, Akiko Ito, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of Hospital Financial Status Analysis System Using Rule-Based Engine',
             'year': '2009',
@@ -11534,7 +11515,7 @@ bibdatabase: [
             },
 
   {
-            'id': '621',
+            'id': '620',
             'author': 'Kazuhiro Yamada, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Improvement of Bone-Conductred Speech Based on Bodebook Mapping',
             'year': '2008',
@@ -11553,7 +11534,7 @@ bibdatabase: [
             },
 
   {
-            'id': '622',
+            'id': '621',
             'author': 'Tadamasa Takemura, Tomohiro Kuroda, Naoto Kume, Kazuya Okamoto, Kenta Hori, Naoki Ohboshi, Nobuyuki Ashida, Antti Alasalmi, Olli Martikainen, Hiroyuki Yoshihara',
             'title': 'System Value Analysis of Multipoint Distribution of Realtime Locating System (RTLS) in Hospital',
             'year': '2008',
@@ -11572,7 +11553,7 @@ bibdatabase: [
             },
 
   {
-            'id': '623',
+            'id': '622',
             'author': 'Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Naoki Ohboshi, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'Analysis of Japanese-Japanese Sign Language Dictionary using Natural Language Processing',
             'year': '2008',
@@ -11591,7 +11572,7 @@ bibdatabase: [
             },
 
   {
-            'id': '624',
+            'id': '623',
             'author': 'Toru Haraguchi, Hideyuki Horio, Yoshihiro Kuroda, Yasushi Masuda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Analysis of the Regional Strain Rate in the Left Ventricular Myocardium by MR Phase-Contrast Imaging',
             'year': '2008',
@@ -11609,7 +11590,7 @@ bibdatabase: [
             },
 
   {
-            'id': '625',
+            'id': '624',
             'author': 'Yoshihiro Kuroda, Yuta Morishita, Yasushi Masuda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Depth Estimation of Gaze Point and Annotation Display using Distance of Purkinje Images',
             'year': '2008',
@@ -11628,7 +11609,7 @@ bibdatabase: [
             },
 
   {
-            'id': '626',
+            'id': '625',
             'author': 'Takashi Nakai, Takashi Tsukasa, Kenta Hori, Tadamasa Takemura, Tomohiro Kuroda, Masahiko Ando, Takashi Kawamura, Hiroyuki Yoshihara',
             'title': 'Application of Real-Time Multimedia Communication Technology into Health Care Service',
             'year': '2008',
@@ -11647,7 +11628,7 @@ bibdatabase: [
             },
 
   {
-            'id': '627',
+            'id': '626',
             'author': 'Yoshihiro Kuroda, Hideyuki Horio, Yasushi Masuda, Tomohiro Kuroda, Osamu Oshiro, Shigeo Wada, Toru Haraguchi, Kazuo Nakazawa',
             'title': 'Analysis of Cardiac Torsion by Strain Calculation with MR Phase-contrast Image',
             'year': '2008',
@@ -11666,7 +11647,7 @@ bibdatabase: [
             },
 
   {
-            'id': '628',
+            'id': '627',
             'author': 'Mikko Rissanen, Naoto Kume, Yoshihiro Kuroda, Tomohiro Kuroda, Koji Yoshimura, Hiroyuki Yoshihara',
             'title': 'Asynchronous Teaching of Psychomotor Skills Through VR Annotations: Evaluation in Digital Rectal Examination',
             'year': '2008',
@@ -11684,7 +11665,7 @@ bibdatabase: [
             },
 
   {
-            'id': '629',
+            'id': '628',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Haptic Rate for Surgical Manipulations with Fingers and Instruments',
             'year': '2008',
@@ -11702,7 +11683,7 @@ bibdatabase: [
             },
 
   {
-            'id': '630',
+            'id': '629',
             'author': 'Antti Alasalmi, Olli Martikainen, Tomohiro Kuroda, Naoto Kume, Tadamasa Takemura, Hiroyuki Yoshihara, Tsuyoshi Nagashima, Naoki Ohboshi',
             'title': 'Core Nursing Process Improvement enabled by Wireless Services',
             'year': '2008',
@@ -11719,7 +11700,7 @@ bibdatabase: [
             },
 
   {
-            'id': '631',
+            'id': '630',
             'author': 'Yoshito Tabata, Tomohiro Kuroda',
             'title': 'Finger Spelling Recognition using Distinctive Features of Hand Shape',
             'year': '2008',
@@ -11737,7 +11718,7 @@ bibdatabase: [
             },
 
   {
-            'id': '632',
+            'id': '631',
             'author': 'Naoto Kume, Tsuyoshi Nagashima, Tadamasa Takemura, Tomohiro Kuroda, Naoki Ohboshi, Kenta Hori, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Problem Clarification on Installation of Tracking System using WIFI-RFID in Hospital',
             'year': '2008',
@@ -11754,7 +11735,7 @@ bibdatabase: [
             },
 
   {
-            'id': '633',
+            'id': '632',
             'author': 'Petri Pulli, Xiasong Zheng, Peter Antoniac, Seamus Hickey, Tony Manninen, Olli Martikainen, Tomohiro Kuroda',
             'title': 'Design and Development of Mobile Services Platform for Senior Citizens',
             'year': '2008',
@@ -11772,7 +11753,7 @@ bibdatabase: [
             },
 
   {
-            'id': '634',
+            'id': '633',
             'author': 'Daisuke Fukutsuka, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Proposal of Push-in Tangible Display',
             'year': '2008',
@@ -11789,7 +11770,7 @@ bibdatabase: [
             },
 
   {
-            'id': '635',
+            'id': '634',
             'author': 'Mikko Rissanen, Naoto Kume, Yoshihiro Kuroda, Tomohiro Kuroda, Koji Yoshimura, Hiroyuki Yoshihara',
             'title': 'Asynchronous Teaching of Psychomotor Skills Through VR Annotations: Evaluation in Digital Rectal Examination',
             'year': '2008',
@@ -11807,7 +11788,7 @@ bibdatabase: [
             },
 
   {
-            'id': '636',
+            'id': '635',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Haptic Rate for Surgical Manipulations with Fingers and Instruments',
             'year': '2008',
@@ -11825,7 +11806,7 @@ bibdatabase: [
             },
 
   {
-            'id': '637',
+            'id': '636',
             'author': 'Ryosuke Arai, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Fracture Simulation of Biological Soft Tissue with Fracture Mechanics Approach',
             'year': '2008',
@@ -11844,7 +11825,7 @@ bibdatabase: [
             },
 
   {
-            'id': '638',
+            'id': '637',
             'author': 'Toshiaki Tanimoto, Hiroshi Watabe, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Spatio-Temporal Analysis Based Visualization of RI-Tracer Dynamics from List-Mode Data',
             'year': '2008',
@@ -11863,7 +11844,7 @@ bibdatabase: [
             },
 
   {
-            'id': '639',
+            'id': '638',
             'author': 'Takatoshi Suenaga, Hiroshi Sasaki, Yasushi Masuda, Tomohiro Kuroda, Yoshitsugu Manabe, Osamu Oshiro, Kunihiro Chihara',
             'title': 'Ubiquitous Echo Project -Telemedicine Anywhere-',
             'year': '2008',
@@ -11882,7 +11863,7 @@ bibdatabase: [
             },
 
   {
-            'id': '640',
+            'id': '639',
             'author': 'Kenta Hori, Naoto Kume, Tadamasa Takemura, Tomohiro Kuroda, Takashi Nakai, Takashi Tsukasa',
             'title': 'Information Support for Telemedicine',
             'year': '2008',
@@ -11901,7 +11882,7 @@ bibdatabase: [
             },
 
   {
-            'id': '641',
+            'id': '640',
             'author': 'Tomohiro Kuroda, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'Toward Physiome Database -Multi-scale Image Browser-',
             'year': '2008',
@@ -11918,7 +11899,7 @@ bibdatabase: [
             },
 
   {
-            'id': '642',
+            'id': '641',
             'author': 'Tadamasa Takemura, Junzo Sato, Tomohiro Kuroda, Keisuke Nagase, Harutoshi Yazaki, Yasuyuki Kato, Hiroyuki Yoshihara',
             'title': 'Developing End-user Computing Environment within Hospital Information System',
             'year': '2008',
@@ -11936,7 +11917,7 @@ bibdatabase: [
             },
 
   {
-            'id': '643',
+            'id': '642',
             'author': 'Haruo Takemura, Hirokazu Kato, Kiyohide Sato, Tomohiro Kuroda, Takashi Okuma, Yoshinari Kameda',
             'title': 'A Report on ISMAR2007',
             'year': '2008',
@@ -11955,7 +11936,7 @@ bibdatabase: [
             },
 
   {
-            'id': '644',
+            'id': '643',
             'author': 'Ryosuke Arai, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Constructing Finite Element Model Applicable for Breaking Operation reflecting Realistic Stress Responce',
             'year': '2008',
@@ -11972,7 +11953,7 @@ bibdatabase: [
             },
 
   {
-            'id': '645',
+            'id': '644',
             'author': 'Ryosuke Arai, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Construction of Finite Element Model considering Crack Propagation based on Stress State',
             'year': '2008',
@@ -11990,7 +11971,7 @@ bibdatabase: [
             },
 
   {
-            'id': '646',
+            'id': '645',
             'author': 'Hirotoshi Ashida, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Ken Masutani, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Registration Method for Visuo-Haptic VR Environment',
             'year': '2008',
@@ -12008,7 +11989,7 @@ bibdatabase: [
             },
 
   {
-            'id': '647',
+            'id': '646',
             'author': 'Takeshi Yoshida, Yoshihiro Kuroda, Yoshiyuki Kagiyama, Tomohiro Kuroda, Hidefumi Kinoshita, Tadashi Matsuda, Osamu Oshiro',
             'title': 'Trial Development of Forceps with Three Dimensional Pressure Sensor',
             'year': '2008',
@@ -12026,7 +12007,7 @@ bibdatabase: [
             },
 
   {
-            'id': '648',
+            'id': '647',
             'author': 'Takashi Tsukasa, Tadamasa Takemura, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Proposing Intuitive Interface for Information Browsing during Tele-medicine',
             'year': '2008',
@@ -12044,7 +12025,7 @@ bibdatabase: [
             },
 
   {
-            'id': '649',
+            'id': '648',
             'author': 'Kazuhiro Yamada, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Quality Improvement of Bone-conducted Voice using Code-book Mapping',
             'year': '2008',
@@ -12062,7 +12043,7 @@ bibdatabase: [
             },
 
   {
-            'id': '650',
+            'id': '649',
             'author': 'Naoto Kume, Tadamasa Takemura, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Shinichiro Mori, Shinji Tomita',
             'title': 'VR Anatomy Modeling along Multi-dimensional Modality Distribution for Levels-of-Details control under VR Surgery Simulation',
             'year': '2008',
@@ -12080,7 +12061,7 @@ bibdatabase: [
             },
 
   {
-            'id': '651',
+            'id': '650',
             'author': 'Tomohiro Kuroda, Yoshito Tabata, Atsutoshi Goto, Hiroki Ikuta, Eiji Tsushima, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'StrinGlove - a Dataglove to Obtain Hand Posture',
             'year': '2008',
@@ -12100,7 +12081,7 @@ bibdatabase: [
             },
 
   {
-            'id': '652',
+            'id': '651',
             'author': 'Tadamasa Takemura, Yasuhiro Nasu, Tomohiro Kuroda, Naoto Kume, Nobuyuki Ashida, Hiroyuki Yoshihara',
             'title': 'Study on Digitize Paper-based Information on Hospital Information Systems',
             'year': '2008',
@@ -12118,7 +12099,7 @@ bibdatabase: [
             },
 
   {
-            'id': '653',
+            'id': '652',
             'author': 'Yoshito Tabata, Tomohiro Kuroda',
             'title': 'Trial to Increase FInger Spelling Recognition using Distinctive Features',
             'year': '2008',
@@ -12136,7 +12117,7 @@ bibdatabase: [
             },
 
   {
-            'id': '654',
+            'id': '653',
             'author': 'Yoshito Tabata, Tomohiro Kuroda',
             'title': 'Finger Spelling Recognition using Distinctive Features of Hand Shape of Japanese Sign',
             'year': '2008',
@@ -12154,7 +12135,7 @@ bibdatabase: [
             },
 
   {
-            'id': '655',
+            'id': '654',
             'author': 'Daisuke Fukutsuka, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Proposing Push-in Tangible Display',
             'year': '2008',
@@ -12172,7 +12153,7 @@ bibdatabase: [
             },
 
   {
-            'id': '656',
+            'id': '655',
             'author': 'Daisuke Fukutsuka, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Propsing Push-in Type Tangible Display',
             'year': '2008',
@@ -12190,7 +12171,7 @@ bibdatabase: [
             },
 
   {
-            'id': '657',
+            'id': '656',
             'author': 'Tomohiro Kuroda, Toshiaki Tanimoto, Hiroshi Watabe, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'Spacio-Temporal Visualization of RI Tracer from List-Mode Data',
             'year': '2008',
@@ -12207,7 +12188,7 @@ bibdatabase: [
             },
 
   {
-            'id': '658',
+            'id': '657',
             'author': 'Hisashi Kanamori, Yoshihiro Kuroda, Hidekazu Takiuchi, Masao Tanooka, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Producing Dynamically-Fused Endoscopic View depending on Position of Endoscopy',
             'year': '2008',
@@ -12224,7 +12205,7 @@ bibdatabase: [
             },
 
   {
-            'id': '659',
+            'id': '658',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Naoto Kume, Naoki Ohboshi, Kenta Hori, Masahiro Hirose, Tsutomu Fujita, Tetsutarou Takano, Nobuaki Ito, Keisuke Nagase, Nobuyuki Ashida, Hiroyuki Yoshihara',
             'title': 'Development of Reporting and Similar Case Retrieving System Using Meta Information of Image Media',
             'year': '2008',
@@ -12242,7 +12223,7 @@ bibdatabase: [
             },
 
   {
-            'id': '660',
+            'id': '659',
             'author': 'Tomohiro Kuroda, Tsuyoshi Nagashima, Antti Alasalmi, Naoto Kume, Tadamasa Takemura, Olli Martikainen, Naoki Ohboshi, Kenta Hori, Hiroyuki Yoshihara, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'Effectiveness of WLAN Location Service on Medical Equipment Logistics',
             'year': '2008',
@@ -12260,7 +12241,7 @@ bibdatabase: [
             },
 
   {
-            'id': '661',
+            'id': '660',
             'author': 'Shunji Kamei, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Haptization of Flow Field Focused on the Asymmetric Drag Distribution',
             'year': '2008',
@@ -12279,7 +12260,7 @@ bibdatabase: [
             },
 
   {
-            'id': '662',
+            'id': '661',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Kotaro Minato',
             'title': 'Sharing Surgical Knowledge using Physics-based Simulation and Volume Visualization',
             'year': '2008',
@@ -12296,7 +12277,7 @@ bibdatabase: [
             },
 
   {
-            'id': '663',
+            'id': '662',
             'author': 'Tomohiro Kuroda, Tadamasa Takemura, Kyoichi Takano, Yasuaki Inoue, Hiroki Miura, Hiroyuki Yoshihara',
             'title': 'Networked Digital Camera for Clinical Use',
             'year': '2007',
@@ -12316,7 +12297,7 @@ bibdatabase: [
             },
 
   {
-            'id': '664',
+            'id': '663',
             'author': 'Sachiko Okada, Keisuke Nagase, Akiko Ito, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Consideration of Appropriate Method of Knowledge Representation and Reasoning for a Hospital',
             'year': '2007',
@@ -12336,7 +12317,7 @@ bibdatabase: [
             },
 
   {
-            'id': '665',
+            'id': '664',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Nobuyuki Ashida, Hiroyuki Yoshihara',
             'title': 'Automatic Extraction of Domain Specific Terms using World Wide Web Knowledge in Medicine',
             'year': '2007',
@@ -12355,7 +12336,7 @@ bibdatabase: [
             },
 
   {
-            'id': '666',
+            'id': '665',
             'author': 'Atsunobu Kimura, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Study of Display of Visualization of Motion Instruction Supporting',
             'year': '2007',
@@ -12374,7 +12355,7 @@ bibdatabase: [
             },
 
   {
-            'id': '667',
+            'id': '666',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Naoto Kume, Mikko Rissanen, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'VRASS Simulation Platform',
             'year': '2007',
@@ -12391,7 +12372,7 @@ bibdatabase: [
             },
 
   {
-            'id': '668',
+            'id': '667',
             'author': 'Yoshihiro Kuroda, Makoto Hirai, Megumi Nakao, Toshihiko Sato, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Organ Exclusion Simulation with Multi-finger Haptic Interaction for Open Surgery Simulator',
             'year': '2007',
@@ -12409,7 +12390,7 @@ bibdatabase: [
             },
 
   {
-            'id': '669',
+            'id': '668',
             'author': 'Yoshihiro Kuroda, Tadamasa Takemura, Naoto Kume, Kazuya Okamoto, Kenta Hori, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Semi-automatic Development of Optimized Surgical Simulator with Surgical Manuals',
             'year': '2007',
@@ -12427,7 +12408,7 @@ bibdatabase: [
             },
 
   {
-            'id': '670',
+            'id': '669',
             'author': 'Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'A Proposal of Speculative Operation on Distributed System for FEM-Based Ablation Simulator',
             'year': '2007',
@@ -12445,7 +12426,7 @@ bibdatabase: [
             },
 
   {
-            'id': '671',
+            'id': '670',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Megumi Nakao, Naoto Kume, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'A Novel Approach for Training of Surgical Procedures Based on Visualization and Annotation of Behavioural Parameters in Simulators',
             'year': '2007',
@@ -12463,7 +12444,7 @@ bibdatabase: [
             },
 
   {
-            'id': '672',
+            'id': '671',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Nobuyuki Ashida, Hiroyuki Yoshihara',
             'title': 'Automatic Extraction of Domain Specific Terms using World Wide Web Knowledge in Medicine',
             'year': '2007',
@@ -12481,7 +12462,7 @@ bibdatabase: [
             },
 
   {
-            'id': '673',
+            'id': '672',
             'author': 'Osamu Oshiro, Shunji Kamei, Yasushi Masuda, Yoshihiro Kuroda, Tomohiro Kuroda',
             'title': 'Cross-Sampling Measurement of Vocal-Field Vibration using Ultrasound',
             'year': '2007',
@@ -12500,7 +12481,7 @@ bibdatabase: [
             },
 
   {
-            'id': '674',
+            'id': '673',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Megumi Nakao, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Toward Visualization of Skill in VR: Adaptive Real-time Guidance for Learning Force Exertion through the \'Shaping\' Strategy',
             'year': '2007',
@@ -12518,7 +12499,7 @@ bibdatabase: [
             },
 
   {
-            'id': '675',
+            'id': '674',
             'author': 'Yoshihiro Kuroda, Makoto Hirai, Megumi Nakao, Toshihiko Sato, Tomohiro Kuroda, Yasushi Masuda, Osamu Oshiro',
             'title': 'Construction of Training Environment for Surgical Exclusion with a Basic Study of Multi-finger Haptic Interaction',
             'year': '2007',
@@ -12536,7 +12517,7 @@ bibdatabase: [
             },
 
   {
-            'id': '676',
+            'id': '675',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Naoto Kume, Mikko Rissanen, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'VRASS Simulation Platform',
             'year': '2007',
@@ -12553,7 +12534,7 @@ bibdatabase: [
             },
 
   {
-            'id': '677',
+            'id': '676',
             'author': 'Yoshihiro Kuroda, Makoto Hirai, Megumi Nakao, Toshihiko Sato, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Organ Exclusion Simulation with Multi-finger Haptic Interaction for Open Surgery Simulator',
             'year': '2007',
@@ -12571,7 +12552,7 @@ bibdatabase: [
             },
 
   {
-            'id': '678',
+            'id': '677',
             'author': 'Yoshihiro Kuroda, Tadamasa Takemura, Naoto Kume, Kazuya Okamoto, Kenta Hori, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Semi-automatic Development of Optimized Surgical Simulator with Surgical Manuals',
             'year': '2007',
@@ -12589,7 +12570,7 @@ bibdatabase: [
             },
 
   {
-            'id': '679',
+            'id': '678',
             'author': 'Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'A Proposal of Speculative Operation on Distributed System for FEM-Based Ablation Simulator',
             'year': '2007',
@@ -12607,7 +12588,7 @@ bibdatabase: [
             },
 
   {
-            'id': '680',
+            'id': '679',
             'author': 'Tomohiro Kuroda, Antti Alasalmi, Olli Martikainen, Tadamasa Takemura, Naoto Kume, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'Medical Equipment Logistics Improvement based on Location Data',
             'year': '2007',
@@ -12624,7 +12605,7 @@ bibdatabase: [
             },
 
   {
-            'id': '681',
+            'id': '680',
             'author': 'Tomohiro Kuroda, Kazuya Okamoto, Ryo Kitauchi, Tadamasa Takemura, Naoki Ohboshi, Hiroyuki Yoshihara',
             'title': 'Finding Origin Points for New Coordinate System Suitable for Sign Animation',
             'year': '2007',
@@ -12641,7 +12622,7 @@ bibdatabase: [
             },
 
   {
-            'id': '682',
+            'id': '681',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'A Novel Interface for Simulator Training: Describing and Presenting Manipulation Skill through VR Annotations',
             'year': '2007',
@@ -12658,7 +12639,7 @@ bibdatabase: [
             },
 
   {
-            'id': '683',
+            'id': '682',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Hyongyong Kim, Masahiro Hirose, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Context-based Loose Information Structure for Medical Free Text Document',
             'year': '2007',
@@ -12675,7 +12656,7 @@ bibdatabase: [
             },
 
   {
-            'id': '684',
+            'id': '683',
             'author': 'Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Shinichiro Mori, Shinji Tomita',
             'title': 'Estimation of Application Level Speculative Operation on Distributed System for Haptic VR Simulatio of Invasive Operation',
             'year': '2007',
@@ -12694,7 +12675,7 @@ bibdatabase: [
             },
 
   {
-            'id': '685',
+            'id': '684',
             'author': 'Tomohiro Kuroda, Tadamasa Takemura, Hiroyuki Yoshihara',
             'title': 'Unified Image Repository for Hospital Information System',
             'year': '2007',
@@ -12713,7 +12694,7 @@ bibdatabase: [
             },
 
   {
-            'id': '686',
+            'id': '685',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Megumi Nakao, Naoto Kume, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'A Novel Approach for Training of Surgical Procedures Based on Visualization and Annotation of Behavioural Parameters in Simulators',
             'year': '2007',
@@ -12731,7 +12712,7 @@ bibdatabase: [
             },
 
   {
-            'id': '687',
+            'id': '686',
             'author': 'Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Naoki Ohboshi, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'A Study on Coordinate System for Sign Animation',
             'year': '2007',
@@ -12748,7 +12729,7 @@ bibdatabase: [
             },
 
   {
-            'id': '688',
+            'id': '687',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Osamu Oshiro, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2007',
@@ -12766,7 +12747,7 @@ bibdatabase: [
             },
 
   {
-            'id': '689',
+            'id': '688',
             'author': 'Mikko Rissanen, Naoto Kume, Yoshihiro Kuroda, Tomohiro Kuroda, Koji Yoshimura, Toshiyuki Kamoto, Osamu Ogawa, Hiroyuki Yoshihara',
             'title': 'Evaluation of VR Annotation Based Teaching using a Digital Rectal Examination Simulator',
             'year': '2007',
@@ -12784,7 +12765,7 @@ bibdatabase: [
             },
 
   {
-            'id': '690',
+            'id': '689',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Experimental Study on Refresh Rate of Haptic Feedback for VR Training System on Finger Handling Skill',
             'year': '2007',
@@ -12802,7 +12783,7 @@ bibdatabase: [
             },
 
   {
-            'id': '691',
+            'id': '690',
             'author': 'Naotsugu Yamasaki, Koji Yoshimura, Yoshihiro Kuroda, Megumi Nakao, Tetsuyuki Ito, Tomohiro Kuroda, Osamu Oshiro, Toshiyuki Kamoto, Osamu Ogawa',
             'title': 'Preoperative Planning Support System for Partial Kidney Resection Surgery',
             'year': '2007',
@@ -12820,7 +12801,7 @@ bibdatabase: [
             },
 
   {
-            'id': '692',
+            'id': '691',
             'author': 'Toshiaki Tanimoto, Hiroshi Watabe, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Visualization of RI Tracer using List-mode Data',
             'year': '2007',
@@ -12837,7 +12818,7 @@ bibdatabase: [
             },
 
   {
-            'id': '693',
+            'id': '692',
             'author': 'Shunji Kamei, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': '*** No English title in DB***',
             'year': '2007',
@@ -12854,7 +12835,7 @@ bibdatabase: [
             },
 
   {
-            'id': '694',
+            'id': '693',
             'author': 'Shunji Kamei, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Haptic Display to Support Understanding of Flow Field',
             'year': '2007',
@@ -12871,7 +12852,7 @@ bibdatabase: [
             },
 
   {
-            'id': '695',
+            'id': '694',
             'author': 'Toshiaki Tanimoto, Hiroshi Watabe, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Spacio-Temporal Analysis of RI Tracer using List-mode data',
             'year': '2007',
@@ -12888,7 +12869,7 @@ bibdatabase: [
             },
 
   {
-            'id': '696',
+            'id': '695',
             'author': 'Ryosuke Arai, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Simulation of Growing Crack of Virtual Tissue',
             'year': '2007',
@@ -12905,7 +12886,7 @@ bibdatabase: [
             },
 
   {
-            'id': '697',
+            'id': '696',
             'author': 'Masayuki Kawasaki, Naoto Kume, Yoshihiro Kuroda, Tadamasa Takemura, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Method of Calculation Reduction for Haptic Interaction in Medical Virtual Reality',
             'year': '2007',
@@ -12922,7 +12903,7 @@ bibdatabase: [
             },
 
   {
-            'id': '698',
+            'id': '697',
             'author': 'Tadamasa Takemura, Hyongyong Kim, Masahiro Hirose, Kazuya Okamoto, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of Incident Report Navigation System based on Context-based Loose Information Structure',
             'year': '2007',
@@ -12939,7 +12920,7 @@ bibdatabase: [
             },
 
   {
-            'id': '699',
+            'id': '698',
             'author': 'Kazuya Okamoto, Tatsuro Ishida, Tadamasa Takemura, Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Web Search Engine for Clinical Use - MANDARA',
             'year': '2007',
@@ -12956,7 +12937,7 @@ bibdatabase: [
             },
 
   {
-            'id': '700',
+            'id': '699',
             'author': 'Naoto Kume, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Hospital Asset Management under MAC-Address Based Network',
             'year': '2007',
@@ -12973,7 +12954,7 @@ bibdatabase: [
             },
 
   {
-            'id': '701',
+            'id': '700',
             'author': 'Tomohiro Kuroda, Tadamasa Takemura, Kyoichi Takano, Yasuaki Inoue, Hiroki Miura, Hiroyuki Yoshihara',
             'title': 'Networked Digital Camera for Clinical Use',
             'year': '2007',
@@ -12990,7 +12971,7 @@ bibdatabase: [
             },
 
   {
-            'id': '702',
+            'id': '701',
             'author': 'Masayuki Kawasaki, Naoto Kume, Yoshihiro Kuroda, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Encouragement Prize of Human Interface Society of Japan',
             'year': '2007',
@@ -13008,7 +12989,7 @@ bibdatabase: [
             },
 
   {
-            'id': '703',
+            'id': '702',
             'author': 'Takashi Tsukasa, Takashi Nakai, Tomohiro Kuroda, Tadamasa Takemura, Takashi Kawamura, Masahiko Ando, Kenta Hori, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Application of Real-Time Multimedia Communication Technology into Health Care Service',
             'year': '2007',
@@ -13025,7 +13006,7 @@ bibdatabase: [
             },
 
   {
-            'id': '704',
+            'id': '703',
             'author': 'Ryosuke Arai, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Simulation of Growing Crack of Virtual Tissue',
             'year': '2007',
@@ -13042,7 +13023,7 @@ bibdatabase: [
             },
 
   {
-            'id': '705',
+            'id': '704',
             'author': 'Toshiaki Tanimoto, Hiroshi Watabe, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Extraction of RI-Tracer Dynamics from List-Mode Data',
             'year': '2007',
@@ -13062,7 +13043,7 @@ bibdatabase: [
             },
 
   {
-            'id': '706',
+            'id': '705',
             'author': 'Yoshihiro Kuroda, Hideyuki Horio, Yasushi Masuda, Tomohiro Kuroda, Osamu Oshiro, Shigeo Wada, Toru Haraguchi, Kazuo Nakazawa',
             'title': '*** No English title in DB***',
             'year': '2007',
@@ -13078,7 +13059,7 @@ bibdatabase: [
             },
 
   {
-            'id': '707',
+            'id': '706',
             'author': 'Toru Haraguchi, Hideyuki Horio, Yoshihiro Kuroda, Yasushi Masuda, Tomohiro Kuroda, Osamu Oshiro, Hiroaki Naito, Masahiro Higashi, Kazuo Nakazawa',
             'title': 'Visualization and Evaluation of Ventricular Wall Contraction and Extension Velocity based on MR Phase Contrast Method',
             'year': '2007',
@@ -13096,7 +13077,7 @@ bibdatabase: [
             },
 
   {
-            'id': '708',
+            'id': '707',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Osamu Oshiro',
             'title': '*** No English title in DB***',
             'year': '2007',
@@ -13112,7 +13093,7 @@ bibdatabase: [
             },
 
   {
-            'id': '709',
+            'id': '708',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Construction of Organ Exclusion SImulator with Multi-finger Force Feedback Device',
             'year': '2007',
@@ -13129,7 +13110,7 @@ bibdatabase: [
             },
 
   {
-            'id': '710',
+            'id': '709',
             'author': 'Shunji Kamei, Yoshihiro Kuroda, Tomohiro Kuroda, Osamu Oshiro',
             'title': 'Haptic Navigation System for Understanding in Three-Dimensional Flow Fields',
             'year': '2007',
@@ -13147,7 +13128,7 @@ bibdatabase: [
             },
 
   {
-            'id': '711',
+            'id': '710',
             'author': 'Masayuki Kawasaki, Naoto Kume, Yoshihiro Kuroda, Tadamasa Takemura, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Elasticity Distribution-based Mesh Generation for Finite Element Model',
             'year': '2007',
@@ -13164,7 +13145,7 @@ bibdatabase: [
             },
 
   {
-            'id': '712',
+            'id': '711',
             'author': 'Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Naoki Ohboshi, Yoshihiro Kuroda, Osamu Oshiro',
             'title': 'Morpholozical Analysis of  Japanese-Japanese Sign Language Dictionary',
             'year': '2007',
@@ -13182,7 +13163,7 @@ bibdatabase: [
             },
 
   {
-            'id': '713',
+            'id': '712',
             'author': 'Yoshihiro Kuroda, Makoto Hirai, Megumi Nakao, Toshihiko Sato, Tomohiro Kuroda, Yasushi Masuda, Osamu Oshiro',
             'title': 'Construction and Evaluation of Prototype VR Simulator for Training of Liver Exclusion',
             'year': '2007',
@@ -13200,7 +13181,7 @@ bibdatabase: [
             },
 
   {
-            'id': '714',
+            'id': '713',
             'author': 'Ryo Shikata, Tomohiro Kuroda, Yoshito Tabata, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Development of Vision Based Meeting Support System for Hearing Impaired',
             'year': '2006',
@@ -13219,7 +13200,7 @@ bibdatabase: [
             },
 
   {
-            'id': '715',
+            'id': '714',
             'author': 'Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Constructing a New Coordinate System Suitable for Sign Animation',
             'year': '2006',
@@ -13238,7 +13219,7 @@ bibdatabase: [
             },
 
   {
-            'id': '716',
+            'id': '715',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Genichi Sakaguchi, Masashi Komeda',
             'title': 'Physics-Based Simulation of Surgical Fields for Preoperative Strategic Planning',
             'year': '2006',
@@ -13257,7 +13238,7 @@ bibdatabase: [
             },
 
   {
-            'id': '717',
+            'id': '716',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Masaru Komori, Hiroshi Oyama, Kotaro Minato, Takashi Takahashi',
             'title': 'Transferring Bioelasticity Knowledge through Haptic Interaction',
             'year': '2006',
@@ -13276,7 +13257,7 @@ bibdatabase: [
             },
 
   {
-            'id': '718',
+            'id': '717',
             'author': 'Yoichi Kawakami, Yasushi Matsumura, Kosuke Sasai, Shin Anei, Hiroshi Inada, Takahiro Kuchi, Tomohiro Kuroda, Norihiro Sakamoto, Tadamasa Takemura, Hiroshi Tanaka, Hiroo Tamagawa, Toshinari Nakano, Keunsik Park, Haruhiko Hiramatsu, Masaki Miyamoto',
             'title': 'Application of RDF in Reporting System',
             'year': '2006',
@@ -13296,7 +13277,7 @@ bibdatabase: [
             },
 
   {
-            'id': '719',
+            'id': '718',
             'author': 'Tadamasa Takemura, Yoshihiro Kuroda, Naoto Kume, Kazuya Okamoto, Kenta Hori, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Requirement Extraction from Surgical Textbook using Natural Language Processing for Educational Virtual Reality Simulator',
             'year': '2006',
@@ -13315,7 +13296,7 @@ bibdatabase: [
             },
 
   {
-            'id': '720',
+            'id': '719',
             'author': 'Naomi Sakihana, Yasue Kuwabara, Tomohiro Kuroda, Tadamasa Takemura, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Transfusion Checkup System using Mobile Terminals',
             'year': '2006',
@@ -13333,7 +13314,7 @@ bibdatabase: [
             },
 
   {
-            'id': '721',
+            'id': '720',
             'author': 'Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Context-based Retrieval System for Similar Medical Practice Documents',
             'year': '2006',
@@ -13352,7 +13333,7 @@ bibdatabase: [
             },
 
   {
-            'id': '722',
+            'id': '721',
             'author': 'Yoshihiro Kuroda, Makoto Hirai, Megumi Nakao, Toshihiko Sato, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'A Study on Organ Exclusion Simulator with Multi-finger Force Feedback Device',
             'year': '2006',
@@ -13371,7 +13352,7 @@ bibdatabase: [
             },
 
   {
-            'id': '723',
+            'id': '722',
             'author': 'Tomohiro Kuroda, Mikako Murakami, Yoshito Tabata, Kunihiro Chihara',
             'title': 'On-Demand Expansion of Avatar\'s Hand for Legible Sign Animation',
             'year': '2006',
@@ -13390,7 +13371,7 @@ bibdatabase: [
             },
 
   {
-            'id': '724',
+            'id': '723',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Megumi Nakao, Naoto Kume, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Annotated VR Simulation Records for Surgical Education -Evaluating the Benefits of Real-Time Visualization of Force Exertion-',
             'year': '2006',
@@ -13409,7 +13390,7 @@ bibdatabase: [
             },
 
   {
-            'id': '725',
+            'id': '724',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Peter Antoniac, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Hand-Menu System: A Deviceless Virtual Imput Interface for Wearable Computers',
             'year': '2006',
@@ -13428,7 +13409,7 @@ bibdatabase: [
             },
 
   {
-            'id': '726',
+            'id': '725',
             'author': 'Tadamasa Takemura, Akiko Hagimoto, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Nobuyuki Ashida, Hiroyuki Yoshihara',
             'title': 'Development of Discharge Summary Retrieval system for Nursing written in Medical Markup Language (MML)',
             'year': '2006',
@@ -13447,7 +13428,7 @@ bibdatabase: [
             },
 
   {
-            'id': '727',
+            'id': '726',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'Performance of Position Detection Tasks under Restriction of Finger\'s Movement',
             'year': '2006',
@@ -13465,7 +13446,7 @@ bibdatabase: [
             },
 
   {
-            'id': '728',
+            'id': '727',
             'author': 'Tomohiro Kuroda, Mikko Rissanen, Takafumi Terada, Masayuki Harada, Hiroshi Oyama',
             'title': 'Haptized Shared VR based Surgical Simulator',
             'year': '2006',
@@ -13482,7 +13463,7 @@ bibdatabase: [
             },
 
   {
-            'id': '729',
+            'id': '728',
             'author': 'Megumi Nakao, Yoshihiro Kuroda, Tetsuo Sato, Tomohiro Kuroda, Kotaro Minato',
             'title': 'Volume Interaction Framework for Preoperative Surgical Simulation on Volumetric Images',
             'year': '2006',
@@ -13501,7 +13482,7 @@ bibdatabase: [
             },
 
   {
-            'id': '730',
+            'id': '729',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Interactive Authoring of Example Surgical Procedures from Recorded Physics-based Simulation',
             'year': '2006',
@@ -13520,7 +13501,7 @@ bibdatabase: [
             },
 
   {
-            'id': '731',
+            'id': '730',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Telemedicine Cockpit with Intuitive Interface for Integrated Control of Communication and Presentation',
             'year': '2006',
@@ -13539,7 +13520,7 @@ bibdatabase: [
             },
 
   {
-            'id': '732',
+            'id': '731',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'Study of Spatial Anisotropy in Finger\'s Haptic Perception for Advanced Palpation Training',
             'year': '2006',
@@ -13557,7 +13538,7 @@ bibdatabase: [
             },
 
   {
-            'id': '733',
+            'id': '732',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Audiovisual Guidance for Simulated One Point Force Exertion Tasks',
             'year': '2006',
@@ -13575,7 +13556,7 @@ bibdatabase: [
             },
 
   {
-            'id': '734',
+            'id': '733',
             'author': 'Megumi Nakao, Tomotaka Matsuyuki, Tomohiro Kuroda, Kotaro Minato',
             'title': 'Physics-based Manipulation of Volumetric Images for Preoperative Surgical Simulation',
             'year': '2006',
@@ -13593,7 +13574,7 @@ bibdatabase: [
             },
 
   {
-            'id': '735',
+            'id': '734',
             'author': 'Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'Speculative FEM Simulation System for Invasive Surgical Operation with Haptic Interaction',
             'year': '2006',
@@ -13611,7 +13592,7 @@ bibdatabase: [
             },
 
   {
-            'id': '736',
+            'id': '735',
             'author': 'Yoshihiro Kuroda, Makoto Hirai, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Interactive Manipulation and Stress Visualization with Multi-finger Haptic Device',
             'year': '2006',
@@ -13629,7 +13610,7 @@ bibdatabase: [
             },
 
   {
-            'id': '737',
+            'id': '736',
             'author': 'Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Context-Based Retrieval System for Similar Medical Documents',
             'year': '2006',
@@ -13647,7 +13628,7 @@ bibdatabase: [
             },
 
   {
-            'id': '738',
+            'id': '737',
             'author': 'Naoto Kume, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'MAC Address-Based Position Detection of Illegal Access Terminals on Private Network for Hospital Asset Management',
             'year': '2006',
@@ -13665,7 +13646,7 @@ bibdatabase: [
             },
 
   {
-            'id': '739',
+            'id': '738',
             'author': 'Naomi Sakihana, Yasue Kuwabara, Tomohiro Kuroda, Tadamasa Takemura, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Transfusion Checkup System using Mobile Terminals',
             'year': '2006',
@@ -13683,7 +13664,7 @@ bibdatabase: [
             },
 
   {
-            'id': '740',
+            'id': '739',
             'author': 'Tadamasa Takemura, Masahiro Hirose, Kazuya Okamoto, Tomohiro Kuroda, Tatsuro Ishizaki, Yuichi Imanaka, Hiroyuki Yoshihara',
             'title': 'Automatic Classification of Incident reports based on Examples of Words: Using Machine Learning Technique of Natural Language Processing',
             'year': '2006',
@@ -13701,7 +13682,7 @@ bibdatabase: [
             },
 
   {
-            'id': '741',
+            'id': '740',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Tatsuro Ishida, Tomohiro Kuroda, Keisuke Nagase, Kiyoko Makimoto, Nobuyuki Ashida, Hiroyuki Yoshihara',
             'title': 'Development of a numeric data extracting and analysis system using dependency analysis on Nosocomial Outbreak Investigation database',
             'year': '2006',
@@ -13719,7 +13700,7 @@ bibdatabase: [
             },
 
   {
-            'id': '742',
+            'id': '741',
             'author': 'Ryo Shikata, Tomohiro Kuroda, Yoshito Tabata, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Development of Vision Based Meeting Support System for Hearing Impaired',
             'year': '2006',
@@ -13737,7 +13718,7 @@ bibdatabase: [
             },
 
   {
-            'id': '743',
+            'id': '742',
             'author': 'Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Keisuke Nagase',
             'title': 'Constructing New Coordinate System Suitable for Sign Animation',
             'year': '2006',
@@ -13755,7 +13736,7 @@ bibdatabase: [
             },
 
   {
-            'id': '744',
+            'id': '743',
             'author': 'Masahiro Hirose, Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Application of Textmining Based Clinical Documents in Integrated HIS, Co-occurrence Structure of Terms Among Incident/Accident Reports',
             'year': '2006',
@@ -13773,7 +13754,7 @@ bibdatabase: [
             },
 
   {
-            'id': '745',
+            'id': '744',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Telemedicine Cockpit for \'Plug & Play\' Telemedicine with Single Action Control of Presentation and Communication',
             'year': '2006',
@@ -13791,7 +13772,7 @@ bibdatabase: [
             },
 
   {
-            'id': '746',
+            'id': '745',
             'author': 'Tadamasa Takemura, Nobuyuki Ashida, Kazuya Okamoto, Tatsuro Ishida, Tomohiro Kuroda, Kiyoko Makimoto, Hiroyuki Yoshihara',
             'title': 'Development of Information Retrieval and Web Information Integration System for Nosocomial Infection Anecdotal Research Papers',
             'year': '2006',
@@ -13809,7 +13790,7 @@ bibdatabase: [
             },
 
   {
-            'id': '747',
+            'id': '746',
             'author': 'Yoshihiro Kuroda, Makoto Hirai, Megumi Nakao, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Multi-finger Haptic Interaction for Soft Tissue Exclusion Manipulation',
             'year': '2006',
@@ -13826,7 +13807,7 @@ bibdatabase: [
             },
 
   {
-            'id': '748',
+            'id': '747',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Annotated Surgical Manipulation for Simulator-based Surgical Skill-transfer using SiRE - Simulation Record Editor',
             'year': '2006',
@@ -13845,7 +13826,7 @@ bibdatabase: [
             },
 
   {
-            'id': '749',
+            'id': '748',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Naoto Kume, Megumi Nakao, Tomohiro Kuroda',
             'title': 'Editing Recorded Haptic Data with SiRE - Simulation Record Editor',
             'year': '2006',
@@ -13863,7 +13844,7 @@ bibdatabase: [
             },
 
   {
-            'id': '750',
+            'id': '749',
             'author': 'Tadamasa Takemura, Akiko Hagimoto, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Nobuyuki Ashida, Hiroyuki Yoshihara',
             'title': 'Development of Discharge Summary Retrieval system for Nursing written in Medical Markup Language (MML)',
             'year': '2006',
@@ -13881,7 +13862,7 @@ bibdatabase: [
             },
 
   {
-            'id': '751',
+            'id': '750',
             'author': 'Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara, Masaru Komori',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -13898,7 +13879,7 @@ bibdatabase: [
             },
 
   {
-            'id': '752',
+            'id': '751',
             'author': 'Yoshihiro Kuroda, Mikko Rissanen, Koji Yoshimura, Megumi Nakao, Tomohiro Kuroda, Toshiyuki Kamoto, Hiroshi Oyama, Osamu Ogawa, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -13915,7 +13896,7 @@ bibdatabase: [
             },
 
   {
-            'id': '753',
+            'id': '752',
             'author': 'Yoshihiro Kuroda, Mikko Rissanen, Koji Yoshimura, Megumi Nakao, Tomohiro Kuroda, Toshiyuki Kamoto, Hiroshi Oyama, Osamu Ogawa, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -13932,7 +13913,7 @@ bibdatabase: [
             },
 
   {
-            'id': '754',
+            'id': '753',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -13949,7 +13930,7 @@ bibdatabase: [
             },
 
   {
-            'id': '755',
+            'id': '754',
             'author': 'Takashi Nakai, Takashi Tsukasa, Kenta Hori, Tomohiro Kuroda, Keisuke Nagase, Takashi Kawamura, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -13966,7 +13947,7 @@ bibdatabase: [
             },
 
   {
-            'id': '756',
+            'id': '755',
             'author': 'Tatsuro Ishida, Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -13983,7 +13964,7 @@ bibdatabase: [
             },
 
   {
-            'id': '757',
+            'id': '756',
             'author': 'Takashi Nakai, Takashi Tsukasa, Tomohiro Kuroda, Tadamasa Takemura, Takashi Kawamura, Masahiko Ando, Kenta Hori, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Construction Trial of Tele-medicine Integration System using Campus Network',
             'year': '2006',
@@ -14001,7 +13982,7 @@ bibdatabase: [
             },
 
   {
-            'id': '758',
+            'id': '757',
             'author': 'Hyongyong Kim, Tadamasa Takemura, Masahiro Hirose, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -14018,7 +13999,7 @@ bibdatabase: [
             },
 
   {
-            'id': '759',
+            'id': '758',
             'author': 'Tadamasa Takemura, Masahiro Hirose, Kazuya Okamoto, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Analysis of Adverse Effects using Medical Term Co-occurrence Structure from Incident Reports',
             'year': '2006',
@@ -14036,7 +14017,7 @@ bibdatabase: [
             },
 
   {
-            'id': '760',
+            'id': '759',
             'author': 'Yoshihiro Kuroda, Makoto Hirai, Megumi Nakao, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Evaluation of Organ Exclusion Simulator with Force Feedback Device',
             'year': '2006',
@@ -14054,7 +14035,7 @@ bibdatabase: [
             },
 
   {
-            'id': '761',
+            'id': '760',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'A Way of Integrated Control QoS and Presentation of Transmission Data in Telemedicine Cockpit',
             'year': '2006',
@@ -14072,7 +14053,7 @@ bibdatabase: [
             },
 
   {
-            'id': '762',
+            'id': '761',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Preserving Evaluation-critical Features of Demonstrative Haptic Manipulation in Surgical VR',
             'year': '2006',
@@ -14090,7 +14071,7 @@ bibdatabase: [
             },
 
   {
-            'id': '763',
+            'id': '762',
             'author': 'Yoshihiro Kuroda, Tadamasa Takemura, Naoto Kume, Kazuya Okamoto, Megumi Nakao, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Design of Constructing System of Surgical Simulator from Meta Language Data Extracted from Surgical Manuals',
             'year': '2006',
@@ -14108,7 +14089,7 @@ bibdatabase: [
             },
 
   {
-            'id': '764',
+            'id': '763',
             'author': 'Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'Proposal of Speculative Operation for Haptic Interaction in Soft Tissue Rupture Simulator',
             'year': '2006',
@@ -14126,7 +14107,7 @@ bibdatabase: [
             },
 
   {
-            'id': '765',
+            'id': '764',
             'author': 'Takashi Nakai, Takashi Tsukasa, Kenta Hori, Takashi Kawamura, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Trial Analysis of Effect of Synchronization of Video and Sound on Tele-ausculation',
             'year': '2006',
@@ -14144,7 +14125,7 @@ bibdatabase: [
             },
 
   {
-            'id': '766',
+            'id': '765',
             'author': 'Hiroyuki Yoshihara, Tomohiro Kuroda, Kinya Sakai, Kenji Arita, Toshiaki Suzuki, Katsuhiro Ohashi, Kenji Araki',
             'title': 'A National Level Site Which Can Merge the Domestic Clinical Data Sites',
             'year': '2006',
@@ -14162,7 +14143,7 @@ bibdatabase: [
             },
 
   {
-            'id': '767',
+            'id': '766',
             'author': 'Hyongyong Kim, Tadamasa Takemura, Masahiro Hirose, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Influence Evaluation to Hospital Management by Automatic Extraction of Medical Examination and Treatment Act Related to Medical Accident',
             'year': '2006',
@@ -14180,7 +14161,7 @@ bibdatabase: [
             },
 
   {
-            'id': '768',
+            'id': '767',
             'author': 'Sachiko Okada, Keisuke Nagase, Akiko Ito, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of Hospital Financial Status Analysis System Using Rile-Based Engine',
             'year': '2006',
@@ -14198,7 +14179,7 @@ bibdatabase: [
             },
 
   {
-            'id': '769',
+            'id': '768',
             'author': 'Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -14215,7 +14196,7 @@ bibdatabase: [
             },
 
   {
-            'id': '770',
+            'id': '769',
             'author': 'Hiroyuki Yoshihara, Tomohiro Kuroda, Tadamasa Takemura, Keisuke Nagase, Junzo Sato, Harutoshi Yazaki, Yasuyuki Kato',
             'title': 'Approach of Electronic Clinical Record Data Recycling by End User Development Organization',
             'year': '2006',
@@ -14233,7 +14214,7 @@ bibdatabase: [
             },
 
   {
-            'id': '771',
+            'id': '770',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Nobuyuki Ashida, Hiroyuki Yoshihara',
             'title': 'Extraction of Numeric Information from Medical Documents',
             'year': '2006',
@@ -14251,7 +14232,7 @@ bibdatabase: [
             },
 
   {
-            'id': '772',
+            'id': '771',
             'author': 'Tatsuro Ishida, Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Development of Web Information Retrieval System Specialized for Medicine',
             'year': '2006',
@@ -14269,7 +14250,7 @@ bibdatabase: [
             },
 
   {
-            'id': '773',
+            'id': '772',
             'author': 'Naoki Ohboshi, Hiroo Tamagawa, Yoshinobu Maeda, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of Treatment Support System with Wearable Computer',
             'year': '2006',
@@ -14287,7 +14268,7 @@ bibdatabase: [
             },
 
   {
-            'id': '774',
+            'id': '773',
             'author': 'Tomohiro Kuroda, Kazuya Okamoto, Tadamasa Takemura, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Trial Approach for New Coordinate System Suitable for Sign Information System',
             'year': '2006',
@@ -14305,7 +14286,7 @@ bibdatabase: [
             },
 
   {
-            'id': '775',
+            'id': '774',
             'author': 'Kenta Hori, Takashi Tsukasa, Takashi Nakai, Tomohiro Kuroda',
             'title': 'Development of Information Support Environment for Telemedicine',
             'year': '2006',
@@ -14323,7 +14304,7 @@ bibdatabase: [
             },
 
   {
-            'id': '776',
+            'id': '775',
             'author': 'Takatoshi Suenaga, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': 'A Tele-ultrasound Diagnosis Supporting Environment - Tele-echo System',
             'year': '2006',
@@ -14341,7 +14322,7 @@ bibdatabase: [
             },
 
   {
-            'id': '777',
+            'id': '776',
             'author': 'Mikko Rissanen, Yoshihiro Kuroda, Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -14358,7 +14339,7 @@ bibdatabase: [
             },
 
   {
-            'id': '778',
+            'id': '777',
             'author': 'Yoshihiro Kuroda, Makoto Hirai, Megumi Nakao, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -14375,7 +14356,7 @@ bibdatabase: [
             },
 
   {
-            'id': '779',
+            'id': '778',
             'author': 'Tatsuro Ishida, Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2006',
@@ -14392,7 +14373,7 @@ bibdatabase: [
             },
 
   {
-            'id': '780',
+            'id': '779',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Image Transmission System for Telemedicine',
             'year': '2006',
@@ -14412,7 +14393,7 @@ bibdatabase: [
             },
 
   {
-            'id': '781',
+            'id': '780',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori',
             'title': 'Interaction Model between Elastic Objects for Haptic Feedback Considering Collisions of Soft Tissue',
             'year': '2005',
@@ -14431,7 +14412,7 @@ bibdatabase: [
             },
 
   {
-            'id': '782',
+            'id': '781',
             'author': 'Kenta Hori, Tomohiro Kuroda, Hiroshi Oyama, Yasuhiko Ozaki, Takehiko Nakamura, Takashi Takahashi',
             'title': 'Improving Precise Positioning of Surgical Robotic Instruments by a Three-Side-View Presentation System on Telesurgery',
             'year': '2005',
@@ -14450,7 +14431,7 @@ bibdatabase: [
             },
 
   {
-            'id': '783',
+            'id': '782',
             'author': 'Osamu Okada, Naoki Ohboshi, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Electrinic Clinical Path System Based on Semistructured Data Model Using Personal Digital Assistant for Onsite Access',
             'year': '2005',
@@ -14469,7 +14450,7 @@ bibdatabase: [
             },
 
   {
-            'id': '784',
+            'id': '783',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'Simulation of Soft Tissue Ablation for a VR Simulator',
             'year': '2005',
@@ -14488,7 +14469,7 @@ bibdatabase: [
             },
 
   {
-            'id': '785',
+            'id': '784',
             'author': 'Ryuya Nadayoshi, Yoko Mitomi, Naoki Ohboshi, Tomohiro Kuroda, Naomi Sakihana, Takao Tachibana, Yoshiki Miyachi',
             'title': 'Development and Introduction of a Clinical Activity Supporting System for Pressure Ulcers based on a Web Application',
             'year': '2005',
@@ -14507,7 +14488,7 @@ bibdatabase: [
             },
 
   {
-            'id': '786',
+            'id': '785',
             'author': 'Tadamasa Takemura, Shirou Manabe, Nobuhiro Nishiura, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara, Nobuyuki Ashida',
             'title': 'Development of a Psychiatric Care Information System based on Patient-Centered Concept',
             'year': '2005',
@@ -14526,7 +14507,7 @@ bibdatabase: [
             },
 
   {
-            'id': '787',
+            'id': '786',
             'author': 'Megumi Nakao, Takakazu Watanabe, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Interactive 3D Region Extraction of Volume Data Using Deformable Boundary Object',
             'year': '2005',
@@ -14544,7 +14525,7 @@ bibdatabase: [
             },
 
   {
-            'id': '788',
+            'id': '787',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'MVL: Medical VR Simulation Library',
             'year': '2005',
@@ -14562,7 +14543,7 @@ bibdatabase: [
             },
 
   {
-            'id': '789',
+            'id': '788',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Kotaro Minato',
             'title': 'Volumetric Mask and its Real-time Processing for Volume Interaction',
             'year': '2005',
@@ -14581,7 +14562,7 @@ bibdatabase: [
             },
 
   {
-            'id': '790',
+            'id': '789',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'FEM-Based Soft Tissue Destruction Model for Ablation Simulator',
             'year': '2005',
@@ -14599,7 +14580,7 @@ bibdatabase: [
             },
 
   {
-            'id': '791',
+            'id': '790',
             'author': 'Tadamasa Takemura, Nobuyuki Ashida, Kiyoko Makimoto, Teruo Kirikae, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'A Development of an Efficient Information Collecting and Retrieval System Using an Agent Technology to Specialized Area on World Wide Web for Infectious Disease',
             'year': '2005',
@@ -14618,7 +14599,7 @@ bibdatabase: [
             },
 
   {
-            'id': '792',
+            'id': '791',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'Ablation Simulator Based on FEM Soft Tissue Destruction Model',
             'year': '2005',
@@ -14636,7 +14617,7 @@ bibdatabase: [
             },
 
   {
-            'id': '793',
+            'id': '792',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Kotaro Minato',
             'title': 'Advanced Volume Visualization for Interactive Extraction and Physics-based Modeling of Volume Data',
             'year': '2005',
@@ -14654,7 +14635,7 @@ bibdatabase: [
             },
 
   {
-            'id': '794',
+            'id': '793',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'Shape Perception with Friction Model for Indirect Touch',
             'year': '2005',
@@ -14672,7 +14653,7 @@ bibdatabase: [
             },
 
   {
-            'id': '795',
+            'id': '794',
             'author': 'Tomohiro Kuroda, Yoshihiro Kuroda, Yoshito Tabata',
             'title': 'StrinGlove:a new VR-glove with hand posture recognition & Medical VR Simulator',
             'year': '2005',
@@ -14689,7 +14670,7 @@ bibdatabase: [
             },
 
   {
-            'id': '796',
+            'id': '795',
             'author': 'Tadamasa Takemura, Shirou Manabe, Nobuhiro Nishiura, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara, Nobuyuki Ashida',
             'title': 'Development of a Psychiatric Care Information System based on Patient-Centered Concept',
             'year': '2005',
@@ -14707,7 +14688,7 @@ bibdatabase: [
             },
 
   {
-            'id': '797',
+            'id': '796',
             'author': 'Megumi Nakao, Takakazu Watanabe, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Interactive 3D Region Extraction of Volume Data Using Deformable Boundary Object',
             'year': '2005',
@@ -14725,7 +14706,7 @@ bibdatabase: [
             },
 
   {
-            'id': '798',
+            'id': '797',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'MVL: Medical VR Simulation Library',
             'year': '2005',
@@ -14743,7 +14724,7 @@ bibdatabase: [
             },
 
   {
-            'id': '799',
+            'id': '798',
             'author': 'Masahiro Hirose, Tadamasa Takemura, Yuko Adachi, Yasue Kuwabara, Yuichi Imanaka, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Extracting \'Drug Name\' from Incident Reports about Medication Errors by Profession at a National University Hospital in Japan',
             'year': '2005',
@@ -14760,7 +14741,7 @@ bibdatabase: [
             },
 
   {
-            'id': '800',
+            'id': '799',
             'author': 'Mikko Rissanen, Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Framework for Annotation of Haptic Data in Simulated Surgical Procedures',
             'year': '2005',
@@ -14778,7 +14759,7 @@ bibdatabase: [
             },
 
   {
-            'id': '801',
+            'id': '800',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'Design and Implementation of MVL: Medical VR Simulation Library',
             'year': '2005',
@@ -14795,7 +14776,7 @@ bibdatabase: [
             },
 
   {
-            'id': '802',
+            'id': '801',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Kotaro Minato',
             'title': 'Volume Interaction with Voxels by Manipulating 3D Voxels',
             'year': '2005',
@@ -14812,7 +14793,7 @@ bibdatabase: [
             },
 
   {
-            'id': '803',
+            'id': '802',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'FEM-Based Soft Tissue Destruction Model for Ablation Simulator',
             'year': '2005',
@@ -14830,7 +14811,7 @@ bibdatabase: [
             },
 
   {
-            'id': '804',
+            'id': '803',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'Friction Force Display in Virtual Environment for Experiments of Indirect Shape Perception',
             'year': '2005',
@@ -14848,7 +14829,7 @@ bibdatabase: [
             },
 
   {
-            'id': '805',
+            'id': '804',
             'author': 'Makoto Hirai, Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Prototyping of Palpation VR Simulator with a Glove-shaped Force Feedback Device',
             'year': '2005',
@@ -14866,7 +14847,7 @@ bibdatabase: [
             },
 
   {
-            'id': '806',
+            'id': '805',
             'author': 'Yuong-Shin Chon, Tadamasa Takemura, Yoshiaki Nakagawa, Sachiko Okada, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Development of Hospital Cost Accounting Simulator',
             'year': '2005',
@@ -14884,7 +14865,7 @@ bibdatabase: [
             },
 
   {
-            'id': '807',
+            'id': '806',
             'author': 'Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Keisuke Nagase, Akira Takada, Koji Tanaka, Jingiu Guo, Hiroyuki Yoshihara',
             'title': 'Automatic Clustering of Medical Records in Semi-Structured Data',
             'year': '2005',
@@ -14902,7 +14883,7 @@ bibdatabase: [
             },
 
   {
-            'id': '808',
+            'id': '807',
             'author': 'Kotaro Minato, Ken Toyoda, Akira Takada, Yukinori Itao, Tomohiro Kuroda, Yoshiaki Nose',
             'title': 'Panel Discussion: Seven Problems about Electronic Medical Record -The Secret of Success from Bitter Experience-',
             'year': '2005',
@@ -14921,7 +14902,7 @@ bibdatabase: [
             },
 
   {
-            'id': '809',
+            'id': '808',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Katsuya Tanaka, Tomohiro Kuroda, Mamoru Mitsuishi, Takashi Takahashi, Hiroyuki Yoshihara',
             'title': 'Interactive QoS Control of Video Stream for Telemedicine',
             'year': '2005',
@@ -14939,7 +14920,7 @@ bibdatabase: [
             },
 
   {
-            'id': '810',
+            'id': '809',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Kotaro Minato',
             'title': 'Volume Mask based Interactive Volume Deformation and Modeling System',
             'year': '2005',
@@ -14957,7 +14938,7 @@ bibdatabase: [
             },
 
   {
-            'id': '811',
+            'id': '810',
             'author': 'Mikko Rissanen, Naoto Kume, Yoshihiro Kuroda, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Annotation Framework for Simulated Surgical Manipulation',
             'year': '2005',
@@ -14975,7 +14956,7 @@ bibdatabase: [
             },
 
   {
-            'id': '812',
+            'id': '811',
             'author': 'Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Development Ubiquitous Hospital Information System using Networked Digital Camera and Mobile Terminal',
             'year': '2005',
@@ -14993,7 +14974,7 @@ bibdatabase: [
             },
 
   {
-            'id': '813',
+            'id': '812',
             'author': 'Tadamasa Takemura, Masahiro Hirose, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Automatic Classification of Incident/Accident Reports using Natural Language Processing',
             'year': '2005',
@@ -15011,7 +14992,7 @@ bibdatabase: [
             },
 
   {
-            'id': '814',
+            'id': '813',
             'author': 'Yoichi Kawakami, Shin Anei, Kosuke Sasai, Hiroshi Inada, Takahiro Kuchi, Tomohiro Kuroda, Norihiro Sakamoto, Tadamasa Takemura, Hiroshi Tanaka, Hiroo Tamagawa, Toshinari Nakano, Keunsik Park, Haruhiko Hiramatsu, Yasushi Matsumura, Masaki Miyamoto',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15028,7 +15009,7 @@ bibdatabase: [
             },
 
   {
-            'id': '815',
+            'id': '814',
             'author': 'Yuong-Shin Chon, Tadamasa Takemura, Yoshiaki Nakagawa, Sachiko Okada, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15045,7 +15026,7 @@ bibdatabase: [
             },
 
   {
-            'id': '816',
+            'id': '815',
             'author': 'Naoki Ohboshi, Tomohiro Kuroda, Ryuya Nadayoshi, Yoko Mitomi, Naomi Sakihana, Takao Tachibana, Yoshiki Miyachi, Hiroyuki Yoshihara',
             'title': 'Development and Introduction of Web-based Ulcer Care Management System using PDA as Terminal',
             'year': '2005',
@@ -15063,7 +15044,7 @@ bibdatabase: [
             },
 
   {
-            'id': '817',
+            'id': '816',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15080,7 +15061,7 @@ bibdatabase: [
             },
 
   {
-            'id': '818',
+            'id': '817',
             'author': 'Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15097,7 +15078,7 @@ bibdatabase: [
             },
 
   {
-            'id': '819',
+            'id': '818',
             'author': 'Naoki Ohboshi, Hiroo Tamagawa, Chigusa Katada, Yuko Shima, Masayuki Kawamoto, Tomohiro Kuroda, Taiji Sohmura, Yoshinobu Maeda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15114,7 +15095,7 @@ bibdatabase: [
             },
 
   {
-            'id': '820',
+            'id': '819',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15131,7 +15112,7 @@ bibdatabase: [
             },
 
   {
-            'id': '821',
+            'id': '820',
             'author': 'Mikko Rissanen, Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15148,7 +15129,7 @@ bibdatabase: [
             },
 
   {
-            'id': '822',
+            'id': '821',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Kotaro Minato',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15165,7 +15146,7 @@ bibdatabase: [
             },
 
   {
-            'id': '823',
+            'id': '822',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15182,7 +15163,7 @@ bibdatabase: [
             },
 
   {
-            'id': '824',
+            'id': '823',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Kotaro Minato',
             'title': 'LiveVolume: A Volume Interaction Framework',
             'year': '2005',
@@ -15200,7 +15181,7 @@ bibdatabase: [
             },
 
   {
-            'id': '825',
+            'id': '824',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Emerging Intuitive Interface based on Multi-Modal Interface for Surgical Cockpit',
             'year': '2005',
@@ -15218,7 +15199,7 @@ bibdatabase: [
             },
 
   {
-            'id': '826',
+            'id': '825',
             'author': 'Makoto Hirai, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'A Learning Environment of Hand-based Manipulation of Elastic Bodies for Medical Procedure',
             'year': '2005',
@@ -15236,7 +15217,7 @@ bibdatabase: [
             },
 
   {
-            'id': '827',
+            'id': '826',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Kotaro Minato',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15252,7 +15233,7 @@ bibdatabase: [
             },
 
   {
-            'id': '828',
+            'id': '827',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'Developing Simulator on Medical VR Simulation Library MVL',
             'year': '2005',
@@ -15269,7 +15250,7 @@ bibdatabase: [
             },
 
   {
-            'id': '829',
+            'id': '828',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'Construction of Simulators with Medical VR Simulation Library: MVL',
             'year': '2005',
@@ -15287,7 +15268,7 @@ bibdatabase: [
             },
 
   {
-            'id': '830',
+            'id': '829',
             'author': 'Tadamasa Takemura, Kazuya Okamoto, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Extracting Technical Terms from Clinical Document Corpus using Knowledge obtained from Web',
             'year': '2005',
@@ -15305,7 +15286,7 @@ bibdatabase: [
             },
 
   {
-            'id': '831',
+            'id': '830',
             'author': 'Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'Design of Distributed VR Simulation System with Physics-based Haptic Interaction',
             'year': '2005',
@@ -15323,7 +15304,7 @@ bibdatabase: [
             },
 
   {
-            'id': '832',
+            'id': '831',
             'author': 'Kazuya Okamoto, Tadamasa Takemura, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Context-Based Retrieval System for Similar Medical Practice Documents',
             'year': '2005',
@@ -15340,7 +15321,7 @@ bibdatabase: [
             },
 
   {
-            'id': '833',
+            'id': '832',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15357,7 +15338,7 @@ bibdatabase: [
             },
 
   {
-            'id': '834',
+            'id': '833',
             'author': 'Tadamasa Takemura, Yuong-Shin Chon, Sachiko Okada, Yoshiaki Nakagawa, Kazuya Okamoto, Makoto Hirai, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15374,7 +15355,7 @@ bibdatabase: [
             },
 
   {
-            'id': '835',
+            'id': '834',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15391,7 +15372,7 @@ bibdatabase: [
             },
 
   {
-            'id': '836',
+            'id': '835',
             'author': 'Yoshihiro Kuroda, Takakazu Watanabe, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2005',
@@ -15408,7 +15389,7 @@ bibdatabase: [
             },
 
   {
-            'id': '837',
+            'id': '836',
             'author': 'Mikko Rissanen, Naoto Kume, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Dynamic Pressure Visualization for Mimicking Simulated Palpation of the Aorta',
             'year': '2005',
@@ -15425,7 +15406,7 @@ bibdatabase: [
             },
 
   {
-            'id': '838',
+            'id': '837',
             'author': 'Tadamasa Takemura, Junzo Sato, Tomohiro Kuroda, Akiko Ito, Hisao Saijo, Yasuo Shitanishi, Sadao Nonaka, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': 'Development of Web-based Hospital Management Information Viewer for Hospital Staffs based on Cost Accounting',
             'year': '2005',
@@ -15443,7 +15424,7 @@ bibdatabase: [
             },
 
   {
-            'id': '839',
+            'id': '838',
             'author': 'Masato Mori, Takashi Tsukasa, Kenta Hori, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Network QoS Control System Application for Telemedicine',
             'year': '2004',
@@ -15462,7 +15443,7 @@ bibdatabase: [
             },
 
   {
-            'id': '840',
+            'id': '839',
             'author': 'Tomohiro Kuroda, Masayuki Harada, Takafumi Terada, Hiroshi Oyama',
             'title': 'Applying Shared-VR based Surgical Simulator for Medical Trial Study',
             'year': '2004',
@@ -15481,7 +15462,7 @@ bibdatabase: [
             },
 
   {
-            'id': '841',
+            'id': '840',
             'author': 'Katsuya Tanaka, Kenta Hori, Tomohiro Kuroda, Mamoru Mitsuishi',
             'title': 'Integrated Control of Tele-surgery Robot System using CORBA Middleware',
             'year': '2004',
@@ -15500,7 +15481,7 @@ bibdatabase: [
             },
 
   {
-            'id': '842',
+            'id': '841',
             'author': 'Naoki Ohboshi, Ryuya Nadayoshi, Yoko Mitomi, Tomohiro Kuroda, Naomi Sakihana, Takao Tachibana, Yoshiki Miyachi, Hiroyuki Yoshihara',
             'title': 'A Study of Electronic Treatment Planning System for Pressure Ulcers using Personal Digital Assistant',
             'year': '2004',
@@ -15520,7 +15501,7 @@ bibdatabase: [
             },
 
   {
-            'id': '843',
+            'id': '842',
             'author': 'Megumi Nakao, Keiho Imanishi, Tomohiro Kuroda, Hiroshi Oyama',
             'title': 'Practical Haptic Navigation with Clickable 3D Region Input Interface for Supporting Master-Slave Type Robotic Surgery',
             'year': '2004',
@@ -15538,7 +15519,7 @@ bibdatabase: [
             },
 
   {
-            'id': '844',
+            'id': '843',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Masaru Komori, Hiroshi Oyama, Masashi Komeda',
             'title': 'Physics-Based Preoperative Approach Planning Using Hybrid Virtual Bodies',
             'year': '2004',
@@ -15556,7 +15537,7 @@ bibdatabase: [
             },
 
   {
-            'id': '845',
+            'id': '844',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': 'FEM-Based Interaction Model Between Elastic Objects for Indirect Palpation Simulator',
             'year': '2004',
@@ -15574,7 +15555,7 @@ bibdatabase: [
             },
 
   {
-            'id': '846',
+            'id': '845',
             'author': 'Eisuke Hanada, Mitsuru Mori, Hitoshi Onishi, Tomohiro Kuroda, Yuji Inoue, Kimio Kondo',
             'title': 'Connection of Two-way Satellite Communication Systems for Broader-based Education Network Construction',
             'year': '2004',
@@ -15593,7 +15574,7 @@ bibdatabase: [
             },
 
   {
-            'id': '847',
+            'id': '846',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': 'FEM-Based Soft Tissue Destruction Model for Ablation Training Simulator',
             'year': '2004',
@@ -15611,7 +15592,7 @@ bibdatabase: [
             },
 
   {
-            'id': '848',
+            'id': '847',
             'author': 'Megumi Nakao, Takakazu Watanabe, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '3D Interactive Clipping for Flexible Visualization and Extraction of Volume Data',
             'year': '2004',
@@ -15629,7 +15610,7 @@ bibdatabase: [
             },
 
   {
-            'id': '849',
+            'id': '848',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': 'Haptic Rendering Method of Friction Forces for Indirect Shape Perception',
             'year': '2004',
@@ -15647,7 +15628,7 @@ bibdatabase: [
             },
 
   {
-            'id': '850',
+            'id': '849',
             'author': 'Tomohiro Kuroda, Yoshito Tabata, Atsutoshi Goto, Hiroki Ikuta, Eiji Tsushima',
             'title': 'Consumer Price VR-glove possesses Hand Posture Recognition',
             'year': '2004',
@@ -15665,7 +15646,7 @@ bibdatabase: [
             },
 
   {
-            'id': '851',
+            'id': '850',
             'author': 'Tomohiro Kuroda, Yoshito Tabata, Atsutoshi Goto, Hiroki Ikuta, Mikako Murakami',
             'title': 'Consumer price data-glove for sign language recognition',
             'year': '2004',
@@ -15683,7 +15664,7 @@ bibdatabase: [
             },
 
   {
-            'id': '852',
+            'id': '851',
             'author': 'Megumi Nakao, Keiho Imanishi, Tomohiro Kuroda, Hiroshi Oyama',
             'title': 'Practical Haptic Navigation with Clickable 3D Region Input Interface for Supporting Master-Slave Type Robotic Surgery',
             'year': '2004',
@@ -15701,7 +15682,7 @@ bibdatabase: [
             },
 
   {
-            'id': '853',
+            'id': '852',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Masaru Komori, Hiroshi Oyama, Masashi Komeda',
             'title': 'Physics-Based Preoperative Approach Planning Using Hybrid Virtual Bodies',
             'year': '2004',
@@ -15719,7 +15700,7 @@ bibdatabase: [
             },
 
   {
-            'id': '854',
+            'id': '853',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': 'FEM-Based Interaction Model Between Elastic Objects for Indirect Palpation Simulator',
             'year': '2004',
@@ -15737,7 +15718,7 @@ bibdatabase: [
             },
 
   {
-            'id': '855',
+            'id': '854',
             'author': 'Tomohiro Kuroda, Yoshito Tabata',
             'title': 'Development of Mpeg-4 Face & Body Animation Player for Sign Animation using Java 3D',
             'year': '2004',
@@ -15755,7 +15736,7 @@ bibdatabase: [
             },
 
   {
-            'id': '856',
+            'id': '855',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Atsutoshi Goto',
             'title': 'Development of Data-glove equips Hand Gesture Recognizing Function',
             'year': '2004',
@@ -15772,7 +15753,7 @@ bibdatabase: [
             },
 
   {
-            'id': '857',
+            'id': '856',
             'author': 'Takakazu Watanabe, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15789,7 +15770,7 @@ bibdatabase: [
             },
 
   {
-            'id': '858',
+            'id': '857',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Katsuya Tanaka, Tomohiro Kuroda, Mamoru Mitsuishi, Takashi Takahashi, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15806,7 +15787,7 @@ bibdatabase: [
             },
 
   {
-            'id': '859',
+            'id': '858',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Katsuya Tanaka, Tomohiro Kuroda, Mamoru Mitsuishi, Takashi Takahashi',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15824,7 +15805,7 @@ bibdatabase: [
             },
 
   {
-            'id': '860',
+            'id': '859',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15841,7 +15822,7 @@ bibdatabase: [
             },
 
   {
-            'id': '861',
+            'id': '860',
             'author': 'Takakazu Watanabe, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15858,7 +15839,7 @@ bibdatabase: [
             },
 
   {
-            'id': '862',
+            'id': '861',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15875,7 +15856,7 @@ bibdatabase: [
             },
 
   {
-            'id': '863',
+            'id': '862',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15892,7 +15873,7 @@ bibdatabase: [
             },
 
   {
-            'id': '864',
+            'id': '863',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Katsuya Tanaka, Tomohiro Kuroda, Mamoru Mitsuishi, Takashi Takahashi, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15910,7 +15891,7 @@ bibdatabase: [
             },
 
   {
-            'id': '865',
+            'id': '864',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15927,7 +15908,7 @@ bibdatabase: [
             },
 
   {
-            'id': '866',
+            'id': '865',
             'author': 'Chie Kiyomitsu, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15943,7 +15924,7 @@ bibdatabase: [
             },
 
   {
-            'id': '867',
+            'id': '866',
             'author': 'Chie Kiyomitsu, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15959,7 +15940,7 @@ bibdatabase: [
             },
 
   {
-            'id': '868',
+            'id': '867',
             'author': 'Yoichi Kawakami, Kosuke Sasai, Tomohiro Kuroda, Tadamasa Takemura, Hiroo Tamagawa, Toshinari Nakano, Keunsik Park, Haruhiko Hiramatsu, Yasushi Matsumura, Masaki Miyamoto',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15975,7 +15956,7 @@ bibdatabase: [
             },
 
   {
-            'id': '869',
+            'id': '868',
             'author': 'Tadamasa Takemura, Junzo Sato, Tomohiro Kuroda, Keisuke Nagase, Akira Takada, Koji Tanaka, Jingiu Guo, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -15991,7 +15972,7 @@ bibdatabase: [
             },
 
   {
-            'id': '870',
+            'id': '869',
             'author': 'Yoichi Kawakami, Kosuke Sasai, Tomohiro Kuroda, Tadamasa Takemura, Hiroo Tamagawa, Toshinari Nakano, Keunsik Park, Haruhiko Hiramatsu, Yasushi Matsumura, Masaki Miyamoto',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -16007,7 +15988,7 @@ bibdatabase: [
             },
 
   {
-            'id': '871',
+            'id': '870',
             'author': 'Chie Kiyomitsu, Tadamasa Takemura, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Trial of Automatic Assessment of Pressure Ulcers using Image Processing',
             'year': '2004',
@@ -16027,7 +16008,7 @@ bibdatabase: [
             },
 
   {
-            'id': '872',
+            'id': '871',
             'author': 'Takakazu Watanabe, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'A Support Environment for Shape and Stiffness Modeling from 3D CT/MRI data',
             'year': '2004',
@@ -16044,7 +16025,7 @@ bibdatabase: [
             },
 
   {
-            'id': '873',
+            'id': '872',
             'author': 'Tomohiro Kuroda, Yoshito Tabata, Atsutoshi Goto, Hiroki Ikuta, Eiji Tsushima',
             'title': 'VR Glove Possessing Hand Posture Recognition',
             'year': '2004',
@@ -16061,7 +16042,7 @@ bibdatabase: [
             },
 
   {
-            'id': '874',
+            'id': '873',
             'author': 'Takakazu Watanabe, Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -16078,7 +16059,7 @@ bibdatabase: [
             },
 
   {
-            'id': '875',
+            'id': '874',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroyuki Yoshihara, Masaru Komori',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -16095,7 +16076,7 @@ bibdatabase: [
             },
 
   {
-            'id': '876',
+            'id': '875',
             'author': 'Hirotsugu Minowa, Tetsuo Sato, Mikio Suga, Tadao Sugiura, Kotaro Minato, Tomohiro Kuroda',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -16113,7 +16094,7 @@ bibdatabase: [
             },
 
   {
-            'id': '877',
+            'id': '876',
             'author': 'Masato Mori, Takashi Tsukasa, Kenta Hori, Tomohiro Kuroda, Mamoru Mitsuishi, Kotaro Minato, Takashi Takahashi, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -16130,7 +16111,7 @@ bibdatabase: [
             },
 
   {
-            'id': '878',
+            'id': '877',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Tetsuya Matsuda, Hiroyuki Yoshihara',
             'title': 'MVL: Real-time Medical Virtual Reality Simulation Library',
             'year': '2004',
@@ -16148,7 +16129,7 @@ bibdatabase: [
             },
 
   {
-            'id': '879',
+            'id': '878',
             'author': 'Tomohiro Kuroda',
             'title': 'Toward Clinical Application of Distributed Mixed Reality',
             'year': '2004',
@@ -16166,7 +16147,7 @@ bibdatabase: [
             },
 
   {
-            'id': '880',
+            'id': '879',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Katsuya Tanaka, Tomohiro Kuroda, Mamoru Mitsuishi, Takashi Takahashi, Hiroyuki Yoshihara',
             'title': 'QoS Control of Supporting Information for Robotic Tele-surgery',
             'year': '2004',
@@ -16184,7 +16165,7 @@ bibdatabase: [
             },
 
   {
-            'id': '881',
+            'id': '880',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Atsutoshi Goto, Hiroki Ikuta, Eiji Tsushima',
             'title': 'Consumer Price Glove-based Input Device with Hand Posture Recognition',
             'year': '2004',
@@ -16202,7 +16183,7 @@ bibdatabase: [
             },
 
   {
-            'id': '882',
+            'id': '881',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Atsutoshi Goto, Hiroki Ikuta, Eiji Tsushima',
             'title': 'Consumer Price Glove-based Input Device with Hand Posture Recognition',
             'year': '2004',
@@ -16220,7 +16201,7 @@ bibdatabase: [
             },
 
   {
-            'id': '883',
+            'id': '882',
             'author': 'Megumi Nakao, Takakazu Watanabe, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Interactive Extraction of 3D Region for Volume Data',
             'year': '2004',
@@ -16238,7 +16219,7 @@ bibdatabase: [
             },
 
   {
-            'id': '884',
+            'id': '883',
             'author': 'Masayuki Harada, Shuichi Takahashi, Takafumi Terada, Tomohiro Kuroda, Hiroshi Oyama',
             'title': 'The development of a Shared-VR based Surgery Simulator for Educational Purposes',
             'year': '2004',
@@ -16256,7 +16237,7 @@ bibdatabase: [
             },
 
   {
-            'id': '885',
+            'id': '884',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Tetsuya Matsuda, Hiroyuki Yoshihara',
             'title': 'Haptic Rendering of Friction with Elastic Objects for Shape Recognition',
             'year': '2004',
@@ -16274,7 +16255,7 @@ bibdatabase: [
             },
 
   {
-            'id': '886',
+            'id': '885',
             'author': 'Takashi Tsukasa, Masato Mori, Kenta Hori, Katsuya Tanaka, Tomohiro Kuroda, Mamoru Mitsuishi, Takashi Takahashi, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2004',
@@ -16291,7 +16272,7 @@ bibdatabase: [
             },
 
   {
-            'id': '887',
+            'id': '886',
             'author': 'Naomi Sakihana, Yoko Mitomi, Ryuya Nadayoshi, Naoki Ohboshi, Kazumi Hara, Tomohiro Kuroda',
             'title': 'Computerization of Ulcer Care Plan Sheet for Supporting Ulcer Care',
             'year': '2004',
@@ -16309,7 +16290,7 @@ bibdatabase: [
             },
 
   {
-            'id': '888',
+            'id': '887',
             'author': 'Keiho Imanishi, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama',
             'title': 'Haptic Navigation Method for Improving Safety of Master-Slave Type Robotic Surgery',
             'year': '2003',
@@ -16328,7 +16309,7 @@ bibdatabase: [
             },
 
   {
-            'id': '889',
+            'id': '888',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Takashi Takahashi',
             'title': 'Physically Based Fine and Interactive Soft Tissue Cutting',
             'year': '2003',
@@ -16347,7 +16328,7 @@ bibdatabase: [
             },
 
   {
-            'id': '890',
+            'id': '889',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': 'Interaction Model between Elastic Objects for Organ-organ Contact Simulation',
             'year': '2003',
@@ -16367,7 +16348,7 @@ bibdatabase: [
             },
 
   {
-            'id': '891',
+            'id': '890',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Genichi Sakaguchi, Masashi Komeda',
             'title': 'Supporting Surgical Planning with Simulation of Tissue Cutting and Opening Incision',
             'year': '2003',
@@ -16386,7 +16367,7 @@ bibdatabase: [
             },
 
   {
-            'id': '892',
+            'id': '891',
             'author': 'Mikako Murakami, Toshitaka Tateishi, Masataka Imura, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'E-cane with Situation Presumption for the Blind',
             'year': '2003',
@@ -16405,7 +16386,7 @@ bibdatabase: [
             },
 
   {
-            'id': '893',
+            'id': '892',
             'author': 'Koichi Minami, Tomi Korpipaa, Masataka Imura, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Distributed MR Transporter for Networked Collaboration',
             'year': '2003',
@@ -16422,7 +16403,7 @@ bibdatabase: [
             },
 
   {
-            'id': '894',
+            'id': '893',
             'author': 'Yasuhiro Yamamoto, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Genichi Sakaguchi, Masashi Komeda, Takashi Takahashi',
             'title': 'Palpation Simulator of Beating Aorta for Cardiovascular Surgery Training',
             'year': '2003',
@@ -16441,7 +16422,7 @@ bibdatabase: [
             },
 
   {
-            'id': '895',
+            'id': '894',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': 'Framework of VR Palpation Simulation based on Force Display',
             'year': '2003',
@@ -16460,7 +16441,7 @@ bibdatabase: [
             },
 
   {
-            'id': '896',
+            'id': '895',
             'author': 'Yoshihiro Yasumuro, Mikako Murakami, Masataka Imura, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'E-Cane with Situation Presumption for the Visually Impaired',
             'year': '2003',
@@ -16478,7 +16459,7 @@ bibdatabase: [
             },
 
   {
-            'id': '897',
+            'id': '896',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama',
             'title': 'A Haptic Navigation System for Supporting Master-Slave Robotic Surgery',
             'year': '2003',
@@ -16496,7 +16477,7 @@ bibdatabase: [
             },
 
   {
-            'id': '898',
+            'id': '897',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': 'Interaction Model between Elastic Objects for Accurate Haptic Display',
             'year': '2003',
@@ -16514,7 +16495,7 @@ bibdatabase: [
             },
 
   {
-            'id': '899',
+            'id': '898',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Masaru Komori, Hiroshi Oyama',
             'title': 'Evaluation and User Study of Haptic Simulator for Learning Palpation in Cardiovascular Surgery',
             'year': '2003',
@@ -16532,7 +16513,7 @@ bibdatabase: [
             },
 
   {
-            'id': '900',
+            'id': '899',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Atsutoshi Goto, Kunihiro Chihara',
             'title': 'Development of Intelligent Glove-based Input Device Measuring Both Flexion and Touch',
             'year': '2003',
@@ -16550,7 +16531,7 @@ bibdatabase: [
             },
 
   {
-            'id': '901',
+            'id': '900',
             'author': 'Mikako Murakami, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Modifier Representation in Sign Animation',
             'year': '2003',
@@ -16568,7 +16549,7 @@ bibdatabase: [
             },
 
   {
-            'id': '902',
+            'id': '901',
             'author': 'Yoshihiro Yasumuro, Mikako Murakami, Masataka Imura, Yoshitsugu Manabe, Kunihiro Chihara, Tomohiro Kuroda',
             'title': 'E-Cane: Look before You Step',
             'year': '2003',
@@ -16586,7 +16567,7 @@ bibdatabase: [
             },
 
   {
-            'id': '903',
+            'id': '902',
             'author': 'Mikako Murakami, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Merchandise Information Service for Visually Impaired People Using Barcode',
             'year': '2003',
@@ -16604,7 +16585,7 @@ bibdatabase: [
             },
 
   {
-            'id': '904',
+            'id': '903',
             'author': 'Kaori Fujiwara, Tomohiro Kuroda',
             'title': 'Description Method of Surgical Operation for Intra-operative Support',
             'year': '2003',
@@ -16622,7 +16603,7 @@ bibdatabase: [
             },
 
   {
-            'id': '905',
+            'id': '904',
             'author': 'Koichi Minami, Yoshihiro Yasumuro, Masataka Imura, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Shared MR Space Construction with Wearable PC Users',
             'year': '2003',
@@ -16640,7 +16621,7 @@ bibdatabase: [
             },
 
   {
-            'id': '906',
+            'id': '905',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Masaru Komori, Tetsuya Matsuda',
             'title': 'Evaluation of Physics-based Interaction Model between Elastic Objects Representing Collisions of Multiple Organs',
             'year': '2003',
@@ -16658,7 +16639,7 @@ bibdatabase: [
             },
 
   {
-            'id': '907',
+            'id': '906',
             'author': 'Koichi Minami, Masataka Imura, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Punch3D - An Interactive Environment Modeling Method for In-door Callaboration',
             'year': '2003',
@@ -16676,7 +16657,7 @@ bibdatabase: [
             },
 
   {
-            'id': '908',
+            'id': '907',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Usability Evaluation of the Hand-Pointing System for Wearable Computers',
             'year': '2003',
@@ -16694,7 +16675,7 @@ bibdatabase: [
             },
 
   {
-            'id': '909',
+            'id': '908',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Masaru Komori',
             'title': 'A Proposal of Soft Tissue Model of Ablation',
             'year': '2003',
@@ -16712,7 +16693,7 @@ bibdatabase: [
             },
 
   {
-            'id': '910',
+            'id': '909',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16730,7 +16711,7 @@ bibdatabase: [
             },
 
   {
-            'id': '911',
+            'id': '910',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16748,7 +16729,7 @@ bibdatabase: [
             },
 
   {
-            'id': '912',
+            'id': '911',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16766,7 +16747,7 @@ bibdatabase: [
             },
 
   {
-            'id': '913',
+            'id': '912',
             'author': 'Yoshitsugu Manabe, Koichi Minami, Muneyuki Sakata, Hiroshi Sasaki, Masataka Imura, Yoshihiro Yasumuro, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16783,7 +16764,7 @@ bibdatabase: [
             },
 
   {
-            'id': '914',
+            'id': '913',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Masaru Komori',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16800,7 +16781,7 @@ bibdatabase: [
             },
 
   {
-            'id': '915',
+            'id': '914',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16817,7 +16798,7 @@ bibdatabase: [
             },
 
   {
-            'id': '916',
+            'id': '915',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Masaru Komori, Hiroshi Oyama',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16834,7 +16815,7 @@ bibdatabase: [
             },
 
   {
-            'id': '917',
+            'id': '916',
             'author': 'Tomohiro Kuroda, Masayuki Harada, Takafumi Terada, Hiroshi Oyama',
             'title': 'Applying Shared VR Simulator for Surgery Education from Remote Site',
             'year': '2003',
@@ -16852,7 +16833,7 @@ bibdatabase: [
             },
 
   {
-            'id': '918',
+            'id': '917',
             'author': 'Takashi Tsukasa, Kenta Hori, Katsuya Tanaka, Tomohiro Kuroda, Mamoru Mitsuishi, Takashi Takahashi',
             'title': 'Integrated Application Level QoS Control for Tele-medicine',
             'year': '2003',
@@ -16870,7 +16851,7 @@ bibdatabase: [
             },
 
   {
-            'id': '919',
+            'id': '918',
             'author': 'Tadamasa Takemura, Koji Tanaka, Jingiu Guo, Junzo Sato, Akira Takada, Tomohiro Kuroda, Keisuke Nagase, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16888,7 +16869,7 @@ bibdatabase: [
             },
 
   {
-            'id': '920',
+            'id': '919',
             'author': 'Ryuya Nadayoshi, Yoko Mitomi, Naoki Ohboshi, Tomohiro Kuroda, Naomi Sakihana, Takao Tachibana, Yoshiki Miyachi, Hiroyuki Yoshihara',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16906,7 +16887,7 @@ bibdatabase: [
             },
 
   {
-            'id': '921',
+            'id': '920',
             'author': 'Osamu Okada, Naoki Ohboshi, Tomohiro Kuroda, Hiroyuki Yoshihara',
             'title': 'Development of Electronic Clinical Path System using PDA as Inputting Device',
             'year': '2003',
@@ -16925,7 +16906,7 @@ bibdatabase: [
             },
 
   {
-            'id': '922',
+            'id': '921',
             'author': 'Keiho Imanishi, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -16943,7 +16924,7 @@ bibdatabase: [
             },
 
   {
-            'id': '923',
+            'id': '922',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': 'Rectal Palpation Simulator based on Virtual Reality in Urology',
             'year': '2003',
@@ -16962,7 +16943,7 @@ bibdatabase: [
             },
 
   {
-            'id': '924',
+            'id': '923',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Masaru Komori',
             'title': 'Development of Soft Tissue Model of Ablation',
             'year': '2003',
@@ -16981,7 +16962,7 @@ bibdatabase: [
             },
 
   {
-            'id': '925',
+            'id': '924',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Tetsuya Matsuda, Masashi Komeda',
             'title': 'Supporting Planning of Surgical Approach in Cardiovascular Surgery',
             'year': '2003',
@@ -17000,7 +16981,7 @@ bibdatabase: [
             },
 
   {
-            'id': '926',
+            'id': '925',
             'author': 'Kenta Hori, Katsuya Tanaka, Yasunari Suzuki, Tomohiro Kuroda, Yoshiki Arakawa, Mamoru Mitsuishi, Takashi Takahashi',
             'title': 'Information Transfer and Display for Surgical Cockpit System',
             'year': '2003',
@@ -17019,7 +17000,7 @@ bibdatabase: [
             },
 
   {
-            'id': '927',
+            'id': '926',
             'author': 'Ryuya Nadayoshi, Yoko Mitomi, Naoki Ohboshi, Tomohiro Kuroda, Naomi Sakihana, Takao Tachibana, Yoshiki Miyachi, Hiroyuki Yoshihara',
             'title': 'Development of Electronic Treatment Planning System using Mobile Computer',
             'year': '2003',
@@ -17036,7 +17017,7 @@ bibdatabase: [
             },
 
   {
-            'id': '928',
+            'id': '927',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': 'Development of Rectal Palpation Simulator based on an Interaction Model between Elastic Objects',
             'year': '2003',
@@ -17054,7 +17035,7 @@ bibdatabase: [
             },
 
   {
-            'id': '929',
+            'id': '928',
             'author': 'Naoto Kume, Megumi Nakao, Tomohiro Kuroda, Masaru Komori',
             'title': 'VR-based Simulation of Ablation using Deformable Soft Tissue Destruction Model',
             'year': '2003',
@@ -17072,7 +17053,7 @@ bibdatabase: [
             },
 
   {
-            'id': '930',
+            'id': '929',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masashi Komeda',
             'title': 'VR Simulation for Preoperative Planning using Hybrid Mesh and Volume based Virtual Human',
             'year': '2003',
@@ -17090,7 +17071,7 @@ bibdatabase: [
             },
 
   {
-            'id': '931',
+            'id': '930',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -17107,7 +17088,7 @@ bibdatabase: [
             },
 
   {
-            'id': '932',
+            'id': '931',
             'author': 'Kenta Hori, Katsuya Tanaka, Tomohiro Kuroda, Yasunari Suzuki, Yoshiki Arakawa, Mamoru Mitsuishi, Takashi Takahashi',
             'title': 'Surgical Cockpit System for Information Suport in Telemedicine',
             'year': '2003',
@@ -17124,7 +17105,7 @@ bibdatabase: [
             },
 
   {
-            'id': '933',
+            'id': '932',
             'author': 'Kaori Fujiwara, Tomohiro Kuroda, Hiroshi Oyama',
             'title': '*** No English title in DB***',
             'year': '2003',
@@ -17142,7 +17123,7 @@ bibdatabase: [
             },
 
   {
-            'id': '934',
+            'id': '933',
             'author': 'Tomohiro Kuroda, Kenta Hori, Hiroshi Oyama',
             'title': 'Toward Information Supported Telemedicine; Development of Collaborative Communication and Supporting System for Telesurgery',
             'year': '2002',
@@ -17161,7 +17142,7 @@ bibdatabase: [
             },
 
   {
-            'id': '935',
+            'id': '934',
             'author': 'Kenta Hori, Yasuhiko Ozaki, Tomohiro Kuroda, Hiroshi Oyama, Takashi Takahashi',
             'title': 'Factor of Skill Difference on Tele-robotic Surgery',
             'year': '2002',
@@ -17180,7 +17161,7 @@ bibdatabase: [
             },
 
   {
-            'id': '936',
+            'id': '935',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Genichi Sakaguchi, Masashi Komeda, Takashi Takahashi',
             'title': 'Decision Support System of Surgical Approaches with an Adaptive Physics-Based Model',
             'year': '2002',
@@ -17199,7 +17180,7 @@ bibdatabase: [
             },
 
   {
-            'id': '937',
+            'id': '936',
             'author': 'Peter Antoniac, Petri Pulli, Tomohiro Kuroda, Dan Bendas, Seamus Hickey, Hiroshi Sasaki',
             'title': 'Wireless User Perspectives in Europe-HandSmart Mediaphone Interface',
             'year': '2002',
@@ -17217,7 +17198,7 @@ bibdatabase: [
             },
 
   {
-            'id': '938',
+            'id': '937',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Hand-menu System: A Deviceless Virtual Input Interface for Wearable Computer',
             'year': '2002',
@@ -17236,7 +17217,7 @@ bibdatabase: [
             },
 
   {
-            'id': '939',
+            'id': '938',
             'author': 'Yoshiyuki Kojima, Yoshihiro Yasumuro, Tomohiro Kuroda, Masataka Imura, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Clip-Interface: A Human Interface for a 3D Workspace with Wearable PC',
             'year': '2002',
@@ -17255,7 +17236,7 @@ bibdatabase: [
             },
 
   {
-            'id': '940',
+            'id': '939',
             'author': 'Koichi Minami, Tomi Korpipaa, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Network Protocol for Distributed Design Work Support',
             'year': '2002',
@@ -17274,7 +17255,7 @@ bibdatabase: [
             },
 
   {
-            'id': '941',
+            'id': '940',
             'author': 'Kenta Hori, Yasuhiko Ozaki, Takehiko Nakamura, Tomohiro Kuroda, Hiroshi Oyama, Takashi Takahashi',
             'title': 'Introducing Elevation View of Operating Field to Tele-robotic Surgery',
             'year': '2002',
@@ -17293,7 +17274,7 @@ bibdatabase: [
             },
 
   {
-            'id': '942',
+            'id': '941',
             'author': 'Hiroshi Oyama, Kenta Hori, Tomohiro Kuroda, Takashi Takahashi',
             'title': 'Medicine and Virtual Reality',
             'year': '2002',
@@ -17312,7 +17293,7 @@ bibdatabase: [
             },
 
   {
-            'id': '943',
+            'id': '942',
             'author': 'Kenta Hori, Tomohiro Kuroda, Hiroshi Oyama, Yasuhiko Ozaki, Takehiko Nakamura, Takashi Takahashi',
             'title': 'Effect of Video Streaming Delay on Telemedicine based on the Surgical Cockpit System',
             'year': '2002',
@@ -17330,7 +17311,7 @@ bibdatabase: [
             },
 
   {
-            'id': '944',
+            'id': '943',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Silke Hacker, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Takashi Takahashi',
             'title': 'An Interaction Model between Multiple Deformable Objects for Realistic Haptic Force Feedback in Surgical Simulations',
             'year': '2002',
@@ -17348,7 +17329,7 @@ bibdatabase: [
             },
 
   {
-            'id': '945',
+            'id': '944',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Takashi Takahashi',
             'title': 'Planning and Training of Minimally Invasive Surgery by Integrating Soft Tissue Cuts with Surgical Views Reproduction',
             'year': '2002',
@@ -17366,7 +17347,7 @@ bibdatabase: [
             },
 
   {
-            'id': '946',
+            'id': '945',
             'author': 'Petri Pulli, Xiasong Zheng, Tony Manninen, Tomohiro Kuroda',
             'title': 'Quality Function Deployment in Mobile Service Analysis, Design and Development',
             'year': '2002',
@@ -17383,7 +17364,7 @@ bibdatabase: [
             },
 
   {
-            'id': '947',
+            'id': '946',
             'author': 'Koichi Minami, Tomi Korpipaa, Masataka Imura, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Distributed MR Transporter for Networked Collaboration',
             'year': '2002',
@@ -17401,7 +17382,7 @@ bibdatabase: [
             },
 
   {
-            'id': '948',
+            'id': '947',
             'author': 'Masataka Imura, Kumi Kamada, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara, Eiji Toyota, Yasuo Ogasawara, Fumihiko Kajiya',
             'title': 'Interactive Observation of Kidney Glomeruli using Immersive Projection System',
             'year': '2002',
@@ -17419,7 +17400,7 @@ bibdatabase: [
             },
 
   {
-            'id': '949',
+            'id': '948',
             'author': 'Nobuyuki Ishibashi, Yoshitsugu Manabe, Osamu Oshiro, Motonori Doi, Tomohiro Kuroda, Ichiro Kanaya, Yoshihiro Yasumuro, Kunihiro Chihara',
             'title': 'Checking Daily Health and Safty on The Internet',
             'year': '2002',
@@ -17436,7 +17417,7 @@ bibdatabase: [
             },
 
   {
-            'id': '950',
+            'id': '949',
             'author': 'Yoshihiro Yasumuro, Masataka Imura, Hiroshi Sasaki, Koichi Minami, Yoshiyuki Kojima, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Computer Vision-Based Interfaces for Wearable Computers -A Wearable Shared Mixed Reality Environment',
             'year': '2002',
@@ -17454,7 +17435,7 @@ bibdatabase: [
             },
 
   {
-            'id': '951',
+            'id': '950',
             'author': 'Yoshihiro Yasumuro, Mikako Murakami, Masataka Imura, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'E-Cane with Situation Presumption for the Visually Impaired',
             'year': '2002',
@@ -17472,7 +17453,7 @@ bibdatabase: [
             },
 
   {
-            'id': '952',
+            'id': '951',
             'author': 'Mikako Murakami, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Shopping Support System for the Blind Using Barcode',
             'year': '2002',
@@ -17490,7 +17471,7 @@ bibdatabase: [
             },
 
   {
-            'id': '953',
+            'id': '952',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Takashi Takahashi',
             'title': 'Combining Volumetric Soft Tissue Cuts for Interventional Surgery Simulation',
             'year': '2002',
@@ -17508,7 +17489,7 @@ bibdatabase: [
             },
 
   {
-            'id': '954',
+            'id': '953',
             'author': 'Kumi Kamada, Koichi Minami, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Osamu Oshiro, Kunihiro Chihara',
             'title': 'Visual Consistent Presentation Between a Real and Virtual Object',
             'year': '2002',
@@ -17526,7 +17507,7 @@ bibdatabase: [
             },
 
   {
-            'id': '955',
+            'id': '954',
             'author': 'Tomohiro Kuroda, Hiroshi Sasaki, Toshitaka Tateishi, Kouji Maeda, Yoshihiro Yasumuro, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Walking Aids based on Wearable/Ubiquitous Computing - Aiming At Pedestrian\'s Intelligent Transport Systems -',
             'year': '2002',
@@ -17544,7 +17525,7 @@ bibdatabase: [
             },
 
   {
-            'id': '956',
+            'id': '955',
             'author': 'Mikako Murakami, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Generation of Modifier Representation in Sign Animation',
             'year': '2002',
@@ -17562,7 +17543,7 @@ bibdatabase: [
             },
 
   {
-            'id': '957',
+            'id': '956',
             'author': 'Yoshihiro Kuroda, Megumi Nakao, Silke Hacker, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Takashi Takahashi',
             'title': 'Haptic Force Feedback with an Interaction Model between Multiple Deformable Objects for Surgical Simulation',
             'year': '2002',
@@ -17580,7 +17561,7 @@ bibdatabase: [
             },
 
   {
-            'id': '958',
+            'id': '957',
             'author': 'Kunihiro Chihara, Tomohiro Kuroda, Masataka Imura, Yoshiyuki Kojima, Muneyuki Sakata, Yu Ishikawa',
             'title': 'Ubiquitous Visualization System of Energy Consumption',
             'year': '2002',
@@ -17597,7 +17578,7 @@ bibdatabase: [
             },
 
   {
-            'id': '959',
+            'id': '958',
             'author': 'Tomohiro Kuroda, Mikako Murakami, Yoshito Tabata, Kunihiro Chihara',
             'title': 'A Method to Produce Legible Sign Animation',
             'year': '2002',
@@ -17616,7 +17597,7 @@ bibdatabase: [
             },
 
   {
-            'id': '960',
+            'id': '959',
             'author': 'Mikako Murakami, Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'Merchandise Information Service for Blind People Using Barcode',
             'year': '2002',
@@ -17635,7 +17616,7 @@ bibdatabase: [
             },
 
   {
-            'id': '961',
+            'id': '960',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'A Study on Finger Character Learning System',
             'year': '2002',
@@ -17654,7 +17635,7 @@ bibdatabase: [
             },
 
   {
-            'id': '962',
+            'id': '961',
             'author': 'Kenta Hori, Tomohiro Kuroda, Hiroshi Oyama, Yasuhiko Ozaki, Takehiko Nakamura, Takashi Takahashi',
             'title': 'Effectiveness of Video Streaming Delay on Tele-robotic Surgery',
             'year': '2002',
@@ -17673,7 +17654,7 @@ bibdatabase: [
             },
 
   {
-            'id': '963',
+            'id': '962',
             'author': 'Yasuhiko Ozaki, Kenta Hori, Tomohiro Kuroda, Hiroshi Oyama, Takehiko Nakamura, Takashi Takahashi',
             'title': 'Introducing Elevation View of Operating Field on Tele-robotic Surgery',
             'year': '2002',
@@ -17692,7 +17673,7 @@ bibdatabase: [
             },
 
   {
-            'id': '964',
+            'id': '963',
             'author': 'Takehiko Nakamura, Kenta Hori, Tomohiro Kuroda, Hiroshi Oyama, Takashi Takahashi',
             'title': 'Possibility to Evaluat Personal Skill to Surgical Procedures Using Result from Surgical Simulator and Telerobotic Manipulation',
             'year': '2002',
@@ -17711,7 +17692,7 @@ bibdatabase: [
             },
 
   {
-            'id': '965',
+            'id': '964',
             'author': 'Yasuhiro Yamamoto, Megumi Nakao, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Takashi Takahashi',
             'title': 'Palpable Simulation System of an Aorta in Cardiovascular Surgery',
             'year': '2002',
@@ -17730,7 +17711,7 @@ bibdatabase: [
             },
 
   {
-            'id': '966',
+            'id': '965',
             'author': 'Kenta Hori, Yasuhiko Ozaki, Tomohiro Kuroda, Hiroshi Oyama, Takashi Takahashi',
             'title': 'Factor of Skill Difference on Tele-robotic Surgery',
             'year': '2002',
@@ -17748,7 +17729,7 @@ bibdatabase: [
             },
 
   {
-            'id': '967',
+            'id': '966',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Genichi Sakaguchi, Masashi Komeda, Takashi Takahashi',
             'title': 'Decision Support System of Surgical Approaches with an Adaptive Physics-Based Model',
             'year': '2002',
@@ -17766,7 +17747,7 @@ bibdatabase: [
             },
 
   {
-            'id': '968',
+            'id': '967',
             'author': 'Tomohiro Kuroda, Yoshihiro Yasumuro, Mikako Murakami, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Development of E-Cane Aiming at Pedestrian\'s Intelligent Transport System',
             'year': '2002',
@@ -17785,7 +17766,7 @@ bibdatabase: [
             },
 
   {
-            'id': '969',
+            'id': '968',
             'author': 'Keiho Imanishi, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama',
             'title': 'Development of a Haptic Navigation Interface for Improving Safety of Master-Slave Type Robotic Surgery',
             'year': '2002',
@@ -17803,7 +17784,7 @@ bibdatabase: [
             },
 
   {
-            'id': '970',
+            'id': '969',
             'author': 'Masataka Imura, Kumi Kamada, Tomohiro Kuroda, Osamu Oshiro, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'GRAPE: Measurement Support System for Cluster-shaped Object in Immersive Environment',
             'year': '2002',
@@ -17821,7 +17802,7 @@ bibdatabase: [
             },
 
   {
-            'id': '971',
+            'id': '970',
             'author': 'Kenta Hori, Katsuya Tanaka, Tomohiro Kuroda, Hiroshi Oyama, Shinichi Warisawa, Mamoru Mitsuishi',
             'title': 'Catalog Interface of Multi View for Medical Support on Network',
             'year': '2002',
@@ -17839,7 +17820,7 @@ bibdatabase: [
             },
 
   {
-            'id': '972',
+            'id': '971',
             'author': 'Kaori Fujiwara, Tomohiro Kuroda, Hiroshi Oyama, Takashi Takahashi',
             'title': 'An Interoperative Supporting System for Nurses',
             'year': '2002',
@@ -17857,7 +17838,7 @@ bibdatabase: [
             },
 
   {
-            'id': '973',
+            'id': '972',
             'author': 'Mikako Murakami, Yoshito Tabata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Sign Animation System Introduced Modifier Representation',
             'year': '2002',
@@ -17875,7 +17856,7 @@ bibdatabase: [
             },
 
   {
-            'id': '974',
+            'id': '973',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama',
             'title': 'An Input Method of Surgical Plans by Mouse Manipulation',
             'year': '2002',
@@ -17893,7 +17874,7 @@ bibdatabase: [
             },
 
   {
-            'id': '975',
+            'id': '974',
             'author': 'Toshitaka Tateishi, Mikako Murakami, Masataka Imura, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'E-cane System with Situation Presumption for the Blind',
             'year': '2002',
@@ -17913,7 +17894,7 @@ bibdatabase: [
             },
 
   {
-            'id': '976',
+            'id': '975',
             'author': 'Yoshito Tabata, Mikako Murakami, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2002',
@@ -17930,7 +17911,7 @@ bibdatabase: [
             },
 
   {
-            'id': '977',
+            'id': '976',
             'author': 'Kumi Kamada, Tomohiro Kuroda, Yoshitsugu Manabe, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2002',
@@ -17947,7 +17928,7 @@ bibdatabase: [
             },
 
   {
-            'id': '978',
+            'id': '977',
             'author': 'Koichi Minami, Masataka Imura, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2002',
@@ -17964,7 +17945,7 @@ bibdatabase: [
             },
 
   {
-            'id': '979',
+            'id': '978',
             'author': 'Masataka Imura, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '3-D Blood Flow Visualization in Immersive Environment based on Color Doppler Images',
             'year': '2002',
@@ -17983,7 +17964,7 @@ bibdatabase: [
             },
 
   {
-            'id': '980',
+            'id': '979',
             'author': 'Kaori Fujiwara, Takehiko Nakamura, Kazumi Hara, Tomohiro Kuroda, Hiroshi Oyama, Takashi Takahashi',
             'title': 'An Interoperative Supporting System for Nurses',
             'year': '2002',
@@ -18002,7 +17983,7 @@ bibdatabase: [
             },
 
   {
-            'id': '981',
+            'id': '980',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Takashi Takahashi',
             'title': 'Preoperative Planning and Procedural Training of Minimally Invasive Surgery Using Tissue Cutting and Surgical View Reconstruction',
             'year': '2002',
@@ -18021,7 +18002,7 @@ bibdatabase: [
             },
 
   {
-            'id': '982',
+            'id': '981',
             'author': 'Keiho Imanishi, Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Takashi Takahashi',
             'title': 'Substitution of Haptic Display for Distance Visualization for Endoscopic Surgery',
             'year': '2002',
@@ -18040,7 +18021,7 @@ bibdatabase: [
             },
 
   {
-            'id': '983',
+            'id': '982',
             'author': 'Kouji Maeda, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Real-Time Observation and the Map Creation of Information about Pedestrians Distribution',
             'year': '2002',
@@ -18059,7 +18040,7 @@ bibdatabase: [
             },
 
   {
-            'id': '984',
+            'id': '983',
             'author': 'Tomohiro Kuroda',
             'title': 'Medical Cockpit for Telemedicine',
             'year': '2002',
@@ -18078,7 +18059,7 @@ bibdatabase: [
             },
 
   {
-            'id': '985',
+            'id': '984',
             'author': 'Tomohiro Kuroda, Toshitaka Tateishi, Yoshihiro Yasumuro, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'E-cane with Situation Presumption for the Blind',
             'year': '2002',
@@ -18097,7 +18078,7 @@ bibdatabase: [
             },
 
   {
-            'id': '986',
+            'id': '985',
             'author': 'Kouji Maeda, Mikako Murakami, Masataka Imura, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2002',
@@ -18117,7 +18098,7 @@ bibdatabase: [
             },
 
   {
-            'id': '987',
+            'id': '986',
             'author': 'Hiroshi Oyama, Tomohiro Kuroda, Kenta Hori, Takehiko Nakamura, Takashi Takahashi',
             'title': 'Efficacy of a Virtual Reality Simulator for Evaluating the Aptitude of Medical Students',
             'year': '2001',
@@ -18136,7 +18117,7 @@ bibdatabase: [
             },
 
   {
-            'id': '988',
+            'id': '987',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Genichi Sakaguchi, Masashi Komeda, Takashi Takahashi',
             'title': 'Virtual Reality Based Simulation System for Cardiovascular Surgery',
             'year': '2001',
@@ -18155,7 +18136,7 @@ bibdatabase: [
             },
 
   {
-            'id': '989',
+            'id': '988',
             'author': 'Kenta Hori, Tomohiro Kuroda, Hiroshi Oyama, Takashi Takahashi',
             'title': 'Surgical Cockpit System -Standarization of Integrated Information Support for Telesurgery-',
             'year': '2001',
@@ -18174,7 +18155,7 @@ bibdatabase: [
             },
 
   {
-            'id': '990',
+            'id': '989',
             'author': 'Tomohiro Kuroda, Wakako Makari, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Transformation Of Signing Avatar To Fit User\'s Figure',
             'year': '2001',
@@ -18192,7 +18173,7 @@ bibdatabase: [
             },
 
   {
-            'id': '991',
+            'id': '990',
             'author': 'Tomohiro Kuroda, Mikako Murakami, Yoshito Tabata',
             'title': 'Current Trend of VR Application for Assistive Technology',
             'year': '2001',
@@ -18211,7 +18192,7 @@ bibdatabase: [
             },
 
   {
-            'id': '992',
+            'id': '991',
             'author': 'Masataka Imura, Yoshito Tabata, Ichiro Kanaya, Tomohiro Kuroda, Yoshitsugu Manabe, Osamu Oshiro, Kunihiro Chihara',
             'title': 'Digital Archiving of Kamegata-Ishi (Turtle-shaped Stone)',
             'year': '2001',
@@ -18230,7 +18211,7 @@ bibdatabase: [
             },
 
   {
-            'id': '993',
+            'id': '992',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Study on Finger Character Education System based on Hand Posture Recognition',
             'year': '2001',
@@ -18249,7 +18230,7 @@ bibdatabase: [
             },
 
   {
-            'id': '994',
+            'id': '993',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Hand-Area Extraction By Sensor Fusion Using Two Cameras For Input Interface Of Wearable Computers',
             'year': '2001',
@@ -18267,7 +18248,7 @@ bibdatabase: [
             },
 
   {
-            'id': '995',
+            'id': '994',
             'author': 'Hiroshi Oyama, Kenta Hori, Yasuhiko Ozaki, Megumi Nakao, Takatoshi Suenaga, Tomohiro Kuroda, Mikio Suga, Masaru Komori, Osamu Oshiro, Kotaro Minato, Kunihiro Chihara, Takashi Takahashi',
             'title': 'Innovative Evolution of Medical Education and Treatment using Virtual Reality Technology',
             'year': '2001',
@@ -18284,7 +18265,7 @@ bibdatabase: [
             },
 
   {
-            'id': '996',
+            'id': '995',
             'author': 'Peter Antoniac, Tomohiro Kuroda, Petri Pulli',
             'title': 'User Interface Appliance for Mobile Devices',
             'year': '2001',
@@ -18301,7 +18282,7 @@ bibdatabase: [
             },
 
   {
-            'id': '997',
+            'id': '996',
             'author': 'Tomohiro Kuroda, Wakako Makari, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Transformation of Signing Avatar to Fit User\'s Figure',
             'year': '2001',
@@ -18319,7 +18300,7 @@ bibdatabase: [
             },
 
   {
-            'id': '998',
+            'id': '997',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Virtual DeerBack Riding −Walk through Virtual ancient NARA−',
             'year': '2001',
@@ -18337,7 +18318,7 @@ bibdatabase: [
             },
 
   {
-            'id': '999',
+            'id': '998',
             'author': 'Koichi Minami, Tomi Korpipaa, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'An Interior Design System on Shared AR Space −A lock-free Communication Protocol for Smooth Interaction−',
             'year': '2001',
@@ -18355,7 +18336,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1000',
+            'id': '999',
             'author': 'Masataka Imura, Yoshito Tabata, Ichiro Kanaya, Tomohiro Kuroda, Yoshitsugu Manabe, Osamu Oshiro, Kunihiro Chihara',
             'title': 'Digital Archiving Of Kamegata-Ishi (Turtle Shape Stone) Using Data Fusion Of Heterogeneous Measurements',
             'year': '2001',
@@ -18374,7 +18355,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1001',
+            'id': '1000',
             'author': 'Tomohiro Kuroda, Atsushi Nakamura, Yoshiyuki Kojima, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Interactive Visualization of Energy Consumption using VRML',
             'year': '2001',
@@ -18392,7 +18373,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1002',
+            'id': '1001',
             'author': 'Masataka Imura, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara, Joakim Brandberg, Per Ask',
             'title': 'Blood Flow Visualization In Immersive Environment Based on Color Doppler Images',
             'year': '2001',
@@ -18409,7 +18390,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1003',
+            'id': '1002',
             'author': 'Takatoshi Suenaga, Masayuki Nambu, Tomohiro Kuroda, Osamu Oshiro, Toshiyo Tamura, Kunihiro Chihara',
             'title': 'A Tele-Instruction System For Ultrasound Probe Operation Based on Shared AR Technology',
             'year': '2001',
@@ -18426,7 +18407,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1004',
+            'id': '1003',
             'author': 'Yoshiyuki Kojima, Yoshihiro Yasumuro, Hiroshi Sasaki, Ichiro Kanaya, Osamu Oshiro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Hand Manipulation of Virtual Objects in Wearable Augmented Reality',
             'year': '2001',
@@ -18444,7 +18425,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1005',
+            'id': '1004',
             'author': 'Peter Antoniac, Tomohiro Kuroda, Petri Pulli',
             'title': 'User Interface Appliance for Mobile Devices',
             'year': '2001',
@@ -18461,7 +18442,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1006',
+            'id': '1005',
             'author': 'Koichi Minami, Tomi Korpipaa, Tatsuya Shuzui, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Collaborative Work Support on Networked Heterogeneous Platforms −Shared Augmented Interior Design Space−',
             'year': '2001',
@@ -18480,7 +18461,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1007',
+            'id': '1006',
             'author': 'Tomohiro Kuroda, Yoshito Tabata, Mikako Murakami, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Sign Language Digitization and Animation',
             'year': '2001',
@@ -18499,7 +18480,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1008',
+            'id': '1007',
             'author': 'Peter Antoniac, Petri Pulli, Tomohiro Kuroda, Dan Bendas, Seamus Hickey, Hiroshi Sasaki',
             'title': 'HandSmart Mediaphone',
             'year': '2001',
@@ -18516,7 +18497,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1009',
+            'id': '1008',
             'author': 'Kenta Hori, Hiroshi Oyama, Yasuhiko Ozaki, Takeshi Tsuda, Takatoshi Suenaga, Tomohiro Kuroda, Mikio Suga, Masaru Komori, Osamu Oshiro, Kotaro Minato, Kunihiro Chihara, Takashi Takahashi',
             'title': 'Surgical Cockpit System and Effectiveness of its Immersive Environment',
             'year': '2001',
@@ -18534,7 +18515,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1010',
+            'id': '1009',
             'author': 'Tomohiro Kuroda, Atsushi Nakamura, Yoshiyuki Kojima, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Interactive Visualization of Energy Consumption using VRML',
             'year': '2001',
@@ -18553,7 +18534,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1011',
+            'id': '1010',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2001',
@@ -18570,7 +18551,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1012',
+            'id': '1011',
             'author': 'Yoshiyuki Kojima, Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Direct Handling for Wearable Augmented Reality',
             'year': '2001',
@@ -18588,7 +18569,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1013',
+            'id': '1012',
             'author': 'Masataka Imura, Tomohiro Kuroda, Yoshitsugu Manabe, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2001',
@@ -18605,7 +18586,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1014',
+            'id': '1013',
             'author': 'Koichi Minami, Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2001',
@@ -18622,7 +18603,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1015',
+            'id': '1014',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2001',
@@ -18639,7 +18620,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1016',
+            'id': '1015',
             'author': 'Atsunobu Kimura, Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2001',
@@ -18656,7 +18637,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1017',
+            'id': '1016',
             'author': 'Mikako Murakami, Yoshito Tabata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2001',
@@ -18673,7 +18654,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1018',
+            'id': '1017',
             'author': 'Megumi Nakao, Tomohiro Kuroda, Hiroshi Oyama, Masaru Komori, Tetsuya Matsuda, Takashi Takahashi',
             'title': '*** No English title in DB***',
             'year': '2001',
@@ -18689,7 +18670,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1019',
+            'id': '1018',
             'author': 'Mikako Murakami, Yoshito Tabata, Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'A Method to Improve Legibility of Sign Animation',
             'year': '2001',
@@ -18707,7 +18688,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1020',
+            'id': '1019',
             'author': 'Yasuhiko Ozaki, Takeshi Tsuda, Kenta Hori, Hiroshi Oyama, Takatoshi Suenaga, Mikio Suga, Tomohiro Kuroda, Masaru Komori, Osamu Oshiro, Kotaro Minato, Kunihiro Chihara, Takashi Takahashi',
             'title': 'Efficiency of the Immersive Projection System for Telesurgery',
             'year': '2001',
@@ -18725,7 +18706,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1021',
+            'id': '1020',
             'author': 'Toshitaka Tateishi, Hiroshi Sasaki, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2001',
@@ -18742,7 +18723,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1022',
+            'id': '1021',
             'author': 'Toshitaka Tateishi, Hiroshi Sasaki, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Study on Walking Support of the Visually Impaired with Situation Presumption',
             'year': '2001',
@@ -18760,7 +18741,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1023',
+            'id': '1022',
             'author': 'Kouji Maeda, Yoshihiro Yasumuro, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Detection and Integration onto Map of Information about Pedestrians Congestion',
             'year': '2001',
@@ -18778,7 +18759,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1024',
+            'id': '1023',
             'author': 'Mikako Murakami, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Shopping Support System for Blind People using Barcode',
             'year': '2001',
@@ -18796,7 +18777,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1025',
+            'id': '1024',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Wearables and Deviceless Interface',
             'year': '2001',
@@ -18814,7 +18795,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1026',
+            'id': '1025',
             'author': 'Yoshiyuki Kojima, Hiroshi Sasaki, Yoshihiro Yasumuro, Ichiro Kanaya, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Visual Synthesis for Hand Manipulation in Wearable Augmented Reality',
             'year': '2001',
@@ -18832,7 +18813,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1027',
+            'id': '1026',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Mikako Murakami, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Development of Sign Language Education System',
             'year': '2001',
@@ -18850,7 +18831,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1028',
+            'id': '1027',
             'author': 'Yasuhiko Ozaki, Kenta Hori, Hiroshi Oyama, Takeshi Tsuda, Naohiro Mitsutake, Takatoshi Suenaga, Mikio Suga, Tomohiro Kuroda, Masaru Komori, Osamu Oshiro, Kotaro Minato, Kunihiro Chihara, Takashi Takahashi',
             'title': 'The Effectiveness of Immersed Operation Environment for Telerobotic Surgery',
             'year': '2001',
@@ -18868,7 +18849,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1029',
+            'id': '1028',
             'author': 'Takatoshi Suenaga, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': 'A Tele-Instruction System for Ultrasound Diagnosis based on Shared AR Technology',
             'year': '2001',
@@ -18887,7 +18868,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1030',
+            'id': '1029',
             'author': 'Kumi Kamada, Masataka Imura, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara, Yasuo Ogasawara, Eiji Toyota, Fumihiko Kajiya',
             'title': '*** No English title in DB***',
             'year': '2001',
@@ -18905,7 +18886,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1031',
+            'id': '1030',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Dial-Menu System: An Input Interface using a Human-Hand for Wearable Computers',
             'year': '2001',
@@ -18925,7 +18906,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1032',
+            'id': '1031',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Augmented Reality Based Input Interface for Wearable Computers',
             'year': '2000',
@@ -18943,7 +18924,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1033',
+            'id': '1032',
             'author': 'Masataka Imura, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara, Joakim Brandberg, Per Ask',
             'title': '3-D Flow Visualization for Construction of the Model of the Blood Flow in the Heart',
             'year': '2000',
@@ -18961,7 +18942,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1034',
+            'id': '1033',
             'author': 'Toshiyuki Umeda, Takatoshi Suenaga, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': 'A Real-Time Telemedicine System using a Medical Ultrasound Image Sequence on a Low Bit-Rate Network',
             'year': '2000',
@@ -18979,7 +18960,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1035',
+            'id': '1034',
             'author': 'Takatoshi Suenaga, Shigetoki Iino, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': 'An Instruction System of Manipulating Probe for Ultrasound Tele-Diagnosis',
             'year': '2000',
@@ -18997,7 +18978,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1036',
+            'id': '1035',
             'author': 'Tomohiro Kuroda, Hiroshi Sasaki, Masaaki Nakano, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Method to Generate Side View from Frontal Image Sequence for Tele-Existence',
             'year': '2000',
@@ -19015,7 +18996,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1037',
+            'id': '1036',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Real-Time Hand Motion Recognition for Input Interface based on Augmented Reality',
             'year': '2000',
@@ -19033,7 +19014,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1038',
+            'id': '1037',
             'author': 'Masataka Imura, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara, Joakim Brandberg, Per Ask',
             'title': 'In-vivo Blood Flow Visualization Using 3-D Reconstruction of Color Doppler Images',
             'year': '2000',
@@ -19051,7 +19032,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1039',
+            'id': '1038',
             'author': 'Takatoshi Suenaga, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': 'A Tele-Instruction System for Real-time Telemedicine',
             'year': '2000',
@@ -19069,7 +19050,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1040',
+            'id': '1039',
             'author': 'Tomohiro Kuroda, Takatoshi Suenaga, Koichi Minami, Tomi Korpipaa, Hiroshi Sasaki, Yoshitsugu Manabe, Osamu Oshiro, Kunihiro Chihara',
             'title': 'Shared Augmented Reality for Remote Work Support',
             'year': '2000',
@@ -19087,7 +19068,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1041',
+            'id': '1040',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Augmented Reality Based Input Interface for Wearable Computers',
             'year': '2000',
@@ -19106,7 +19087,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1042',
+            'id': '1041',
             'author': 'Takatoshi Suenaga, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Tele-Instruction System for Real-Time Telemedicine',
             'year': '2000',
@@ -19124,7 +19105,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1043',
+            'id': '1042',
             'author': 'Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'Motion Capture and Transmisstion Techniques for Sign Language',
             'year': '2000',
@@ -19141,7 +19122,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1044',
+            'id': '1043',
             'author': 'Tomi Korpipaa, Koichi Minami, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Shared Virtual Reality Interior Design System',
             'year': '2000',
@@ -19159,7 +19140,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1045',
+            'id': '1044',
             'author': 'Masataka Imura, Yoshito Tabata, Ichiro Kanaya, Tomohiro Kuroda, Yoshitsugu Manabe, Osamu Oshiro, Kunihiro Chihara',
             'title': 'Digital Archiving of Kamegata-Ishi (Turtle Shape Stone) using Heterogeneous Measurement Methods',
             'year': '2000',
@@ -19177,7 +19158,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1046',
+            'id': '1045',
             'author': 'Tomohiro Kuroda, Wakako Makari, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Automatic Generation of VRML Avatar Inheriting User\'s Figure',
             'year': '2000',
@@ -19195,7 +19176,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1047',
+            'id': '1046',
             'author': 'Takatoshi Suenaga, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': 'NAIST Tele-echo Project',
             'year': '2000',
@@ -19212,7 +19193,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1048',
+            'id': '1047',
             'author': 'Hiroshi Sasaki, Toshitaka Tateishi, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Wearable Computer for the Blind - Aiming at a Pedestrian\'s Intelligent Transport System',
             'year': '2000',
@@ -19230,7 +19211,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1049',
+            'id': '1048',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Finger Character Learning System with Visual Feedback',
             'year': '2000',
@@ -19248,7 +19229,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1050',
+            'id': '1049',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Study on Hand Posture Recognition for Finger Character Learning System',
             'year': '2000',
@@ -19265,7 +19246,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1051',
+            'id': '1050',
             'author': 'Koichi Minami, Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19282,7 +19263,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1052',
+            'id': '1051',
             'author': 'Mikako Murakami, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19299,7 +19280,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1053',
+            'id': '1052',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19316,7 +19297,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1054',
+            'id': '1053',
             'author': 'Toshitaka Tateishi, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19333,7 +19314,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1055',
+            'id': '1054',
             'author': 'Ryo Shikata, Tomohiro Kuroda, Hiroyuki Seki, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19351,7 +19332,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1056',
+            'id': '1055',
             'author': 'Mikako Murakami, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19368,7 +19349,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1057',
+            'id': '1056',
             'author': 'Toshitaka Tateishi, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19385,7 +19366,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1058',
+            'id': '1057',
             'author': 'Kenta Hori, Takeshi Tsuda, Takatoshi Suenaga, Tomohiro Kuroda, Mikio Suga, Hiroshi Oyama, Osamu Oshiro, Kotaro Minato, Kunihiro Chihara, Masaru Komori, Takashi Takahashi',
             'title': 'Collaborative Communication System for Telesurgey',
             'year': '2000',
@@ -19403,7 +19384,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1059',
+            'id': '1058',
             'author': 'Takeshi Tsuda, Kenta Hori, Takatoshi Suenaga, Tomohiro Kuroda, Mikio Suga, Hiroshi Oyama, Osamu Oshiro, Kotaro Minato, Kunihiro Chihara, Masaru Komori, Takashi Takahashi',
             'title': 'An Immersive Communication Support System for Telesurgery',
             'year': '2000',
@@ -19421,7 +19402,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1060',
+            'id': '1059',
             'author': 'Kumi Kamada, Masataka Imura, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara, Yasuo Ogasawara, Eiji Toyota, Fumihiko Kajiya',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19438,7 +19419,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1061',
+            'id': '1060',
             'author': 'Yoshito Tabata, Mikako Murakami, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'A Study on Glove Type Sensor Structure for Hand Posture Measurement among Sign Language',
             'year': '2000',
@@ -19455,7 +19436,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1062',
+            'id': '1061',
             'author': 'Osamu Oshiro, Takatoshi Suenaga, Masataka Imura, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19472,7 +19453,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1063',
+            'id': '1062',
             'author': 'Takatoshi Suenaga, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19489,7 +19470,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1064',
+            'id': '1063',
             'author': 'Tomohiro Kuroda, Atsushi Nakamura, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19506,7 +19487,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1065',
+            'id': '1064',
             'author': 'Masaaki Nakano, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19523,7 +19504,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1066',
+            'id': '1065',
             'author': 'Masataka Imura, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19540,7 +19521,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1067',
+            'id': '1066',
             'author': 'Ryo Shikata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Meeting Support System for the Hearing Impaired',
             'year': '2000',
@@ -19558,7 +19539,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1068',
+            'id': '1067',
             'author': 'Tatsuya Shuzui, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Data Structure of 3D Models for Heterogeneous Shared VR',
             'year': '2000',
@@ -19576,7 +19557,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1069',
+            'id': '1068',
             'author': 'Koichi Minami, Tomi Korpipaa, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Distributed Collaborative Work Support using Shared AR Environment - Shared Augmented Interior Design Space -',
             'year': '2000',
@@ -19594,7 +19575,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1070',
+            'id': '1069',
             'author': 'Mikako Murakami, Yoshito Tabata, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19611,7 +19592,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1071',
+            'id': '1070',
             'author': 'Takatoshi Suenaga, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19628,7 +19609,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1072',
+            'id': '1071',
             'author': 'Tomi Korpipaa, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'Interior Design System using Two Heterogeneous Virtual Reality Platforms',
             'year': '2000',
@@ -19645,7 +19626,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1073',
+            'id': '1072',
             'author': 'Tatsuya Shuzui, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19663,7 +19644,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1074',
+            'id': '1073',
             'author': 'Masataka Imura, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19680,7 +19661,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1075',
+            'id': '1074',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19697,7 +19678,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1076',
+            'id': '1075',
             'author': 'Atsushi Nakamura, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '2000',
@@ -19714,7 +19695,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1077',
+            'id': '1076',
             'author': 'Toshiyuki Umeda, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': 'A Real-Time Medical Ultrasound Image Sequence Transmission System with Narrow Integrated Service Digital Network',
             'year': '1999',
@@ -19732,7 +19713,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1078',
+            'id': '1077',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Yoshitsugu Manabe, Kunihiro Chihara',
             'title': 'HIT-Wear: A Menu System Superimposing on a Human Hand for Wearable Computers',
             'year': '1999',
@@ -19750,7 +19731,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1079',
+            'id': '1078',
             'author': 'Takatoshi Suenaga, Toshiyuki Umeda, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': 'A Tele-Instruction System for Ultrasound Tele-diagnosis',
             'year': '1999',
@@ -19768,7 +19749,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1080',
+            'id': '1079',
             'author': 'Osamu Oshiro, Shigetoki Iino, Takatoshi Suenaga, Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'An Instruction System to Manipulate US Probe in Tele-Echo',
             'year': '1999',
@@ -19786,7 +19767,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1081',
+            'id': '1080',
             'author': 'Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'A Research on Visualization of Finger Spelling in Sign Animation',
             'year': '1999',
@@ -19804,7 +19785,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1082',
+            'id': '1081',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'A Study on Facial Action Visualization on S-TEL: An Avatar Based Sign Language Telecommunication System',
             'year': '1999',
@@ -19821,7 +19802,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1083',
+            'id': '1082',
             'author': 'Wakako Makari, Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19838,7 +19819,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1084',
+            'id': '1083',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19855,7 +19836,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1085',
+            'id': '1084',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19872,7 +19853,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1086',
+            'id': '1085',
             'author': 'Atsushi Nakamura, Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19889,7 +19870,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1087',
+            'id': '1086',
             'author': 'Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19906,7 +19887,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1088',
+            'id': '1087',
             'author': 'Masao Kitade, Toshiyuki Umeda, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19924,7 +19905,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1089',
+            'id': '1088',
             'author': 'Toshiyuki Umeda, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19942,7 +19923,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1090',
+            'id': '1089',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19959,7 +19940,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1091',
+            'id': '1090',
             'author': 'Tomohiro Kuroda, Takatoshi Suenaga, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19976,7 +19957,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1092',
+            'id': '1091',
             'author': 'Masataka Imura, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara, Joakim Brandberg, Per Ask',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -19993,7 +19974,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1093',
+            'id': '1092',
             'author': 'Toshiyuki Umeda, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20010,7 +19991,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1094',
+            'id': '1093',
             'author': 'Masaaki Nakano, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20027,7 +20008,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1095',
+            'id': '1094',
             'author': 'Tomohiro Kuroda, Yoshito Tabata, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20044,7 +20025,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1096',
+            'id': '1095',
             'author': 'Toshiyuki Umeda, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20061,7 +20042,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1097',
+            'id': '1096',
             'author': 'Shigetoki Iino, Takatoshi Suenaga, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20079,7 +20060,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1098',
+            'id': '1097',
             'author': 'Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'A Method for Legible Sign Animation by On-demand Expansion of Avatar\'s Hand',
             'year': '1999',
@@ -20097,7 +20078,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1099',
+            'id': '1098',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'A Method to Evaluate Finger Characters for Finger Spelling Learning System',
             'year': '1999',
@@ -20115,7 +20096,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1100',
+            'id': '1099',
             'author': 'Atsushi Nakamura, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20132,7 +20113,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1101',
+            'id': '1100',
             'author': 'Wakako Makari, Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'Automatic Generation of Avatar Inheriting User\'s Figure',
             'year': '1999',
@@ -20150,7 +20131,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1102',
+            'id': '1101',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Kunihiro Chihara',
             'title': 'Hit-Wear: A Menu System Superimposing on a Human Hand for Wearable Computer',
             'year': '1999',
@@ -20168,7 +20149,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1103',
+            'id': '1102',
             'author': 'Takatoshi Suenaga, Toshiyuki Umeda, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': 'A Tele-instruction System for Ultrasound Telediagnosis',
             'year': '1999',
@@ -20186,7 +20167,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1104',
+            'id': '1103',
             'author': 'Hiroshi Sasaki, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '\'Hit-Wear\': a Input Interface for Wearable Computers utilizing Visual Feedback and Physical Sense',
             'year': '1999',
@@ -20206,7 +20187,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1105',
+            'id': '1104',
             'author': 'Yoshito Tabata, Tomohiro Kuroda, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20223,7 +20204,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1106',
+            'id': '1105',
             'author': 'Takatoshi Suenaga, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20241,7 +20222,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1107',
+            'id': '1106',
             'author': 'Toshiyuki Umeda, Tomohiro Kuroda, Osamu Oshiro, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20258,7 +20239,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1108',
+            'id': '1107',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': '*** No English title in DB***',
             'year': '1999',
@@ -20276,7 +20257,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1109',
+            'id': '1108',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'S-TEL: An Avatar Based Sign Language Telecommunication System',
             'year': '1998',
@@ -20295,7 +20276,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1110',
+            'id': '1109',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'S-TEL: An Avatar Based Sign Language Telephone',
             'year': '1998',
@@ -20314,7 +20295,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1111',
+            'id': '1110',
             'author': 'Tomohiro Kuroda',
             'title': 'A Study on Avatar Based Sign Communication -S-TEL : a Sign Language Telephone-',
             'year': '1998',
@@ -20330,7 +20311,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1112',
+            'id': '1111',
             'author': 'Tomohiro Kuroda, Ayumu Matani, Kunihiro Chihara',
             'title': 'A Method to Support Tele-Diagnosis using Augmented Reality',
             'year': '1998',
@@ -20348,7 +20329,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1113',
+            'id': '1112',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'S-TEL: An Avatar Based Sign Language Telecommunication System',
             'year': '1998',
@@ -20366,7 +20347,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1114',
+            'id': '1113',
             'author': 'Tomohiro Kuroda',
             'title': 'New Image Compression Technique for Sector Scan Ultrasound Image',
             'year': '1998',
@@ -20384,7 +20365,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1115',
+            'id': '1114',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'A Study on Facia Action Handling on Avatar Based Sign Language Telecommunication',
             'year': '1998',
@@ -20404,7 +20385,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1116',
+            'id': '1115',
             'author': 'Masao Kitade, Tomohiro Kuroda, Ayumu Matani, Osamu Oshiro, Kunihiro Chihara',
             'title': 'A Method for Compressing and Transmitting Ultrasound B-mode Image in Telediagnosis',
             'year': '1998',
@@ -20422,7 +20403,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1117',
+            'id': '1116',
             'author': 'Shigetoki Iino, Tomohiro Kuroda, Ayumu Matani, Osamu Oshiro, Kunihiro Chihara',
             'title': 'An Instruction System for Ultrasound Tele Diagnosis using Augmented Reality',
             'year': '1998',
@@ -20440,7 +20421,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1118',
+            'id': '1117',
             'author': 'Shigetoki Iino, Tomohiro Kuroda, Ayumu Matani, Osamu Oshiro, Kunihiro Chihara',
             'title': 'An Instruction System for Ultrasound Tele Diagnosis using Augmented Reality',
             'year': '1998',
@@ -20458,7 +20439,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1119',
+            'id': '1118',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'Analysis on Facial Expression Parameters suitable for Avatar-based Sign Language Communication',
             'year': '1998',
@@ -20476,7 +20457,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1120',
+            'id': '1119',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'Basic Research on Display of Facial Expression on Avatar Based Sign Language Telecommunication System',
             'year': '1998',
@@ -20494,7 +20475,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1121',
+            'id': '1120',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'A Study on Readability of Computer-Graphics Signs in Sign Language Telecommunication System: S-TEL',
             'year': '1997',
@@ -20513,7 +20494,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1122',
+            'id': '1121',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'S-TEL: VR-based Sign Language Telecommunication System',
             'year': '1997',
@@ -20531,7 +20512,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1123',
+            'id': '1122',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'S-TEL: A Sign Language Telephone using Virtual Reality Technologies',
             'year': '1997',
@@ -20548,7 +20529,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1124',
+            'id': '1123',
             'author': 'Kosuke Sato, Tomohiro Kuroda',
             'title': 'Research of Facial Expression Transmission on Avatar-based Sign Language Telecommunication S-TEL',
             'year': '1997',
@@ -20566,7 +20547,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1125',
+            'id': '1124',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'An Estimation of Upper Body Motion with Three Magnetic Sensors',
             'year': '1997',
@@ -20585,7 +20566,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1126',
+            'id': '1125',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'Basic Analysis of Facial Expression Transmission on S-TEL A Sign Language Telephone',
             'year': '1997',
@@ -20603,7 +20584,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1127',
+            'id': '1126',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'Sign Language Telephone using Virtual Avatar and Facial Image',
             'year': '1997',
@@ -20621,7 +20602,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1128',
+            'id': '1127',
             'author': 'Tomohiro Kuroda',
             'title': 'S-TEL : A Telecommunication System for Sign Language',
             'year': '1996',
@@ -20637,7 +20618,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1129',
+            'id': '1128',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'Reconstruction of Signer\'s Action in a VR Telecommunication System for Sign Language',
             'year': '1996',
@@ -20655,7 +20636,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1130',
+            'id': '1129',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'S-TEL: A Telecommunication System for Sign Language',
             'year': '1996',
@@ -20673,7 +20654,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1131',
+            'id': '1130',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'S-TEL : A Sign Language Telephone',
             'year': '1996',
@@ -20691,7 +20672,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1132',
+            'id': '1131',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'Reconstructing Upper-body Motion of Signers in S-TEL : A Tele-communication System for Sign Language',
             'year': '1996',
@@ -20710,7 +20691,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1133',
+            'id': '1132',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'Basic Analysis on Communication Bandwidth of S-TEL A Sign Language Telephone',
             'year': '1996',
@@ -20728,7 +20709,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1134',
+            'id': '1133',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'A VR Telecommunication System in Sign Language',
             'year': '1995',
@@ -20746,7 +20727,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1135',
+            'id': '1134',
             'author': 'Tomohiro Kuroda, Kosuke Sato, Kunihiro Chihara',
             'title': 'System Configuration of 3D Visual Telecommunication in Sign Language',
             'year': '1995',
@@ -20764,7 +20745,7 @@ bibdatabase: [
             },
 
   {
-            'id': '1136',
+            'id': '1135',
             'author': 'Yuji Tsuhima, Hideya Akashi, Jin Xi Du, Masahiro Susukita, Tomohiro Kuroda, Shinichiro Mori, Hiroshi Nakashima, Shinji Tomita',
             'title': 'A Parallel Computer Architecture for Volume Rendering',
             'year': '1994',
