@@ -9,6 +9,10 @@ GoogleSheetからGAS→ローカル→マニュアル割り振り→python 2回�
 GoogleSheet→python
 ぐらいに詰めた
 
+～業績の更新方法 2024/5/10現在～
+①hp_publication_managementフォルダ内のapp.batファイルを起動
+②月日を入力（日付はプログラム上は認識していない）してDownFromGS→Agg1→bib2jsの順にクリック
+③srcフォルダ内にbiblist.jsファイルが作成されるため、FileZilaにupload。public_html/wp-content/upload/js内にあるbiblist.jsに上書きする形
 
 既存の
 aggregate_one_file.py  
